@@ -109,8 +109,8 @@ The latest proxy lists are available as:
 You can also run the scanner locally if you're connected to Mullvad VPN:
 
 ```bash
-chmod +x mullvad_socks_scan.sh
-./mullvad_socks_scan.sh my_proxy_list
+chmod +x mullvad_socks_scan_github.sh
+./mullvad_socks_scan_github.sh my_proxy_list
 ```
 
 ## How It Works
