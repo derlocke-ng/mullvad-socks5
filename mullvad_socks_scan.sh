@@ -7,6 +7,7 @@ DNS_SERVER="10.64.0.1"
 OUTPUT_PREFIX="${1:-mullvad_socks}" # Default output prefix
 TMP_JSON="/tmp/mullvad_relays.json"
 FOXY_JSON="${OUTPUT_PREFIX}_foxyproxy.json"
+SOCKS5_TXT="${OUTPUT_PREFIX}_socks5.txt"
 
 # Fetch Mullvad relays
 curl -s "$API_URL" -o "$TMP_JSON"
@@ -14,6 +15,7 @@ curl -s "$API_URL" -o "$TMP_JSON"
 # Prepare FoxyProxy JSON array
 echo '[' > "$FOXY_JSON"
 first=1
+true > "$SOCKS5_TXT"
 
 # Declare associative array for per-country JSON outputs
 declare -A country_json_files
@@ -102,11 +104,14 @@ jq -r '.[] | select(.type=="wireguard") | select(.socks_name != null) | [.socks_
   "city": "$city"
 }
 EOF
+        # Socks5 URL
+        cc=$(echo "$country" | awk '{print toupper(substr($1,1,2))}')
+        socks5_url="socks5://$internal_ip:$socks_port?cc=$cc&city=$(echo $city | sed 's/ /%20/g')"
+        echo "$socks5_url" >> "$SOCKS5_TXT"
         # Per-country file names
         country_safe=$(echo "$country" | tr ' ' '_' | tr -dc 'A-Za-z0-9_')
-        json_file="${OUTPUT_PREFIX}_${country_safe}_foxyproxy.json"
-        list_file="${OUTPUT_PREFIX}_${country_safe}_list.txt"
-        proxifier_file="${OUTPUT_PREFIX}_${country_safe}_proxifier.txt"
+        socks5_country_file="${OUTPUT_PREFIX}_${country_safe}_socks5.txt"
+        echo "$socks5_url" >> "$socks5_country_file"
 
         # Initialize per-country JSON file if not exists
         if [ ! -f "$json_file" ]; then echo '[' > "$json_file"; country_json_files[$country_safe]=0; fi
@@ -150,3 +155,4 @@ rm -f "$TMP_JSON"
 echo "\nWorking proxies saved to: ${OUTPUT_PREFIX}_list.txt"
 echo "Proxifier TXT: ${OUTPUT_PREFIX}_proxifier.txt"
 echo "FoxyProxy JSON: $FOXY_JSON"
+echo "Socks5 URLs: $SOCKS5_TXT"

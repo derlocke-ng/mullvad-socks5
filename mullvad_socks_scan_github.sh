@@ -8,6 +8,7 @@ API_URL="https://api.mullvad.net/www/relays/all/"
 OUTPUT_PREFIX="${1:-mullvad_socks}" 
 TMP_JSON="/tmp/mullvad_relays.json"
 FOXY_JSON="${OUTPUT_PREFIX}_foxyproxy.json"
+SOCKS5_TXT="${OUTPUT_PREFIX}_socks5.txt"
 
 echo "🔍 Fetching Mullvad relay data..."
 curl -s "$API_URL" -o "$TMP_JSON"
@@ -15,6 +16,7 @@ curl -s "$API_URL" -o "$TMP_JSON"
 # Prepare output files
 true > "${OUTPUT_PREFIX}_list.txt"
 true > "${OUTPUT_PREFIX}_proxifier.txt"
+true > "$SOCKS5_TXT"
 echo '[' > "$FOXY_JSON"
 first=1
 
@@ -147,6 +149,7 @@ EOF
         json_file="${OUTPUT_PREFIX}_${country_safe}_foxyproxy.json"
         list_file="${OUTPUT_PREFIX}_${country_safe}_list.txt"
         proxifier_file="${OUTPUT_PREFIX}_${country_safe}_proxifier.txt"
+        socks5_country_file="${OUTPUT_PREFIX}_${country_safe}_socks5.txt"
 
         # Initialize per-country JSON file if not exists
         if [ ! -f "$json_file" ]; then echo '[' > "$json_file"; country_json_files[$country_safe]=0; fi
@@ -174,6 +177,12 @@ EOF
   "city": "$city"
 }
 EOF
+        # SOCKS5 URL
+        cc=$(echo "$country" | awk '{print toupper(substr($1,1,2))}')
+        socks5_url="socks5://$internal_ip:$socks_port?cc=$cc&city=$(echo $city | sed 's/ /%20/g')"
+        echo "$socks5_url" >> "$SOCKS5_TXT"
+        echo "$socks5_url" >> "$socks5_country_file"
+
         echo -ne "\r✅ $socks_name -> $internal_ip:$socks_port                    \n"
     else
         echo -ne "\r❌ $socks_name (no internal IP resolved)                    \n"
@@ -198,6 +207,7 @@ echo "📁 Output files:"
 echo "  • Simple list: ${OUTPUT_PREFIX}_list.txt"
 echo "  • Proxifier format: ${OUTPUT_PREFIX}_proxifier.txt"  
 echo "  • FoxyProxy JSON: $FOXY_JSON"
+echo "  • SOCKS5 URLs: $SOCKS5_TXT"
 
 # If no VPN connection detected, provide helpful message
 if [ $working_count -eq 0 ]; then

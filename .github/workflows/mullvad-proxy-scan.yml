@@ -62,6 +62,11 @@ jobs:
           mullvad_proxies_list.txt
           mullvad_proxies_proxifier.txt
           mullvad_proxies_foxyproxy.json
+          mullvad_proxies_socks5.txt
+          mullvad_proxies_*_list.txt
+          mullvad_proxies_*_proxifier.txt
+          mullvad_proxies_*_foxyproxy.json
+          mullvad_proxies_*_socks5.txt
         retention-days: 30
         
     - name: Create/Update Release
@@ -76,10 +81,17 @@ jobs:
           - mullvad_proxies_list.txt (IP:port)
           - mullvad_proxies_proxifier.txt (IP port SOCKS5)
           - mullvad_proxies_foxyproxy.json (FoxyProxy import)
+          - mullvad_proxies_socks5.txt (socks5:// URLs)
+          - Per-country files: *_list.txt, *_proxifier.txt, *_foxyproxy.json, *_socks5.txt
         files: |
           mullvad_proxies_list.txt
           mullvad_proxies_proxifier.txt
           mullvad_proxies_foxyproxy.json
+          mullvad_proxies_socks5.txt
+          mullvad_proxies_*_list.txt
+          mullvad_proxies_*_proxifier.txt
+          mullvad_proxies_*_foxyproxy.json
+          mullvad_proxies_*_socks5.txt
         draft: false
         prerelease: false
         overwrite: true

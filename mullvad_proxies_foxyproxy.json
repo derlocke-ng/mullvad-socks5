@@ -1,0 +1,7686 @@
+[
+{
+  "title": "al-tia-wg-socks5-001.relays.mullvad.net (31.171.153.66)",
+  "type": 3,
+  "host": "10.124.0.155",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff4444",
+  "country": "Albania",
+  "city": "Tirana"
+}
+,
+{
+  "title": "al-tia-wg-socks5-002.relays.mullvad.net (31.171.154.50)",
+  "type": 3,
+  "host": "10.124.0.212",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff4444",
+  "country": "Albania",
+  "city": "Tirana"
+}
+,
+{
+  "title": "at-vie-wg-socks5-001.relays.mullvad.net (146.70.116.98)",
+  "type": 3,
+  "host": "10.124.2.35",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff0000",
+  "country": "Austria",
+  "city": "Vienna"
+}
+,
+{
+  "title": "at-vie-wg-socks5-002.relays.mullvad.net (146.70.116.130)",
+  "type": 3,
+  "host": "10.124.2.36",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff0000",
+  "country": "Austria",
+  "city": "Vienna"
+}
+,
+{
+  "title": "at-vie-wg-socks5-003.relays.mullvad.net (146.70.116.162)",
+  "type": 3,
+  "host": "10.124.2.37",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff0000",
+  "country": "Austria",
+  "city": "Vienna"
+}
+,
+{
+  "title": "at-vie-wg-socks5-101.relays.mullvad.net (185.24.11.130)",
+  "type": 3,
+  "host": "10.124.1.73",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff0000",
+  "country": "Austria",
+  "city": "Vienna"
+}
+,
+{
+  "title": "at-vie-wg-socks5-102.relays.mullvad.net (185.24.11.159)",
+  "type": 3,
+  "host": "10.124.1.74",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff0000",
+  "country": "Austria",
+  "city": "Vienna"
+}
+,
+{
+  "title": "au-adl-wg-socks5-301.relays.mullvad.net (103.214.20.50)",
+  "type": 3,
+  "host": "10.124.0.99",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ffaa00",
+  "country": "Australia",
+  "city": "Adelaide"
+}
+,
+{
+  "title": "au-adl-wg-socks5-302.relays.mullvad.net (103.214.20.130)",
+  "type": 3,
+  "host": "10.124.0.156",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ffaa00",
+  "country": "Australia",
+  "city": "Adelaide"
+}
+,
+{
+  "title": "au-bne-wg-socks5-301.relays.mullvad.net (103.216.220.18)",
+  "type": 3,
+  "host": "10.124.0.220",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ffaa00",
+  "country": "Australia",
+  "city": "Brisbane"
+}
+,
+{
+  "title": "au-bne-wg-socks5-302.relays.mullvad.net (103.216.220.34)",
+  "type": 3,
+  "host": "10.124.0.221",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ffaa00",
+  "country": "Australia",
+  "city": "Brisbane"
+}
+,
+{
+  "title": "au-mel-wg-socks5-301.relays.mullvad.net (103.108.229.50)",
+  "type": 3,
+  "host": "10.124.1.53",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ffaa00",
+  "country": "Australia",
+  "city": "Melbourne"
+}
+,
+{
+  "title": "au-mel-wg-socks5-302.relays.mullvad.net (103.108.229.66)",
+  "type": 3,
+  "host": "10.124.1.54",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ffaa00",
+  "country": "Australia",
+  "city": "Melbourne"
+}
+,
+{
+  "title": "au-per-wg-socks5-301.relays.mullvad.net (103.108.231.50)",
+  "type": 3,
+  "host": "10.124.1.55",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ffaa00",
+  "country": "Australia",
+  "city": "Perth"
+}
+,
+{
+  "title": "au-per-wg-socks5-302.relays.mullvad.net (103.108.231.66)",
+  "type": 3,
+  "host": "10.124.1.57",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ffaa00",
+  "country": "Australia",
+  "city": "Perth"
+}
+,
+{
+  "title": "au-syd-wg-socks5-001.relays.mullvad.net (146.70.200.2)",
+  "type": 3,
+  "host": "10.124.0.36",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ffaa00",
+  "country": "Australia",
+  "city": "Sydney"
+}
+,
+{
+  "title": "au-syd-wg-socks5-002.relays.mullvad.net (146.70.141.194)",
+  "type": 3,
+  "host": "10.124.0.37",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ffaa00",
+  "country": "Australia",
+  "city": "Sydney"
+}
+,
+{
+  "title": "au-syd-wg-socks5-003.relays.mullvad.net (146.70.200.194)",
+  "type": 3,
+  "host": "10.124.0.42",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ffaa00",
+  "country": "Australia",
+  "city": "Sydney"
+}
+,
+{
+  "title": "au-syd-wg-socks5-101.relays.mullvad.net (103.136.147.3)",
+  "type": 3,
+  "host": "10.124.0.214",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ffaa00",
+  "country": "Australia",
+  "city": "Sydney"
+}
+,
+{
+  "title": "au-syd-wg-socks5-102.relays.mullvad.net (103.136.147.65)",
+  "type": 3,
+  "host": "10.124.0.215",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ffaa00",
+  "country": "Australia",
+  "city": "Sydney"
+}
+,
+{
+  "title": "au-syd-wg-socks5-103.relays.mullvad.net (103.136.147.129)",
+  "type": 3,
+  "host": "10.124.0.141",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ffaa00",
+  "country": "Australia",
+  "city": "Sydney"
+}
+,
+{
+  "title": "au-syd-wg-socks5-104.relays.mullvad.net (103.136.147.197)",
+  "type": 3,
+  "host": "10.124.0.211",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ffaa00",
+  "country": "Australia",
+  "city": "Sydney"
+}
+,
+{
+  "title": "be-bru-wg-socks5-101.relays.mullvad.net (91.90.123.2)",
+  "type": 3,
+  "host": "10.124.2.42",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ffff00",
+  "country": "Belgium",
+  "city": "Brussels"
+}
+,
+{
+  "title": "be-bru-wg-socks5-102.relays.mullvad.net (194.110.115.34)",
+  "type": 3,
+  "host": "10.124.2.43",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ffff00",
+  "country": "Belgium",
+  "city": "Brussels"
+}
+,
+{
+  "title": "be-bru-wg-socks5-103.relays.mullvad.net (194.110.115.2)",
+  "type": 3,
+  "host": "10.124.2.44",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ffff00",
+  "country": "Belgium",
+  "city": "Brussels"
+}
+,
+{
+  "title": "bg-sof-wg-socks5-001.relays.mullvad.net (146.70.188.130)",
+  "type": 3,
+  "host": "10.124.0.225",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#00ff00",
+  "country": "Bulgaria",
+  "city": "Sofia"
+}
+,
+{
+  "title": "bg-sof-wg-socks5-002.relays.mullvad.net (146.70.188.194)",
+  "type": 3,
+  "host": "10.124.0.226",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#00ff00",
+  "country": "Bulgaria",
+  "city": "Sofia"
+}
+,
+{
+  "title": "br-for-wg-socks5-001.relays.mullvad.net (98.98.12.178)",
+  "type": 3,
+  "host": "10.124.0.10",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#00aa00",
+  "country": "Brazil",
+  "city": "Fortaleza"
+}
+,
+{
+  "title": "br-for-wg-socks5-002.relays.mullvad.net (98.98.12.182)",
+  "type": 3,
+  "host": "10.124.0.12",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#00aa00",
+  "country": "Brazil",
+  "city": "Fortaleza"
+}
+,
+{
+  "title": "br-sao-wg-socks5-001.relays.mullvad.net (149.78.184.194)",
+  "type": 3,
+  "host": "10.124.0.194",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#00aa00",
+  "country": "Brazil",
+  "city": "Sao Paulo"
+}
+,
+{
+  "title": "br-sao-wg-socks5-201.relays.mullvad.net (169.150.198.66)",
+  "type": 3,
+  "host": "10.124.2.31",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#00aa00",
+  "country": "Brazil",
+  "city": "Sao Paulo"
+}
+,
+{
+  "title": "br-sao-wg-socks5-202.relays.mullvad.net (169.150.198.79)",
+  "type": 3,
+  "host": "10.124.2.32",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#00aa00",
+  "country": "Brazil",
+  "city": "Sao Paulo"
+}
+,
+{
+  "title": "ca-mtr-wg-socks5-001.relays.mullvad.net (146.70.198.66)",
+  "type": 3,
+  "host": "10.124.0.231",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff0066",
+  "country": "Canada",
+  "city": "Montreal"
+}
+,
+{
+  "title": "ca-mtr-wg-socks5-002.relays.mullvad.net (146.70.198.130)",
+  "type": 3,
+  "host": "10.124.0.232",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff0066",
+  "country": "Canada",
+  "city": "Montreal"
+}
+,
+{
+  "title": "ca-mtr-wg-socks5-003.relays.mullvad.net (146.70.198.194)",
+  "type": 3,
+  "host": "10.124.0.233",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff0066",
+  "country": "Canada",
+  "city": "Montreal"
+}
+,
+{
+  "title": "ca-mtr-wg-socks5-004.relays.mullvad.net (188.241.176.194)",
+  "type": 3,
+  "host": "10.124.0.234",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff0066",
+  "country": "Canada",
+  "city": "Montreal"
+}
+,
+{
+  "title": "ca-mtr-wg-socks5-201.relays.mullvad.net (62.93.167.130)",
+  "type": 3,
+  "host": "10.124.0.168",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff0066",
+  "country": "Canada",
+  "city": "Montreal"
+}
+,
+{
+  "title": "ca-mtr-wg-socks5-202.relays.mullvad.net (62.93.167.160)",
+  "type": 3,
+  "host": "10.124.0.171",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff0066",
+  "country": "Canada",
+  "city": "Montreal"
+}
+,
+{
+  "title": "ca-tor-wg-socks5-001.relays.mullvad.net (178.249.214.2)",
+  "type": 3,
+  "host": "10.124.1.235",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff0066",
+  "country": "Canada",
+  "city": "Toronto"
+}
+,
+{
+  "title": "ca-tor-wg-socks5-002.relays.mullvad.net (178.249.214.15)",
+  "type": 3,
+  "host": "10.124.1.236",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff0066",
+  "country": "Canada",
+  "city": "Toronto"
+}
+,
+{
+  "title": "ca-tor-wg-socks5-101.relays.mullvad.net (198.44.140.130)",
+  "type": 3,
+  "host": "10.124.0.47",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff0066",
+  "country": "Canada",
+  "city": "Toronto"
+}
+,
+{
+  "title": "ca-tor-wg-socks5-102.relays.mullvad.net (198.54.132.98)",
+  "type": 3,
+  "host": "10.124.0.51",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff0066",
+  "country": "Canada",
+  "city": "Toronto"
+}
+,
+{
+  "title": "ca-tor-wg-socks5-103.relays.mullvad.net (198.54.132.226)",
+  "type": 3,
+  "host": "10.124.0.63",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff0066",
+  "country": "Canada",
+  "city": "Toronto"
+}
+,
+{
+  "title": "ca-tor-wg-socks5-104.relays.mullvad.net (198.54.132.130)",
+  "type": 3,
+  "host": "10.124.0.66",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff0066",
+  "country": "Canada",
+  "city": "Toronto"
+}
+,
+{
+  "title": "ca-tor-wg-socks5-105.relays.mullvad.net (198.44.140.162)",
+  "type": 3,
+  "host": "10.124.0.67",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff0066",
+  "country": "Canada",
+  "city": "Toronto"
+}
+,
+{
+  "title": "ca-tor-wg-socks5-106.relays.mullvad.net (198.54.132.162)",
+  "type": 3,
+  "host": "10.124.0.68",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff0066",
+  "country": "Canada",
+  "city": "Toronto"
+}
+,
+{
+  "title": "ca-tor-wg-socks5-107.relays.mullvad.net (198.44.140.194)",
+  "type": 3,
+  "host": "10.124.0.15",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff0066",
+  "country": "Canada",
+  "city": "Toronto"
+}
+,
+{
+  "title": "ca-tor-wg-socks5-201.relays.mullvad.net (23.234.84.2)",
+  "type": 3,
+  "host": "10.124.0.81",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff0066",
+  "country": "Canada",
+  "city": "Toronto"
+}
+,
+{
+  "title": "ca-tor-wg-socks5-202.relays.mullvad.net (23.234.84.127)",
+  "type": 3,
+  "host": "10.124.1.110",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff0066",
+  "country": "Canada",
+  "city": "Toronto"
+}
+,
+{
+  "title": "ca-tor-wg-socks5-203.relays.mullvad.net (23.234.85.2)",
+  "type": 3,
+  "host": "10.124.1.111",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff0066",
+  "country": "Canada",
+  "city": "Toronto"
+}
+,
+{
+  "title": "ca-tor-wg-socks5-204.relays.mullvad.net (23.234.85.127)",
+  "type": 3,
+  "host": "10.124.1.112",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff0066",
+  "country": "Canada",
+  "city": "Toronto"
+}
+,
+{
+  "title": "ca-tor-wg-socks5-205.relays.mullvad.net (23.234.86.2)",
+  "type": 3,
+  "host": "10.124.1.113",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff0066",
+  "country": "Canada",
+  "city": "Toronto"
+}
+,
+{
+  "title": "ca-tor-wg-socks5-206.relays.mullvad.net (23.234.86.127)",
+  "type": 3,
+  "host": "10.124.1.114",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff0066",
+  "country": "Canada",
+  "city": "Toronto"
+}
+,
+{
+  "title": "ca-tor-wg-socks5-207.relays.mullvad.net (23.234.87.2)",
+  "type": 3,
+  "host": "10.124.1.115",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff0066",
+  "country": "Canada",
+  "city": "Toronto"
+}
+,
+{
+  "title": "ca-van-wg-socks5-201.relays.mullvad.net (104.193.135.196)",
+  "type": 3,
+  "host": "10.124.0.13",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff0066",
+  "country": "Canada",
+  "city": "Vancouver"
+}
+,
+{
+  "title": "ca-van-wg-socks5-202.relays.mullvad.net (104.193.135.100)",
+  "type": 3,
+  "host": "10.124.0.71",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff0066",
+  "country": "Canada",
+  "city": "Vancouver"
+}
+,
+{
+  "title": "ca-van-wg-socks5-301.relays.mullvad.net (149.22.81.194)",
+  "type": 3,
+  "host": "10.124.1.65",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff0066",
+  "country": "Canada",
+  "city": "Vancouver"
+}
+,
+{
+  "title": "ca-van-wg-socks5-302.relays.mullvad.net (149.22.81.207)",
+  "type": 3,
+  "host": "10.124.1.66",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff0066",
+  "country": "Canada",
+  "city": "Vancouver"
+}
+,
+{
+  "title": "ca-yyc-wg-socks5-201.relays.mullvad.net (38.240.225.36)",
+  "type": 3,
+  "host": "10.124.0.174",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff0066",
+  "country": "Canada",
+  "city": "Calgary"
+}
+,
+{
+  "title": "ca-yyc-wg-socks5-202.relays.mullvad.net (38.240.225.68)",
+  "type": 3,
+  "host": "10.124.0.178",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff0066",
+  "country": "Canada",
+  "city": "Calgary"
+}
+,
+{
+  "title": "ch-zrh-wg-socks5-001.relays.mullvad.net (193.32.127.66)",
+  "type": 3,
+  "host": "10.124.0.121",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff4400",
+  "country": "Switzerland",
+  "city": "Zurich"
+}
+,
+{
+  "title": "ch-zrh-wg-socks5-002.relays.mullvad.net (193.32.127.67)",
+  "type": 3,
+  "host": "10.124.0.122",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff4400",
+  "country": "Switzerland",
+  "city": "Zurich"
+}
+,
+{
+  "title": "ch-zrh-wg-socks5-003.relays.mullvad.net (193.32.127.68)",
+  "type": 3,
+  "host": "10.124.0.123",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff4400",
+  "country": "Switzerland",
+  "city": "Zurich"
+}
+,
+{
+  "title": "ch-zrh-wg-socks5-004.relays.mullvad.net (193.32.127.69)",
+  "type": 3,
+  "host": "10.124.0.124",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff4400",
+  "country": "Switzerland",
+  "city": "Zurich"
+}
+,
+{
+  "title": "ch-zrh-wg-socks5-005.relays.mullvad.net (193.32.127.70)",
+  "type": 3,
+  "host": "10.124.0.125",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff4400",
+  "country": "Switzerland",
+  "city": "Zurich"
+}
+,
+{
+  "title": "ch-zrh-wg-socks5-006.relays.mullvad.net (193.32.127.84)",
+  "type": 3,
+  "host": "10.124.0.241",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff4400",
+  "country": "Switzerland",
+  "city": "Zurich"
+}
+,
+{
+  "title": "ch-zrh-wg-socks5-201.relays.mullvad.net (179.43.189.66)",
+  "type": 3,
+  "host": "10.124.0.105",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff4400",
+  "country": "Switzerland",
+  "city": "Zurich"
+}
+,
+{
+  "title": "ch-zrh-wg-socks5-202.relays.mullvad.net (46.19.136.226)",
+  "type": 3,
+  "host": "10.124.0.106",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff4400",
+  "country": "Switzerland",
+  "city": "Zurich"
+}
+,
+{
+  "title": "ch-zrh-wg-socks5-401.relays.mullvad.net (138.199.6.194)",
+  "type": 3,
+  "host": "10.124.1.213",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff4400",
+  "country": "Switzerland",
+  "city": "Zurich"
+}
+,
+{
+  "title": "ch-zrh-wg-socks5-402.relays.mullvad.net (138.199.6.207)",
+  "type": 3,
+  "host": "10.124.1.214",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff4400",
+  "country": "Switzerland",
+  "city": "Zurich"
+}
+,
+{
+  "title": "ch-zrh-wg-socks5-403.relays.mullvad.net (138.199.6.220)",
+  "type": 3,
+  "host": "10.124.1.215",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff4400",
+  "country": "Switzerland",
+  "city": "Zurich"
+}
+,
+{
+  "title": "ch-zrh-wg-socks5-404.relays.mullvad.net (138.199.6.233)",
+  "type": 3,
+  "host": "10.124.1.216",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff4400",
+  "country": "Switzerland",
+  "city": "Zurich"
+}
+,
+{
+  "title": "ch-zrh-wg-socks5-501.relays.mullvad.net (146.70.134.98)",
+  "type": 3,
+  "host": "10.124.2.12",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff4400",
+  "country": "Switzerland",
+  "city": "Zurich"
+}
+,
+{
+  "title": "ch-zrh-wg-socks5-502.relays.mullvad.net (146.70.126.162)",
+  "type": 3,
+  "host": "10.124.2.6",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff4400",
+  "country": "Switzerland",
+  "city": "Zurich"
+}
+,
+{
+  "title": "ch-zrh-wg-socks5-503.relays.mullvad.net (146.70.126.194)",
+  "type": 3,
+  "host": "10.124.2.7",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff4400",
+  "country": "Switzerland",
+  "city": "Zurich"
+}
+,
+{
+  "title": "ch-zrh-wg-socks5-504.relays.mullvad.net (146.70.126.226)",
+  "type": 3,
+  "host": "10.124.2.8",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff4400",
+  "country": "Switzerland",
+  "city": "Zurich"
+}
+,
+{
+  "title": "ch-zrh-wg-socks5-505.relays.mullvad.net (146.70.134.2)",
+  "type": 3,
+  "host": "10.124.2.9",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff4400",
+  "country": "Switzerland",
+  "city": "Zurich"
+}
+,
+{
+  "title": "ch-zrh-wg-socks5-506.relays.mullvad.net (146.70.134.34)",
+  "type": 3,
+  "host": "10.124.2.10",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff4400",
+  "country": "Switzerland",
+  "city": "Zurich"
+}
+,
+{
+  "title": "ch-zrh-wg-socks5-507.relays.mullvad.net (146.70.134.66)",
+  "type": 3,
+  "host": "10.124.2.11",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff4400",
+  "country": "Switzerland",
+  "city": "Zurich"
+}
+,
+{
+  "title": "cl-scl-wg-socks5-001.relays.mullvad.net (149.88.104.2)",
+  "type": 3,
+  "host": "10.124.1.20",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0000ff",
+  "country": "Chile",
+  "city": "Santiago"
+}
+,
+{
+  "title": "cl-scl-wg-socks5-002.relays.mullvad.net (149.88.104.15)",
+  "type": 3,
+  "host": "10.124.1.21",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0000ff",
+  "country": "Chile",
+  "city": "Santiago"
+}
+,
+{
+  "title": "co-bog-wg-socks5-001.relays.mullvad.net (154.47.16.34)",
+  "type": 3,
+  "host": "10.124.0.216",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ffff66",
+  "country": "Colombia",
+  "city": "Bogota"
+}
+,
+{
+  "title": "co-bog-wg-socks5-002.relays.mullvad.net (154.47.16.47)",
+  "type": 3,
+  "host": "10.124.0.217",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ffff66",
+  "country": "Colombia",
+  "city": "Bogota"
+}
+,
+{
+  "title": "cy-nic-wg-socks5-001.relays.mullvad.net (195.47.194.131)",
+  "type": 3,
+  "host": "10.124.1.83",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#00ffff",
+  "country": "Cyprus",
+  "city": "Nicosia"
+}
+,
+{
+  "title": "cy-nic-wg-socks5-002.relays.mullvad.net (195.47.194.161)",
+  "type": 3,
+  "host": "10.124.1.84",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#00ffff",
+  "country": "Cyprus",
+  "city": "Nicosia"
+}
+,
+{
+  "title": "cz-prg-wg-socks5-101.relays.mullvad.net (146.70.129.98)",
+  "type": 3,
+  "host": "10.124.2.33",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#aa00aa",
+  "country": "Czech Republic",
+  "city": "Prague"
+}
+,
+{
+  "title": "cz-prg-wg-socks5-102.relays.mullvad.net (146.70.129.130)",
+  "type": 3,
+  "host": "10.124.2.34",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#aa00aa",
+  "country": "Czech Republic",
+  "city": "Prague"
+}
+,
+{
+  "title": "cz-prg-wg-socks5-201.relays.mullvad.net (178.249.209.162)",
+  "type": 3,
+  "host": "10.124.2.57",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#aa00aa",
+  "country": "Czech Republic",
+  "city": "Prague"
+}
+,
+{
+  "title": "cz-prg-wg-socks5-202.relays.mullvad.net (178.249.209.175)",
+  "type": 3,
+  "host": "10.124.2.58",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#aa00aa",
+  "country": "Czech Republic",
+  "city": "Prague"
+}
+,
+{
+  "title": "de-ber-wg-socks5-001.relays.mullvad.net (193.32.248.66)",
+  "type": 3,
+  "host": "10.124.0.7",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#000000",
+  "country": "Germany",
+  "city": "Berlin"
+}
+,
+{
+  "title": "de-ber-wg-socks5-002.relays.mullvad.net (193.32.248.67)",
+  "type": 3,
+  "host": "10.124.0.8",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#000000",
+  "country": "Germany",
+  "city": "Berlin"
+}
+,
+{
+  "title": "de-ber-wg-socks5-003.relays.mullvad.net (193.32.248.68)",
+  "type": 3,
+  "host": "10.124.0.9",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#000000",
+  "country": "Germany",
+  "city": "Berlin"
+}
+,
+{
+  "title": "de-ber-wg-socks5-004.relays.mullvad.net (193.32.248.69)",
+  "type": 3,
+  "host": "10.124.0.55",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#000000",
+  "country": "Germany",
+  "city": "Berlin"
+}
+,
+{
+  "title": "de-ber-wg-socks5-005.relays.mullvad.net (193.32.248.70)",
+  "type": 3,
+  "host": "10.124.0.179",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#000000",
+  "country": "Germany",
+  "city": "Berlin"
+}
+,
+{
+  "title": "de-ber-wg-socks5-006.relays.mullvad.net (193.32.248.71)",
+  "type": 3,
+  "host": "10.124.0.196",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#000000",
+  "country": "Germany",
+  "city": "Berlin"
+}
+,
+{
+  "title": "de-ber-wg-socks5-007.relays.mullvad.net (193.32.248.75)",
+  "type": 3,
+  "host": "10.124.0.239",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#000000",
+  "country": "Germany",
+  "city": "Berlin"
+}
+,
+{
+  "title": "de-ber-wg-socks5-008.relays.mullvad.net (193.32.248.74)",
+  "type": 3,
+  "host": "10.124.0.101",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#000000",
+  "country": "Germany",
+  "city": "Berlin"
+}
+,
+{
+  "title": "de-dus-wg-socks5-001.relays.mullvad.net (185.254.75.3)",
+  "type": 3,
+  "host": "10.124.0.30",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#000000",
+  "country": "Germany",
+  "city": "Dusseldorf"
+}
+,
+{
+  "title": "de-dus-wg-socks5-002.relays.mullvad.net (185.254.75.4)",
+  "type": 3,
+  "host": "10.124.0.91",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#000000",
+  "country": "Germany",
+  "city": "Dusseldorf"
+}
+,
+{
+  "title": "de-dus-wg-socks5-003.relays.mullvad.net (185.254.75.5)",
+  "type": 3,
+  "host": "10.124.0.92",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#000000",
+  "country": "Germany",
+  "city": "Dusseldorf"
+}
+,
+{
+  "title": "de-fra-wg-socks5-001.relays.mullvad.net (185.213.155.73)",
+  "type": 3,
+  "host": "10.124.0.53",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#000000",
+  "country": "Germany",
+  "city": "Frankfurt"
+}
+,
+{
+  "title": "de-fra-wg-socks5-002.relays.mullvad.net (185.213.155.74)",
+  "type": 3,
+  "host": "10.124.0.54",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#000000",
+  "country": "Germany",
+  "city": "Frankfurt"
+}
+,
+{
+  "title": "de-fra-wg-socks5-003.relays.mullvad.net (185.209.196.73)",
+  "type": 3,
+  "host": "10.124.1.23",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#000000",
+  "country": "Germany",
+  "city": "Frankfurt"
+}
+,
+{
+  "title": "de-fra-wg-socks5-004.relays.mullvad.net (185.209.196.74)",
+  "type": 3,
+  "host": "10.124.1.26",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#000000",
+  "country": "Germany",
+  "city": "Frankfurt"
+}
+,
+{
+  "title": "de-fra-wg-socks5-005.relays.mullvad.net (185.209.196.75)",
+  "type": 3,
+  "host": "10.124.1.27",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#000000",
+  "country": "Germany",
+  "city": "Frankfurt"
+}
+,
+{
+  "title": "de-fra-wg-socks5-006.relays.mullvad.net (185.209.196.76)",
+  "type": 3,
+  "host": "10.124.0.222",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#000000",
+  "country": "Germany",
+  "city": "Frankfurt"
+}
+,
+{
+  "title": "de-fra-wg-socks5-007.relays.mullvad.net (185.209.196.77)",
+  "type": 3,
+  "host": "10.124.1.24",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#000000",
+  "country": "Germany",
+  "city": "Frankfurt"
+}
+,
+{
+  "title": "de-fra-wg-socks5-008.relays.mullvad.net (185.209.196.78)",
+  "type": 3,
+  "host": "10.124.1.25",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#000000",
+  "country": "Germany",
+  "city": "Frankfurt"
+}
+,
+{
+  "title": "de-fra-wg-socks5-009.relays.mullvad.net (185.213.155.72)",
+  "type": 3,
+  "host": "10.124.0.240",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#000000",
+  "country": "Germany",
+  "city": "Frankfurt"
+}
+,
+{
+  "title": "de-fra-wg-socks5-101.relays.mullvad.net (146.70.117.162)",
+  "type": 3,
+  "host": "10.124.1.243",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#000000",
+  "country": "Germany",
+  "city": "Frankfurt"
+}
+,
+{
+  "title": "de-fra-wg-socks5-102.relays.mullvad.net (146.70.117.194)",
+  "type": 3,
+  "host": "10.124.1.238",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#000000",
+  "country": "Germany",
+  "city": "Frankfurt"
+}
+,
+{
+  "title": "de-fra-wg-socks5-103.relays.mullvad.net (146.70.117.226)",
+  "type": 3,
+  "host": "10.124.1.239",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#000000",
+  "country": "Germany",
+  "city": "Frankfurt"
+}
+,
+{
+  "title": "de-fra-wg-socks5-104.relays.mullvad.net (146.70.107.194)",
+  "type": 3,
+  "host": "10.124.1.240",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#000000",
+  "country": "Germany",
+  "city": "Frankfurt"
+}
+,
+{
+  "title": "de-fra-wg-socks5-105.relays.mullvad.net (146.70.117.2)",
+  "type": 3,
+  "host": "10.124.1.241",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#000000",
+  "country": "Germany",
+  "city": "Frankfurt"
+}
+,
+{
+  "title": "de-fra-wg-socks5-106.relays.mullvad.net (146.70.117.34)",
+  "type": 3,
+  "host": "10.124.1.242",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#000000",
+  "country": "Germany",
+  "city": "Frankfurt"
+}
+,
+{
+  "title": "de-fra-wg-socks5-301.relays.mullvad.net (194.36.25.3)",
+  "type": 3,
+  "host": "10.124.1.30",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#000000",
+  "country": "Germany",
+  "city": "Frankfurt"
+}
+,
+{
+  "title": "de-fra-wg-socks5-302.relays.mullvad.net (194.36.25.18)",
+  "type": 3,
+  "host": "10.124.1.31",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#000000",
+  "country": "Germany",
+  "city": "Frankfurt"
+}
+,
+{
+  "title": "de-fra-wg-socks5-303.relays.mullvad.net (194.36.25.33)",
+  "type": 3,
+  "host": "10.124.1.32",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#000000",
+  "country": "Germany",
+  "city": "Frankfurt"
+}
+,
+{
+  "title": "de-fra-wg-socks5-304.relays.mullvad.net (194.36.25.48)",
+  "type": 3,
+  "host": "10.124.1.33",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#000000",
+  "country": "Germany",
+  "city": "Frankfurt"
+}
+,
+{
+  "title": "de-fra-wg-socks5-401.relays.mullvad.net (169.150.201.2)",
+  "type": 3,
+  "host": "10.124.1.250",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#000000",
+  "country": "Germany",
+  "city": "Frankfurt"
+}
+,
+{
+  "title": "de-fra-wg-socks5-402.relays.mullvad.net (169.150.201.15)",
+  "type": 3,
+  "host": "10.124.1.251",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#000000",
+  "country": "Germany",
+  "city": "Frankfurt"
+}
+,
+{
+  "title": "de-fra-wg-socks5-403.relays.mullvad.net (169.150.201.28)",
+  "type": 3,
+  "host": "10.124.1.252",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#000000",
+  "country": "Germany",
+  "city": "Frankfurt"
+}
+,
+{
+  "title": "dk-cph-wg-socks5-001.relays.mullvad.net (45.129.56.67)",
+  "type": 3,
+  "host": "10.124.0.64",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff0000",
+  "country": "Denmark",
+  "city": "Copenhagen"
+}
+,
+{
+  "title": "dk-cph-wg-socks5-002.relays.mullvad.net (45.129.56.68)",
+  "type": 3,
+  "host": "10.124.0.17",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff0000",
+  "country": "Denmark",
+  "city": "Copenhagen"
+}
+,
+{
+  "title": "dk-cph-wg-socks5-401.relays.mullvad.net (146.70.197.194)",
+  "type": 3,
+  "host": "10.124.0.229",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff0000",
+  "country": "Denmark",
+  "city": "Copenhagen"
+}
+,
+{
+  "title": "dk-cph-wg-socks5-402.relays.mullvad.net (146.70.197.130)",
+  "type": 3,
+  "host": "10.124.0.230",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff0000",
+  "country": "Denmark",
+  "city": "Copenhagen"
+}
+,
+{
+  "title": "ee-tll-wg-socks5-001.relays.mullvad.net (194.127.167.67)",
+  "type": 3,
+  "host": "10.124.0.138",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0066ff",
+  "country": "Estonia",
+  "city": "Tallinn"
+}
+,
+{
+  "title": "ee-tll-wg-socks5-002.relays.mullvad.net (194.127.167.87)",
+  "type": 3,
+  "host": "10.124.0.139",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0066ff",
+  "country": "Estonia",
+  "city": "Tallinn"
+}
+,
+{
+  "title": "ee-tll-wg-socks5-003.relays.mullvad.net (194.127.167.107)",
+  "type": 3,
+  "host": "10.124.0.140",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0066ff",
+  "country": "Estonia",
+  "city": "Tallinn"
+}
+,
+{
+  "title": "es-bcn-wg-socks5-001.relays.mullvad.net (185.188.61.195)",
+  "type": 3,
+  "host": "10.124.0.252",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#aa8800",
+  "country": "Spain",
+  "city": "Barcelona"
+}
+,
+{
+  "title": "es-bcn-wg-socks5-002.relays.mullvad.net (185.188.61.225)",
+  "type": 3,
+  "host": "10.124.0.253",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#aa8800",
+  "country": "Spain",
+  "city": "Barcelona"
+}
+,
+{
+  "title": "es-bcn-wg-socks5-101.relays.mullvad.net (185.253.99.30)",
+  "type": 3,
+  "host": "10.124.1.69",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#aa8800",
+  "country": "Spain",
+  "city": "Barcelona"
+}
+,
+{
+  "title": "es-bcn-wg-socks5-102.relays.mullvad.net (185.253.99.98)",
+  "type": 3,
+  "host": "10.124.1.70",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#aa8800",
+  "country": "Spain",
+  "city": "Barcelona"
+}
+,
+{
+  "title": "es-mad-wg-socks5-101.relays.mullvad.net (45.134.213.194)",
+  "type": 3,
+  "host": "10.124.1.223",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#aa8800",
+  "country": "Spain",
+  "city": "Madrid"
+}
+,
+{
+  "title": "es-mad-wg-socks5-102.relays.mullvad.net (45.134.213.207)",
+  "type": 3,
+  "host": "10.124.1.222",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#aa8800",
+  "country": "Spain",
+  "city": "Madrid"
+}
+,
+{
+  "title": "es-mad-wg-socks5-201.relays.mullvad.net (146.70.128.194)",
+  "type": 3,
+  "host": "10.124.2.28",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#aa8800",
+  "country": "Spain",
+  "city": "Madrid"
+}
+,
+{
+  "title": "es-mad-wg-socks5-202.relays.mullvad.net (146.70.128.226)",
+  "type": 3,
+  "host": "10.124.2.47",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#aa8800",
+  "country": "Spain",
+  "city": "Madrid"
+}
+,
+{
+  "title": "es-vlc-wg-socks5-001.relays.mullvad.net (193.19.207.195)",
+  "type": 3,
+  "host": "10.124.1.2",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#aa8800",
+  "country": "Spain",
+  "city": "Valencia"
+}
+,
+{
+  "title": "es-vlc-wg-socks5-002.relays.mullvad.net (193.19.207.225)",
+  "type": 3,
+  "host": "10.124.1.3",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#aa8800",
+  "country": "Spain",
+  "city": "Valencia"
+}
+,
+{
+  "title": "fi-hel-wg-socks5-001.relays.mullvad.net (185.204.1.203)",
+  "type": 3,
+  "host": "10.124.0.21",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ffffff",
+  "country": "Finland",
+  "city": "Helsinki"
+}
+,
+{
+  "title": "fi-hel-wg-socks5-002.relays.mullvad.net (185.204.1.211)",
+  "type": 3,
+  "host": "10.124.0.111",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ffffff",
+  "country": "Finland",
+  "city": "Helsinki"
+}
+,
+{
+  "title": "fi-hel-wg-socks5-003.relays.mullvad.net (185.204.1.219)",
+  "type": 3,
+  "host": "10.124.0.112",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ffffff",
+  "country": "Finland",
+  "city": "Helsinki"
+}
+,
+{
+  "title": "fi-hel-wg-socks5-101.relays.mullvad.net (193.138.7.137)",
+  "type": 3,
+  "host": "10.124.2.53",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ffffff",
+  "country": "Finland",
+  "city": "Helsinki"
+}
+,
+{
+  "title": "fi-hel-wg-socks5-102.relays.mullvad.net (193.138.7.157)",
+  "type": 3,
+  "host": "10.124.2.54",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ffffff",
+  "country": "Finland",
+  "city": "Helsinki"
+}
+,
+{
+  "title": "fi-hel-wg-socks5-103.relays.mullvad.net (193.138.7.177)",
+  "type": 3,
+  "host": "10.124.2.55",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ffffff",
+  "country": "Finland",
+  "city": "Helsinki"
+}
+,
+{
+  "title": "fi-hel-wg-socks5-104.relays.mullvad.net (193.138.7.197)",
+  "type": 3,
+  "host": "10.124.2.56",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ffffff",
+  "country": "Finland",
+  "city": "Helsinki"
+}
+,
+{
+  "title": "fr-bod-wg-socks5-001.relays.mullvad.net (45.134.79.67)",
+  "type": 3,
+  "host": "10.124.1.63",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0055aa",
+  "country": "France",
+  "city": "Bordeaux"
+}
+,
+{
+  "title": "fr-bod-wg-socks5-002.relays.mullvad.net (45.134.79.97)",
+  "type": 3,
+  "host": "10.124.1.64",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0055aa",
+  "country": "France",
+  "city": "Bordeaux"
+}
+,
+{
+  "title": "fr-mrs-wg-socks5-001.relays.mullvad.net (138.199.15.162)",
+  "type": 3,
+  "host": "10.124.0.45",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0055aa",
+  "country": "France",
+  "city": "Marseille"
+}
+,
+{
+  "title": "fr-mrs-wg-socks5-002.relays.mullvad.net (138.199.15.146)",
+  "type": 3,
+  "host": "10.124.1.183",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0055aa",
+  "country": "France",
+  "city": "Marseille"
+}
+,
+{
+  "title": "fr-par-wg-socks5-001.relays.mullvad.net (193.32.126.66)",
+  "type": 3,
+  "host": "10.124.0.116",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0055aa",
+  "country": "France",
+  "city": "Paris"
+}
+,
+{
+  "title": "fr-par-wg-socks5-002.relays.mullvad.net (193.32.126.67)",
+  "type": 3,
+  "host": "10.124.0.117",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0055aa",
+  "country": "France",
+  "city": "Paris"
+}
+,
+{
+  "title": "fr-par-wg-socks5-003.relays.mullvad.net (193.32.126.68)",
+  "type": 3,
+  "host": "10.124.0.118",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0055aa",
+  "country": "France",
+  "city": "Paris"
+}
+,
+{
+  "title": "fr-par-wg-socks5-004.relays.mullvad.net (193.32.126.69)",
+  "type": 3,
+  "host": "10.124.0.119",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0055aa",
+  "country": "France",
+  "city": "Paris"
+}
+,
+{
+  "title": "fr-par-wg-socks5-005.relays.mullvad.net (193.32.126.70)",
+  "type": 3,
+  "host": "10.124.0.120",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0055aa",
+  "country": "France",
+  "city": "Paris"
+}
+,
+{
+  "title": "fr-par-wg-socks5-006.relays.mullvad.net (193.32.126.84)",
+  "type": 3,
+  "host": "10.124.0.238",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0055aa",
+  "country": "France",
+  "city": "Paris"
+}
+,
+{
+  "title": "fr-par-wg-socks5-007.relays.mullvad.net (193.32.126.83)",
+  "type": 3,
+  "host": "10.124.0.142",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0055aa",
+  "country": "France",
+  "city": "Paris"
+}
+,
+{
+  "title": "fr-par-wg-socks5-101.relays.mullvad.net (146.70.184.2)",
+  "type": 3,
+  "host": "10.124.0.223",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0055aa",
+  "country": "France",
+  "city": "Paris"
+}
+,
+{
+  "title": "fr-par-wg-socks5-102.relays.mullvad.net (146.70.184.66)",
+  "type": 3,
+  "host": "10.124.0.224",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0055aa",
+  "country": "France",
+  "city": "Paris"
+}
+,
+{
+  "title": "fr-par-wg-socks5-301.relays.mullvad.net (95.173.222.2)",
+  "type": 3,
+  "host": "10.124.1.78",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0055aa",
+  "country": "France",
+  "city": "Paris"
+}
+,
+{
+  "title": "fr-par-wg-socks5-302.relays.mullvad.net (95.173.222.31)",
+  "type": 3,
+  "host": "10.124.1.79",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0055aa",
+  "country": "France",
+  "city": "Paris"
+}
+,
+{
+  "title": "gb-glw-wg-socks5-001.relays.mullvad.net (185.201.188.3)",
+  "type": 3,
+  "host": "10.124.0.246",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "UK",
+  "city": "Glasgow"
+}
+,
+{
+  "title": "gb-glw-wg-socks5-002.relays.mullvad.net (185.201.188.33)",
+  "type": 3,
+  "host": "10.124.0.247",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "UK",
+  "city": "Glasgow"
+}
+,
+{
+  "title": "gb-lon-wg-socks5-001.relays.mullvad.net (141.98.252.130)",
+  "type": 3,
+  "host": "10.124.0.59",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "UK",
+  "city": "London"
+}
+,
+{
+  "title": "gb-lon-wg-socks5-002.relays.mullvad.net (141.98.252.222)",
+  "type": 3,
+  "host": "10.124.0.60",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "UK",
+  "city": "London"
+}
+,
+{
+  "title": "gb-lon-wg-socks5-003.relays.mullvad.net (185.195.232.66)",
+  "type": 3,
+  "host": "10.124.1.16",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "UK",
+  "city": "London"
+}
+,
+{
+  "title": "gb-lon-wg-socks5-004.relays.mullvad.net (185.195.232.67)",
+  "type": 3,
+  "host": "10.124.1.17",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "UK",
+  "city": "London"
+}
+,
+{
+  "title": "gb-lon-wg-socks5-005.relays.mullvad.net (185.195.232.68)",
+  "type": 3,
+  "host": "10.124.1.18",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "UK",
+  "city": "London"
+}
+,
+{
+  "title": "gb-lon-wg-socks5-006.relays.mullvad.net (185.195.232.69)",
+  "type": 3,
+  "host": "10.124.1.19",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "UK",
+  "city": "London"
+}
+,
+{
+  "title": "gb-lon-wg-socks5-007.relays.mullvad.net (185.195.232.70)",
+  "type": 3,
+  "host": "10.124.1.28",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "UK",
+  "city": "London"
+}
+,
+{
+  "title": "gb-lon-wg-socks5-008.relays.mullvad.net (141.98.252.138)",
+  "type": 3,
+  "host": "10.124.1.62",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "UK",
+  "city": "London"
+}
+,
+{
+  "title": "gb-lon-wg-socks5-201.relays.mullvad.net (185.248.85.3)",
+  "type": 3,
+  "host": "10.124.1.34",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "UK",
+  "city": "London"
+}
+,
+{
+  "title": "gb-lon-wg-socks5-202.relays.mullvad.net (185.248.85.18)",
+  "type": 3,
+  "host": "10.124.1.35",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "UK",
+  "city": "London"
+}
+,
+{
+  "title": "gb-lon-wg-socks5-203.relays.mullvad.net (185.248.85.33)",
+  "type": 3,
+  "host": "10.124.1.91",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "UK",
+  "city": "London"
+}
+,
+{
+  "title": "gb-lon-wg-socks5-204.relays.mullvad.net (185.248.85.48)",
+  "type": 3,
+  "host": "10.124.1.164",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "UK",
+  "city": "London"
+}
+,
+{
+  "title": "gb-lon-wg-socks5-301.relays.mullvad.net (146.70.119.66)",
+  "type": 3,
+  "host": "10.124.1.249",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "UK",
+  "city": "London"
+}
+,
+{
+  "title": "gb-lon-wg-socks5-302.relays.mullvad.net (146.70.119.2)",
+  "type": 3,
+  "host": "10.124.1.247",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "UK",
+  "city": "London"
+}
+,
+{
+  "title": "gb-lon-wg-socks5-304.relays.mullvad.net (146.70.119.162)",
+  "type": 3,
+  "host": "10.124.0.237",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "UK",
+  "city": "London"
+}
+,
+{
+  "title": "gb-mnc-wg-socks5-002.relays.mullvad.net (146.70.132.130)",
+  "type": 3,
+  "host": "10.124.2.13",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "UK",
+  "city": "Manchester"
+}
+,
+{
+  "title": "gb-mnc-wg-socks5-003.relays.mullvad.net (146.70.132.162)",
+  "type": 3,
+  "host": "10.124.2.14",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "UK",
+  "city": "Manchester"
+}
+,
+{
+  "title": "gb-mnc-wg-socks5-004.relays.mullvad.net (146.70.132.194)",
+  "type": 3,
+  "host": "10.124.2.15",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "UK",
+  "city": "Manchester"
+}
+,
+{
+  "title": "gb-mnc-wg-socks5-005.relays.mullvad.net (146.70.132.226)",
+  "type": 3,
+  "host": "10.124.2.16",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "UK",
+  "city": "Manchester"
+}
+,
+{
+  "title": "gb-mnc-wg-socks5-006.relays.mullvad.net (146.70.133.2)",
+  "type": 3,
+  "host": "10.124.2.17",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "UK",
+  "city": "Manchester"
+}
+,
+{
+  "title": "gb-mnc-wg-socks5-007.relays.mullvad.net (146.70.133.34)",
+  "type": 3,
+  "host": "10.124.2.18",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "UK",
+  "city": "Manchester"
+}
+,
+{
+  "title": "gb-mnc-wg-socks5-008.relays.mullvad.net (146.70.133.66)",
+  "type": 3,
+  "host": "10.124.2.19",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "UK",
+  "city": "Manchester"
+}
+,
+{
+  "title": "gb-mnc-wg-socks5-201.relays.mullvad.net (167.160.13.3)",
+  "type": 3,
+  "host": "10.124.1.162",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "UK",
+  "city": "Manchester"
+}
+,
+{
+  "title": "gb-mnc-wg-socks5-202.relays.mullvad.net (167.160.13.127)",
+  "type": 3,
+  "host": "10.124.1.163",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "UK",
+  "city": "Manchester"
+}
+,
+{
+  "title": "gr-ath-wg-socks5-101.relays.mullvad.net (149.102.246.2)",
+  "type": 3,
+  "host": "10.124.0.159",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0088ff",
+  "country": "Greece",
+  "city": "Athens"
+}
+,
+{
+  "title": "gr-ath-wg-socks5-102.relays.mullvad.net (149.102.246.15)",
+  "type": 3,
+  "host": "10.124.0.166",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0088ff",
+  "country": "Greece",
+  "city": "Athens"
+}
+,
+{
+  "title": "hk-hkg-wg-socks5-201.relays.mullvad.net (103.125.233.18)",
+  "type": 3,
+  "host": "10.124.1.237",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff8800",
+  "country": "Hong Kong",
+  "city": "Hong Kong"
+}
+,
+{
+  "title": "hk-hkg-wg-socks5-202.relays.mullvad.net (103.125.233.3)",
+  "type": 3,
+  "host": "10.124.0.192",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff8800",
+  "country": "Hong Kong",
+  "city": "Hong Kong"
+}
+,
+{
+  "title": "hk-hkg-wg-socks5-301.relays.mullvad.net (146.70.224.2)",
+  "type": 3,
+  "host": "10.124.0.202",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff8800",
+  "country": "Hong Kong",
+  "city": "Hong Kong"
+}
+,
+{
+  "title": "hk-hkg-wg-socks5-302.relays.mullvad.net (146.70.224.66)",
+  "type": 3,
+  "host": "10.124.0.203",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff8800",
+  "country": "Hong Kong",
+  "city": "Hong Kong"
+}
+,
+{
+  "title": "hr-zag-wg-socks5-001.relays.mullvad.net (154.47.29.2)",
+  "type": 3,
+  "host": "10.124.0.35",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff6600",
+  "country": "Croatia",
+  "city": "Zagreb"
+}
+,
+{
+  "title": "hr-zag-wg-socks5-002.relays.mullvad.net (154.47.29.15)",
+  "type": 3,
+  "host": "10.124.0.74",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff6600",
+  "country": "Croatia",
+  "city": "Zagreb"
+}
+,
+{
+  "title": "hu-bud-wg-socks5-101.relays.mullvad.net (146.70.196.194)",
+  "type": 3,
+  "host": "10.124.0.227",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#00aa00",
+  "country": "Hungary",
+  "city": "Budapest"
+}
+,
+{
+  "title": "hu-bud-wg-socks5-102.relays.mullvad.net (146.70.196.130)",
+  "type": 3,
+  "host": "10.124.0.228",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#00aa00",
+  "country": "Hungary",
+  "city": "Budapest"
+}
+,
+{
+  "title": "hu-bud-wg-socks5-201.relays.mullvad.net (79.127.182.130)",
+  "type": 3,
+  "host": "10.124.0.135",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#00aa00",
+  "country": "Hungary",
+  "city": "Budapest"
+}
+,
+{
+  "title": "hu-bud-wg-socks5-202.relays.mullvad.net (79.127.182.160)",
+  "type": 3,
+  "host": "10.124.0.137",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#00aa00",
+  "country": "Hungary",
+  "city": "Budapest"
+}
+,
+{
+  "title": "id-jpu-wg-socks5-001.relays.mullvad.net (129.227.46.130)",
+  "type": 3,
+  "host": "10.124.0.254",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff4400",
+  "country": "Indonesia",
+  "city": "Jakarta"
+}
+,
+{
+  "title": "id-jpu-wg-socks5-002.relays.mullvad.net (129.227.46.162)",
+  "type": 3,
+  "host": "10.124.1.1",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff4400",
+  "country": "Indonesia",
+  "city": "Jakarta"
+}
+,
+{
+  "title": "ie-dub-wg-socks5-101.relays.mullvad.net (146.70.189.2)",
+  "type": 3,
+  "host": "10.124.1.58",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#00ff44",
+  "country": "Ireland",
+  "city": "Dublin"
+}
+,
+{
+  "title": "ie-dub-wg-socks5-102.relays.mullvad.net (146.70.189.66)",
+  "type": 3,
+  "host": "10.124.1.59",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#00ff44",
+  "country": "Ireland",
+  "city": "Dublin"
+}
+,
+{
+  "title": "il-tlv-wg-socks5-101.relays.mullvad.net (169.150.227.197)",
+  "type": 3,
+  "host": "10.124.2.5",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0044ff",
+  "country": "Israel",
+  "city": "Tel Aviv"
+}
+,
+{
+  "title": "il-tlv-wg-socks5-102.relays.mullvad.net (169.150.227.210)",
+  "type": 3,
+  "host": "10.124.2.25",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0044ff",
+  "country": "Israel",
+  "city": "Tel Aviv"
+}
+,
+{
+  "title": "il-tlv-wg-socks5-103.relays.mullvad.net (169.150.227.222)",
+  "type": 3,
+  "host": "10.124.2.26",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0044ff",
+  "country": "Israel",
+  "city": "Tel Aviv"
+}
+,
+{
+  "title": "it-mil-wg-socks5-001.relays.mullvad.net (178.249.211.66)",
+  "type": 3,
+  "host": "10.124.1.206",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#00aa44",
+  "country": "Italy",
+  "city": "Milan"
+}
+,
+{
+  "title": "it-mil-wg-socks5-002.relays.mullvad.net (178.249.211.79)",
+  "type": 3,
+  "host": "10.124.1.207",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#00aa44",
+  "country": "Italy",
+  "city": "Milan"
+}
+,
+{
+  "title": "it-mil-wg-socks5-003.relays.mullvad.net (178.249.211.92)",
+  "type": 3,
+  "host": "10.124.1.208",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#00aa44",
+  "country": "Italy",
+  "city": "Milan"
+}
+,
+{
+  "title": "it-mil-wg-socks5-201.relays.mullvad.net (146.70.225.2)",
+  "type": 3,
+  "host": "10.124.0.200",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#00aa44",
+  "country": "Italy",
+  "city": "Milan"
+}
+,
+{
+  "title": "it-mil-wg-socks5-202.relays.mullvad.net (146.70.225.66)",
+  "type": 3,
+  "host": "10.124.0.201",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#00aa44",
+  "country": "Italy",
+  "city": "Milan"
+}
+,
+{
+  "title": "it-pmo-wg-socks5-001.relays.mullvad.net (149.22.91.66)",
+  "type": 3,
+  "host": "10.124.1.67",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#00aa44",
+  "country": "Italy",
+  "city": "Palermo"
+}
+,
+{
+  "title": "it-pmo-wg-socks5-002.relays.mullvad.net (149.22.91.79)",
+  "type": 3,
+  "host": "10.124.1.68",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#00aa44",
+  "country": "Italy",
+  "city": "Palermo"
+}
+,
+{
+  "title": "jp-osa-wg-socks5-001.relays.mullvad.net (194.114.136.3)",
+  "type": 3,
+  "host": "10.124.1.177",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff0044",
+  "country": "Japan",
+  "city": "Osaka"
+}
+,
+{
+  "title": "jp-osa-wg-socks5-002.relays.mullvad.net (194.114.136.34)",
+  "type": 3,
+  "host": "10.124.1.178",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff0044",
+  "country": "Japan",
+  "city": "Osaka"
+}
+,
+{
+  "title": "jp-osa-wg-socks5-003.relays.mullvad.net (194.114.136.65)",
+  "type": 3,
+  "host": "10.124.1.179",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff0044",
+  "country": "Japan",
+  "city": "Osaka"
+}
+,
+{
+  "title": "jp-osa-wg-socks5-004.relays.mullvad.net (194.114.136.96)",
+  "type": 3,
+  "host": "10.124.1.180",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff0044",
+  "country": "Japan",
+  "city": "Osaka"
+}
+,
+{
+  "title": "jp-tyo-wg-socks5-001.relays.mullvad.net (138.199.21.239)",
+  "type": 3,
+  "host": "10.124.1.218",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff0044",
+  "country": "Japan",
+  "city": "Tokyo"
+}
+,
+{
+  "title": "jp-tyo-wg-socks5-002.relays.mullvad.net (138.199.21.226)",
+  "type": 3,
+  "host": "10.124.1.217",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff0044",
+  "country": "Japan",
+  "city": "Tokyo"
+}
+,
+{
+  "title": "jp-tyo-wg-socks5-201.relays.mullvad.net (146.70.138.194)",
+  "type": 3,
+  "host": "10.124.0.107",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff0044",
+  "country": "Japan",
+  "city": "Tokyo"
+}
+,
+{
+  "title": "jp-tyo-wg-socks5-202.relays.mullvad.net (146.70.201.2)",
+  "type": 3,
+  "host": "10.124.0.160",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff0044",
+  "country": "Japan",
+  "city": "Tokyo"
+}
+,
+{
+  "title": "jp-tyo-wg-socks5-203.relays.mullvad.net (146.70.201.66)",
+  "type": 3,
+  "host": "10.124.0.161",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff0044",
+  "country": "Japan",
+  "city": "Tokyo"
+}
+,
+{
+  "title": "mx-qro-wg-socks5-001.relays.mullvad.net (149.88.22.129)",
+  "type": 3,
+  "host": "10.124.0.154",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#aa4400",
+  "country": "Mexico",
+  "city": "Queretaro"
+}
+,
+{
+  "title": "mx-qro-wg-socks5-002.relays.mullvad.net (149.88.22.142)",
+  "type": 3,
+  "host": "10.124.0.204",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#aa4400",
+  "country": "Mexico",
+  "city": "Queretaro"
+}
+,
+{
+  "title": "mx-qro-wg-socks5-003.relays.mullvad.net (149.88.22.155)",
+  "type": 3,
+  "host": "10.124.0.205",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#aa4400",
+  "country": "Mexico",
+  "city": "Queretaro"
+}
+,
+{
+  "title": "mx-qro-wg-socks5-004.relays.mullvad.net (149.88.22.168)",
+  "type": 3,
+  "host": "10.124.0.206",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#aa4400",
+  "country": "Mexico",
+  "city": "Queretaro"
+}
+,
+{
+  "title": "my-kul-wg-socks5-001.relays.mullvad.net (98.98.47.130)",
+  "type": 3,
+  "host": "10.124.1.39",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ffaa44",
+  "country": "Malaysia",
+  "city": "Kuala Lumpur"
+}
+,
+{
+  "title": "my-kul-wg-socks5-002.relays.mullvad.net (162.128.129.98)",
+  "type": 3,
+  "host": "10.124.1.40",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ffaa44",
+  "country": "Malaysia",
+  "city": "Kuala Lumpur"
+}
+,
+{
+  "title": "ng-los-wg-socks5-001.relays.mullvad.net (79.127.149.130)",
+  "type": 3,
+  "host": "10.124.0.97",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#00aa88",
+  "country": "Nigeria",
+  "city": "Lagos"
+}
+,
+{
+  "title": "ng-los-wg-socks5-002.relays.mullvad.net (79.127.149.159)",
+  "type": 3,
+  "host": "10.124.0.98",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#00aa88",
+  "country": "Nigeria",
+  "city": "Lagos"
+}
+,
+{
+  "title": "nl-ams-wg-socks5-001.relays.mullvad.net (193.32.249.66)",
+  "type": 3,
+  "host": "10.124.0.4",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff6644",
+  "country": "Netherlands",
+  "city": "Amsterdam"
+}
+,
+{
+  "title": "nl-ams-wg-socks5-002.relays.mullvad.net (185.65.134.82)",
+  "type": 3,
+  "host": "10.124.0.39",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff6644",
+  "country": "Netherlands",
+  "city": "Amsterdam"
+}
+,
+{
+  "title": "nl-ams-wg-socks5-003.relays.mullvad.net (185.65.134.83)",
+  "type": 3,
+  "host": "10.124.0.40",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff6644",
+  "country": "Netherlands",
+  "city": "Amsterdam"
+}
+,
+{
+  "title": "nl-ams-wg-socks5-004.relays.mullvad.net (193.32.249.69)",
+  "type": 3,
+  "host": "10.124.0.113",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff6644",
+  "country": "Netherlands",
+  "city": "Amsterdam"
+}
+,
+{
+  "title": "nl-ams-wg-socks5-005.relays.mullvad.net (193.32.249.70)",
+  "type": 3,
+  "host": "10.124.0.114",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff6644",
+  "country": "Netherlands",
+  "city": "Amsterdam"
+}
+,
+{
+  "title": "nl-ams-wg-socks5-006.relays.mullvad.net (185.65.134.86)",
+  "type": 3,
+  "host": "10.124.0.94",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff6644",
+  "country": "Netherlands",
+  "city": "Amsterdam"
+}
+,
+{
+  "title": "nl-ams-wg-socks5-007.relays.mullvad.net (185.65.134.76)",
+  "type": 3,
+  "host": "10.124.0.243",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff6644",
+  "country": "Netherlands",
+  "city": "Amsterdam"
+}
+,
+{
+  "title": "nl-ams-wg-socks5-008.relays.mullvad.net (193.32.249.73)",
+  "type": 3,
+  "host": "10.124.0.96",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff6644",
+  "country": "Netherlands",
+  "city": "Amsterdam"
+}
+,
+{
+  "title": "nl-ams-wg-socks5-101.relays.mullvad.net (92.60.40.194)",
+  "type": 3,
+  "host": "10.124.0.19",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff6644",
+  "country": "Netherlands",
+  "city": "Amsterdam"
+}
+,
+{
+  "title": "nl-ams-wg-socks5-102.relays.mullvad.net (92.60.40.209)",
+  "type": 3,
+  "host": "10.124.0.41",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff6644",
+  "country": "Netherlands",
+  "city": "Amsterdam"
+}
+,
+{
+  "title": "nl-ams-wg-socks5-103.relays.mullvad.net (92.60.40.224)",
+  "type": 3,
+  "host": "10.124.0.48",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff6644",
+  "country": "Netherlands",
+  "city": "Amsterdam"
+}
+,
+{
+  "title": "nl-ams-wg-socks5-201.relays.mullvad.net (169.150.196.2)",
+  "type": 3,
+  "host": "10.124.1.253",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff6644",
+  "country": "Netherlands",
+  "city": "Amsterdam"
+}
+,
+{
+  "title": "nl-ams-wg-socks5-202.relays.mullvad.net (169.150.196.15)",
+  "type": 3,
+  "host": "10.124.1.254",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff6644",
+  "country": "Netherlands",
+  "city": "Amsterdam"
+}
+,
+{
+  "title": "nl-ams-wg-socks5-203.relays.mullvad.net (169.150.196.28)",
+  "type": 3,
+  "host": "10.124.2.1",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff6644",
+  "country": "Netherlands",
+  "city": "Amsterdam"
+}
+,
+{
+  "title": "no-osl-wg-socks5-001.relays.mullvad.net (176.125.235.71)",
+  "type": 3,
+  "host": "10.124.0.6",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#4400ff",
+  "country": "Norway",
+  "city": "Oslo"
+}
+,
+{
+  "title": "no-osl-wg-socks5-002.relays.mullvad.net (176.125.235.72)",
+  "type": 3,
+  "host": "10.124.0.108",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#4400ff",
+  "country": "Norway",
+  "city": "Oslo"
+}
+,
+{
+  "title": "no-osl-wg-socks5-003.relays.mullvad.net (176.125.235.73)",
+  "type": 3,
+  "host": "10.124.0.109",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#4400ff",
+  "country": "Norway",
+  "city": "Oslo"
+}
+,
+{
+  "title": "no-osl-wg-socks5-004.relays.mullvad.net (176.125.235.74)",
+  "type": 3,
+  "host": "10.124.0.110",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#4400ff",
+  "country": "Norway",
+  "city": "Oslo"
+}
+,
+{
+  "title": "no-osl-wg-socks5-005.relays.mullvad.net (178.255.149.140)",
+  "type": 3,
+  "host": "10.124.0.56",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#4400ff",
+  "country": "Norway",
+  "city": "Oslo"
+}
+,
+{
+  "title": "no-osl-wg-socks5-006.relays.mullvad.net (178.255.149.165)",
+  "type": 3,
+  "host": "10.124.0.136",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#4400ff",
+  "country": "Norway",
+  "city": "Oslo"
+}
+,
+{
+  "title": "no-osl-wg-socks5-007.relays.mullvad.net (91.90.44.15)",
+  "type": 3,
+  "host": "10.124.0.244",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#4400ff",
+  "country": "Norway",
+  "city": "Oslo"
+}
+,
+{
+  "title": "no-osl-wg-socks5-008.relays.mullvad.net (91.90.44.18)",
+  "type": 3,
+  "host": "10.124.0.245",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#4400ff",
+  "country": "Norway",
+  "city": "Oslo"
+}
+,
+{
+  "title": "no-svg-wg-socks5-001.relays.mullvad.net (194.127.199.2)",
+  "type": 3,
+  "host": "10.124.2.38",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#4400ff",
+  "country": "Norway",
+  "city": "Stavanger"
+}
+,
+{
+  "title": "no-svg-wg-socks5-002.relays.mullvad.net (194.127.199.31)",
+  "type": 3,
+  "host": "10.124.2.39",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#4400ff",
+  "country": "Norway",
+  "city": "Stavanger"
+}
+,
+{
+  "title": "no-svg-wg-socks5-003.relays.mullvad.net (194.127.199.62)",
+  "type": 3,
+  "host": "10.124.2.40",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#4400ff",
+  "country": "Norway",
+  "city": "Stavanger"
+}
+,
+{
+  "title": "no-svg-wg-socks5-004.relays.mullvad.net (194.127.199.93)",
+  "type": 3,
+  "host": "10.124.2.41",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#4400ff",
+  "country": "Norway",
+  "city": "Stavanger"
+}
+,
+{
+  "title": "nz-akl-wg-socks5-301.relays.mullvad.net (103.75.11.50)",
+  "type": 3,
+  "host": "10.124.0.218",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#44ff00",
+  "country": "New Zealand",
+  "city": "Auckland"
+}
+,
+{
+  "title": "nz-akl-wg-socks5-302.relays.mullvad.net (103.75.11.66)",
+  "type": 3,
+  "host": "10.124.0.219",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#44ff00",
+  "country": "New Zealand",
+  "city": "Auckland"
+}
+,
+{
+  "title": "pe-lim-wg-socks5-001.relays.mullvad.net (95.173.223.130)",
+  "type": 3,
+  "host": "10.124.1.81",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff8844",
+  "country": "Peru",
+  "city": "Lima"
+}
+,
+{
+  "title": "pe-lim-wg-socks5-002.relays.mullvad.net (95.173.223.159)",
+  "type": 3,
+  "host": "10.124.1.82",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff8844",
+  "country": "Peru",
+  "city": "Lima"
+}
+,
+{
+  "title": "ph-mnl-wg-socks5-001.relays.mullvad.net (129.227.118.162)",
+  "type": 3,
+  "host": "10.124.0.145",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#aa0044",
+  "country": "Philippines",
+  "city": "Manila"
+}
+,
+{
+  "title": "ph-mnl-wg-socks5-002.relays.mullvad.net (156.59.127.194)",
+  "type": 3,
+  "host": "10.124.0.146",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#aa0044",
+  "country": "Philippines",
+  "city": "Manila"
+}
+,
+{
+  "title": "pl-waw-wg-socks5-101.relays.mullvad.net (45.134.212.66)",
+  "type": 3,
+  "host": "10.124.1.219",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff4488",
+  "country": "Poland",
+  "city": "Warsaw"
+}
+,
+{
+  "title": "pl-waw-wg-socks5-102.relays.mullvad.net (45.134.212.79)",
+  "type": 3,
+  "host": "10.124.1.220",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff4488",
+  "country": "Poland",
+  "city": "Warsaw"
+}
+,
+{
+  "title": "pl-waw-wg-socks5-103.relays.mullvad.net (45.134.212.92)",
+  "type": 3,
+  "host": "10.124.1.221",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff4488",
+  "country": "Poland",
+  "city": "Warsaw"
+}
+,
+{
+  "title": "pl-waw-wg-socks5-201.relays.mullvad.net (45.128.38.226)",
+  "type": 3,
+  "host": "10.124.2.45",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff4488",
+  "country": "Poland",
+  "city": "Warsaw"
+}
+,
+{
+  "title": "pl-waw-wg-socks5-202.relays.mullvad.net (146.70.144.34)",
+  "type": 3,
+  "host": "10.124.2.46",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff4488",
+  "country": "Poland",
+  "city": "Warsaw"
+}
+,
+{
+  "title": "pt-lis-wg-socks5-201.relays.mullvad.net (149.88.20.206)",
+  "type": 3,
+  "host": "10.124.0.198",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#44aa00",
+  "country": "Portugal",
+  "city": "Lisbon"
+}
+,
+{
+  "title": "pt-lis-wg-socks5-202.relays.mullvad.net (149.88.20.193)",
+  "type": 3,
+  "host": "10.124.0.199",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#44aa00",
+  "country": "Portugal",
+  "city": "Lisbon"
+}
+,
+{
+  "title": "pt-lis-wg-socks5-301.relays.mullvad.net (185.92.210.195)",
+  "type": 3,
+  "host": "10.124.1.75",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#44aa00",
+  "country": "Portugal",
+  "city": "Lisbon"
+}
+,
+{
+  "title": "pt-lis-wg-socks5-302.relays.mullvad.net (185.92.210.225)",
+  "type": 3,
+  "host": "10.124.1.76",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#44aa00",
+  "country": "Portugal",
+  "city": "Lisbon"
+}
+,
+{
+  "title": "ro-buh-wg-socks5-001.relays.mullvad.net (146.70.124.130)",
+  "type": 3,
+  "host": "10.124.2.27",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#8800ff",
+  "country": "Romania",
+  "city": "Bucharest"
+}
+,
+{
+  "title": "ro-buh-wg-socks5-002.relays.mullvad.net (146.70.124.194)",
+  "type": 3,
+  "host": "10.124.0.93",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#8800ff",
+  "country": "Romania",
+  "city": "Bucharest"
+}
+,
+{
+  "title": "rs-beg-wg-socks5-101.relays.mullvad.net (146.70.193.2)",
+  "type": 3,
+  "host": "10.124.0.33",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#aa4488",
+  "country": "Serbia",
+  "city": "Belgrade"
+}
+,
+{
+  "title": "rs-beg-wg-socks5-102.relays.mullvad.net (146.70.193.66)",
+  "type": 3,
+  "host": "10.124.0.73",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#aa4488",
+  "country": "Serbia",
+  "city": "Belgrade"
+}
+,
+{
+  "title": "se-got-wg-socks5-001.relays.mullvad.net (185.213.154.66)",
+  "type": 3,
+  "host": "10.124.0.20",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0044aa",
+  "country": "Sweden",
+  "city": "Gothenburg"
+}
+,
+{
+  "title": "se-got-wg-socks5-002.relays.mullvad.net (185.213.154.67)",
+  "type": 3,
+  "host": "10.124.0.49",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0044aa",
+  "country": "Sweden",
+  "city": "Gothenburg"
+}
+,
+{
+  "title": "se-got-wg-socks5-003.relays.mullvad.net (185.213.154.68)",
+  "type": 3,
+  "host": "10.124.0.152",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0044aa",
+  "country": "Sweden",
+  "city": "Gothenburg"
+}
+,
+{
+  "title": "se-got-wg-socks5-004.relays.mullvad.net (185.213.154.69)",
+  "type": 3,
+  "host": "10.124.0.65",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0044aa",
+  "country": "Sweden",
+  "city": "Gothenburg"
+}
+,
+{
+  "title": "se-got-wg-socks5-005.relays.mullvad.net (185.209.199.2)",
+  "type": 3,
+  "host": "10.124.1.22",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0044aa",
+  "country": "Sweden",
+  "city": "Gothenburg"
+}
+,
+{
+  "title": "se-got-wg-socks5-006.relays.mullvad.net (185.209.199.7)",
+  "type": 3,
+  "host": "10.124.1.56",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0044aa",
+  "country": "Sweden",
+  "city": "Gothenburg"
+}
+,
+{
+  "title": "se-got-wg-socks5-007.relays.mullvad.net (185.209.199.12)",
+  "type": 3,
+  "host": "10.124.1.60",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0044aa",
+  "country": "Sweden",
+  "city": "Gothenburg"
+}
+,
+{
+  "title": "se-got-wg-socks5-008.relays.mullvad.net (185.209.199.17)",
+  "type": 3,
+  "host": "10.124.1.61",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0044aa",
+  "country": "Sweden",
+  "city": "Gothenburg"
+}
+,
+{
+  "title": "se-got-wg-socks5-101.relays.mullvad.net (185.213.154.70)",
+  "type": 3,
+  "host": "10.124.1.185",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0044aa",
+  "country": "Sweden",
+  "city": "Gothenburg"
+}
+,
+{
+  "title": "se-mma-wg-socks5-001.relays.mullvad.net (193.138.218.220)",
+  "type": 3,
+  "host": "10.124.0.2",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0044aa",
+  "country": "Sweden",
+  "city": "Malmö"
+}
+,
+{
+  "title": "se-mma-wg-socks5-002.relays.mullvad.net (193.138.218.80)",
+  "type": 3,
+  "host": "10.124.0.183",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0044aa",
+  "country": "Sweden",
+  "city": "Malmö"
+}
+,
+{
+  "title": "se-mma-wg-socks5-003.relays.mullvad.net (193.138.218.83)",
+  "type": 3,
+  "host": "10.124.0.186",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0044aa",
+  "country": "Sweden",
+  "city": "Malmö"
+}
+,
+{
+  "title": "se-mma-wg-socks5-004.relays.mullvad.net (193.138.218.130)",
+  "type": 3,
+  "host": "10.124.0.28",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0044aa",
+  "country": "Sweden",
+  "city": "Malmö"
+}
+,
+{
+  "title": "se-mma-wg-socks5-005.relays.mullvad.net (193.138.218.82)",
+  "type": 3,
+  "host": "10.124.0.185",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0044aa",
+  "country": "Sweden",
+  "city": "Malmö"
+}
+,
+{
+  "title": "se-mma-wg-socks5-011.relays.mullvad.net (141.98.255.94)",
+  "type": 3,
+  "host": "10.124.0.18",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0044aa",
+  "country": "Sweden",
+  "city": "Malmö"
+}
+,
+{
+  "title": "se-mma-wg-socks5-012.relays.mullvad.net (141.98.255.97)",
+  "type": 3,
+  "host": "10.124.0.38",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0044aa",
+  "country": "Sweden",
+  "city": "Malmö"
+}
+,
+{
+  "title": "se-mma-wg-socks5-101.relays.mullvad.net (45.83.220.68)",
+  "type": 3,
+  "host": "10.124.0.189",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0044aa",
+  "country": "Sweden",
+  "city": "Malmö"
+}
+,
+{
+  "title": "se-mma-wg-socks5-102.relays.mullvad.net (45.83.220.69)",
+  "type": 3,
+  "host": "10.124.0.190",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0044aa",
+  "country": "Sweden",
+  "city": "Malmö"
+}
+,
+{
+  "title": "se-mma-wg-socks5-103.relays.mullvad.net (45.83.220.70)",
+  "type": 3,
+  "host": "10.124.0.191",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0044aa",
+  "country": "Sweden",
+  "city": "Malmö"
+}
+,
+{
+  "title": "se-mma-wg-socks5-111.relays.mullvad.net (45.129.59.19)",
+  "type": 3,
+  "host": "10.124.1.80",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0044aa",
+  "country": "Sweden",
+  "city": "Malmö"
+}
+,
+{
+  "title": "se-mma-wg-socks5-112.relays.mullvad.net (45.129.59.129)",
+  "type": 3,
+  "host": "10.124.1.77",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0044aa",
+  "country": "Sweden",
+  "city": "Malmö"
+}
+,
+{
+  "title": "se-sto-wg-socks5-001.relays.mullvad.net (185.195.233.76)",
+  "type": 3,
+  "host": "10.124.1.184",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0044aa",
+  "country": "Sweden",
+  "city": "Stockholm"
+}
+,
+{
+  "title": "se-sto-wg-socks5-002.relays.mullvad.net (185.65.135.67)",
+  "type": 3,
+  "host": "10.124.0.11",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0044aa",
+  "country": "Sweden",
+  "city": "Stockholm"
+}
+,
+{
+  "title": "se-sto-wg-socks5-003.relays.mullvad.net (185.65.135.68)",
+  "type": 3,
+  "host": "10.124.2.48",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0044aa",
+  "country": "Sweden",
+  "city": "Stockholm"
+}
+,
+{
+  "title": "se-sto-wg-socks5-004.relays.mullvad.net (185.65.135.69)",
+  "type": 3,
+  "host": "10.124.2.49",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0044aa",
+  "country": "Sweden",
+  "city": "Stockholm"
+}
+,
+{
+  "title": "se-sto-wg-socks5-005.relays.mullvad.net (185.65.135.72)",
+  "type": 3,
+  "host": "10.124.2.50",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0044aa",
+  "country": "Sweden",
+  "city": "Stockholm"
+}
+,
+{
+  "title": "se-sto-wg-socks5-006.relays.mullvad.net (185.65.135.73)",
+  "type": 3,
+  "host": "10.124.2.51",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0044aa",
+  "country": "Sweden",
+  "city": "Stockholm"
+}
+,
+{
+  "title": "se-sto-wg-socks5-007.relays.mullvad.net (185.65.135.70)",
+  "type": 3,
+  "host": "10.124.0.172",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0044aa",
+  "country": "Sweden",
+  "city": "Stockholm"
+}
+,
+{
+  "title": "se-sto-wg-socks5-008.relays.mullvad.net (185.65.135.71)",
+  "type": 3,
+  "host": "10.124.0.173",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0044aa",
+  "country": "Sweden",
+  "city": "Stockholm"
+}
+,
+{
+  "title": "se-sto-wg-socks5-009.relays.mullvad.net (185.195.233.69)",
+  "type": 3,
+  "host": "10.124.0.50",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0044aa",
+  "country": "Sweden",
+  "city": "Stockholm"
+}
+,
+{
+  "title": "se-sto-wg-socks5-010.relays.mullvad.net (185.195.233.70)",
+  "type": 3,
+  "host": "10.124.0.61",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0044aa",
+  "country": "Sweden",
+  "city": "Stockholm"
+}
+,
+{
+  "title": "se-sto-wg-socks5-011.relays.mullvad.net (185.195.233.71)",
+  "type": 3,
+  "host": "10.124.0.62",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0044aa",
+  "country": "Sweden",
+  "city": "Stockholm"
+}
+,
+{
+  "title": "se-sto-wg-socks5-012.relays.mullvad.net (185.195.233.66)",
+  "type": 3,
+  "host": "10.124.0.77",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0044aa",
+  "country": "Sweden",
+  "city": "Stockholm"
+}
+,
+{
+  "title": "se-sto-wg-socks5-013.relays.mullvad.net (185.195.233.67)",
+  "type": 3,
+  "host": "10.124.0.143",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0044aa",
+  "country": "Sweden",
+  "city": "Stockholm"
+}
+,
+{
+  "title": "se-sto-wg-socks5-201.relays.mullvad.net (89.37.63.10)",
+  "type": 3,
+  "host": "10.124.0.46",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0044aa",
+  "country": "Sweden",
+  "city": "Stockholm"
+}
+,
+{
+  "title": "se-sto-wg-socks5-202.relays.mullvad.net (89.37.63.66)",
+  "type": 3,
+  "host": "10.124.0.52",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0044aa",
+  "country": "Sweden",
+  "city": "Stockholm"
+}
+,
+{
+  "title": "se-sto-wg-socks5-203.relays.mullvad.net (89.37.63.129)",
+  "type": 3,
+  "host": "10.124.0.57",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0044aa",
+  "country": "Sweden",
+  "city": "Stockholm"
+}
+,
+{
+  "title": "se-sto-wg-socks5-204.relays.mullvad.net (89.37.63.190)",
+  "type": 3,
+  "host": "10.124.0.58",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0044aa",
+  "country": "Sweden",
+  "city": "Stockholm"
+}
+,
+{
+  "title": "se-sto-wg-socks5-205.relays.mullvad.net (170.62.100.10)",
+  "type": 3,
+  "host": "10.124.0.79",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0044aa",
+  "country": "Sweden",
+  "city": "Stockholm"
+}
+,
+{
+  "title": "se-sto-wg-socks5-206.relays.mullvad.net (170.62.100.66)",
+  "type": 3,
+  "host": "10.124.0.115",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0044aa",
+  "country": "Sweden",
+  "city": "Stockholm"
+}
+,
+{
+  "title": "se-sto-wg-socks5-207.relays.mullvad.net (170.62.100.129)",
+  "type": 3,
+  "host": "10.124.0.128",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0044aa",
+  "country": "Sweden",
+  "city": "Stockholm"
+}
+,
+{
+  "title": "se-sto-wg-socks5-208.relays.mullvad.net (170.62.100.170)",
+  "type": 3,
+  "host": "10.124.0.129",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0044aa",
+  "country": "Sweden",
+  "city": "Stockholm"
+}
+,
+{
+  "title": "se-sto-wg-socks5-209.relays.mullvad.net (170.62.100.211)",
+  "type": 3,
+  "host": "10.124.0.130",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0044aa",
+  "country": "Sweden",
+  "city": "Stockholm"
+}
+,
+{
+  "title": "sg-sin-wg-socks5-001.relays.mullvad.net (138.199.60.2)",
+  "type": 3,
+  "host": "10.124.1.244",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff0088",
+  "country": "Singapore",
+  "city": "Singapore"
+}
+,
+{
+  "title": "sg-sin-wg-socks5-002.relays.mullvad.net (138.199.60.15)",
+  "type": 3,
+  "host": "10.124.1.245",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff0088",
+  "country": "Singapore",
+  "city": "Singapore"
+}
+,
+{
+  "title": "sg-sin-wg-socks5-003.relays.mullvad.net (138.199.60.28)",
+  "type": 3,
+  "host": "10.124.1.246",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff0088",
+  "country": "Singapore",
+  "city": "Singapore"
+}
+,
+{
+  "title": "sg-sin-wg-socks5-101.relays.mullvad.net (146.70.199.194)",
+  "type": 3,
+  "host": "10.124.0.100",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff0088",
+  "country": "Singapore",
+  "city": "Singapore"
+}
+,
+{
+  "title": "sg-sin-wg-socks5-102.relays.mullvad.net (146.70.199.130)",
+  "type": 3,
+  "host": "10.124.0.102",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff0088",
+  "country": "Singapore",
+  "city": "Singapore"
+}
+,
+{
+  "title": "si-lju-wg-socks5-001.relays.mullvad.net (93.115.0.3)",
+  "type": 3,
+  "host": "10.124.0.248",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0088aa",
+  "country": "Slovenia",
+  "city": "Ljubljana"
+}
+,
+{
+  "title": "si-lju-wg-socks5-002.relays.mullvad.net (93.115.0.33)",
+  "type": 3,
+  "host": "10.124.0.249",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0088aa",
+  "country": "Slovenia",
+  "city": "Ljubljana"
+}
+,
+{
+  "title": "sk-bts-wg-socks5-001.relays.mullvad.net (138.199.34.129)",
+  "type": 3,
+  "host": "10.124.2.3",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#88ff00",
+  "country": "Slovakia",
+  "city": "Bratislava"
+}
+,
+{
+  "title": "sk-bts-wg-socks5-002.relays.mullvad.net (138.199.34.143)",
+  "type": 3,
+  "host": "10.124.2.4",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#88ff00",
+  "country": "Slovakia",
+  "city": "Bratislava"
+}
+,
+{
+  "title": "th-bkk-wg-socks5-001.relays.mullvad.net (156.59.50.194)",
+  "type": 3,
+  "host": "10.124.1.4",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#8844ff",
+  "country": "Thailand",
+  "city": "Bangkok"
+}
+,
+{
+  "title": "th-bkk-wg-socks5-002.relays.mullvad.net (156.59.50.226)",
+  "type": 3,
+  "host": "10.124.1.5",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#8844ff",
+  "country": "Thailand",
+  "city": "Bangkok"
+}
+,
+{
+  "title": "tr-ist-wg-socks5-001.relays.mullvad.net (149.102.229.129)",
+  "type": 3,
+  "host": "10.124.1.71",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff8800",
+  "country": "Turkey",
+  "city": "Istanbul"
+}
+,
+{
+  "title": "tr-ist-wg-socks5-002.relays.mullvad.net (149.102.229.158)",
+  "type": 3,
+  "host": "10.124.1.72",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ff8800",
+  "country": "Turkey",
+  "city": "Istanbul"
+}
+,
+{
+  "title": "ua-iev-wg-socks5-001.relays.mullvad.net (149.102.240.79)",
+  "type": 3,
+  "host": "10.124.0.25",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0088ff",
+  "country": "Ukraine",
+  "city": "Kyiv"
+}
+,
+{
+  "title": "ua-iev-wg-socks5-002.relays.mullvad.net (149.102.240.66)",
+  "type": 3,
+  "host": "10.124.0.195",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#0088ff",
+  "country": "Ukraine",
+  "city": "Kyiv"
+}
+,
+{
+  "title": "us-atl-wg-socks5-001.relays.mullvad.net (45.134.140.130)",
+  "type": 3,
+  "host": "10.124.1.233",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Atlanta, GA"
+}
+,
+{
+  "title": "us-atl-wg-socks5-002.relays.mullvad.net (45.134.140.143)",
+  "type": 3,
+  "host": "10.124.1.234",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Atlanta, GA"
+}
+,
+{
+  "title": "us-atl-wg-socks5-301.relays.mullvad.net (67.213.209.116)",
+  "type": 3,
+  "host": "10.124.1.116",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Atlanta, GA"
+}
+,
+{
+  "title": "us-atl-wg-socks5-302.relays.mullvad.net (67.213.209.117)",
+  "type": 3,
+  "host": "10.124.1.117",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Atlanta, GA"
+}
+,
+{
+  "title": "us-atl-wg-socks5-303.relays.mullvad.net (67.213.209.118)",
+  "type": 3,
+  "host": "10.124.1.118",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Atlanta, GA"
+}
+,
+{
+  "title": "us-atl-wg-socks5-304.relays.mullvad.net (67.213.209.119)",
+  "type": 3,
+  "host": "10.124.1.119",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Atlanta, GA"
+}
+,
+{
+  "title": "us-atl-wg-socks5-305.relays.mullvad.net (67.213.209.120)",
+  "type": 3,
+  "host": "10.124.1.120",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Atlanta, GA"
+}
+,
+{
+  "title": "us-atl-wg-socks5-306.relays.mullvad.net (67.213.209.121)",
+  "type": 3,
+  "host": "10.124.1.121",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Atlanta, GA"
+}
+,
+{
+  "title": "us-atl-wg-socks5-401.relays.mullvad.net (23.234.108.3)",
+  "type": 3,
+  "host": "10.124.1.130",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Atlanta, GA"
+}
+,
+{
+  "title": "us-atl-wg-socks5-402.relays.mullvad.net (23.234.108.127)",
+  "type": 3,
+  "host": "10.124.1.131",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Atlanta, GA"
+}
+,
+{
+  "title": "us-atl-wg-socks5-403.relays.mullvad.net (23.234.109.3)",
+  "type": 3,
+  "host": "10.124.1.132",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Atlanta, GA"
+}
+,
+{
+  "title": "us-atl-wg-socks5-404.relays.mullvad.net (23.234.109.127)",
+  "type": 3,
+  "host": "10.124.1.133",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Atlanta, GA"
+}
+,
+{
+  "title": "us-atl-wg-socks5-405.relays.mullvad.net (23.234.110.3)",
+  "type": 3,
+  "host": "10.124.1.134",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Atlanta, GA"
+}
+,
+{
+  "title": "us-atl-wg-socks5-406.relays.mullvad.net (23.234.110.127)",
+  "type": 3,
+  "host": "10.124.1.135",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Atlanta, GA"
+}
+,
+{
+  "title": "us-atl-wg-socks5-407.relays.mullvad.net (23.234.111.3)",
+  "type": 3,
+  "host": "10.124.1.136",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Atlanta, GA"
+}
+,
+{
+  "title": "us-atl-wg-socks5-408.relays.mullvad.net (23.234.111.127)",
+  "type": 3,
+  "host": "10.124.1.137",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Atlanta, GA"
+}
+,
+{
+  "title": "us-bos-wg-socks5-001.relays.mullvad.net (43.225.189.131)",
+  "type": 3,
+  "host": "10.124.0.85",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Boston, MA"
+}
+,
+{
+  "title": "us-bos-wg-socks5-002.relays.mullvad.net (43.225.189.162)",
+  "type": 3,
+  "host": "10.124.0.126",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Boston, MA"
+}
+,
+{
+  "title": "us-bos-wg-socks5-101.relays.mullvad.net (149.40.50.98)",
+  "type": 3,
+  "host": "10.124.0.127",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Boston, MA"
+}
+,
+{
+  "title": "us-bos-wg-socks5-102.relays.mullvad.net (149.40.50.112)",
+  "type": 3,
+  "host": "10.124.0.197",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Boston, MA"
+}
+,
+{
+  "title": "us-chi-wg-socks5-007.relays.mullvad.net (68.235.44.194)",
+  "type": 3,
+  "host": "10.124.1.8",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Chicago, IL"
+}
+,
+{
+  "title": "us-chi-wg-socks5-201.relays.mullvad.net (87.249.134.1)",
+  "type": 3,
+  "host": "10.124.1.201",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Chicago, IL"
+}
+,
+{
+  "title": "us-chi-wg-socks5-202.relays.mullvad.net (87.249.134.14)",
+  "type": 3,
+  "host": "10.124.1.202",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Chicago, IL"
+}
+,
+{
+  "title": "us-chi-wg-socks5-203.relays.mullvad.net (87.249.134.27)",
+  "type": 3,
+  "host": "10.124.1.203",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Chicago, IL"
+}
+,
+{
+  "title": "us-chi-wg-socks5-301.relays.mullvad.net (68.235.46.2)",
+  "type": 3,
+  "host": "10.124.1.87",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Chicago, IL"
+}
+,
+{
+  "title": "us-chi-wg-socks5-302.relays.mullvad.net (68.235.46.33)",
+  "type": 3,
+  "host": "10.124.1.88",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Chicago, IL"
+}
+,
+{
+  "title": "us-chi-wg-socks5-303.relays.mullvad.net (68.235.46.64)",
+  "type": 3,
+  "host": "10.124.1.89",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Chicago, IL"
+}
+,
+{
+  "title": "us-chi-wg-socks5-304.relays.mullvad.net (68.235.46.95)",
+  "type": 3,
+  "host": "10.124.1.90",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Chicago, IL"
+}
+,
+{
+  "title": "us-chi-wg-socks5-305.relays.mullvad.net (68.235.46.126)",
+  "type": 3,
+  "host": "10.124.1.92",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Chicago, IL"
+}
+,
+{
+  "title": "us-chi-wg-socks5-306.relays.mullvad.net (68.235.46.157)",
+  "type": 3,
+  "host": "10.124.1.93",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Chicago, IL"
+}
+,
+{
+  "title": "us-chi-wg-socks5-307.relays.mullvad.net (68.235.46.188)",
+  "type": 3,
+  "host": "10.124.1.94",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Chicago, IL"
+}
+,
+{
+  "title": "us-chi-wg-socks5-308.relays.mullvad.net (68.235.46.209)",
+  "type": 3,
+  "host": "10.124.1.95",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Chicago, IL"
+}
+,
+{
+  "title": "us-dal-wg-socks5-001.relays.mullvad.net (146.70.211.66)",
+  "type": 3,
+  "host": "10.124.0.27",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Dallas, TX"
+}
+,
+{
+  "title": "us-dal-wg-socks5-002.relays.mullvad.net (146.70.211.2)",
+  "type": 3,
+  "host": "10.124.0.43",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Dallas, TX"
+}
+,
+{
+  "title": "us-dal-wg-socks5-003.relays.mullvad.net (146.70.211.130)",
+  "type": 3,
+  "host": "10.124.0.44",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Dallas, TX"
+}
+,
+{
+  "title": "us-dal-wg-socks5-401.relays.mullvad.net (37.19.200.156)",
+  "type": 3,
+  "host": "10.124.1.226",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Dallas, TX"
+}
+,
+{
+  "title": "us-dal-wg-socks5-402.relays.mullvad.net (37.19.200.143)",
+  "type": 3,
+  "host": "10.124.1.225",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Dallas, TX"
+}
+,
+{
+  "title": "us-dal-wg-socks5-403.relays.mullvad.net (37.19.200.130)",
+  "type": 3,
+  "host": "10.124.1.224",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Dallas, TX"
+}
+,
+{
+  "title": "us-dal-wg-socks5-502.relays.mullvad.net (206.217.206.47)",
+  "type": 3,
+  "host": "10.124.0.88",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Dallas, TX"
+}
+,
+{
+  "title": "us-dal-wg-socks5-503.relays.mullvad.net (206.217.206.67)",
+  "type": 3,
+  "host": "10.124.1.9",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Dallas, TX"
+}
+,
+{
+  "title": "us-dal-wg-socks5-504.relays.mullvad.net (206.217.206.87)",
+  "type": 3,
+  "host": "10.124.1.10",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Dallas, TX"
+}
+,
+{
+  "title": "us-dal-wg-socks5-505.relays.mullvad.net (206.217.206.107)",
+  "type": 3,
+  "host": "10.124.1.11",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Dallas, TX"
+}
+,
+{
+  "title": "us-dal-wg-socks5-506.relays.mullvad.net (206.217.206.4)",
+  "type": 3,
+  "host": "10.124.1.85",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Dallas, TX"
+}
+,
+{
+  "title": "us-dal-wg-socks5-507.relays.mullvad.net (206.217.206.16)",
+  "type": 3,
+  "host": "10.124.1.86",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Dallas, TX"
+}
+,
+{
+  "title": "us-dal-wg-socks5-601.relays.mullvad.net (103.102.246.3)",
+  "type": 3,
+  "host": "10.124.1.171",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Dallas, TX"
+}
+,
+{
+  "title": "us-dal-wg-socks5-602.relays.mullvad.net (103.102.246.127)",
+  "type": 3,
+  "host": "10.124.1.172",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Dallas, TX"
+}
+,
+{
+  "title": "us-dal-wg-socks5-603.relays.mullvad.net (103.102.247.3)",
+  "type": 3,
+  "host": "10.124.1.173",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Dallas, TX"
+}
+,
+{
+  "title": "us-dal-wg-socks5-604.relays.mullvad.net (103.102.247.127)",
+  "type": 3,
+  "host": "10.124.1.174",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Dallas, TX"
+}
+,
+{
+  "title": "us-den-wg-socks5-101.relays.mullvad.net (37.19.210.1)",
+  "type": 3,
+  "host": "10.124.1.196",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Denver, CO"
+}
+,
+{
+  "title": "us-den-wg-socks5-102.relays.mullvad.net (37.19.210.14)",
+  "type": 3,
+  "host": "10.124.1.197",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Denver, CO"
+}
+,
+{
+  "title": "us-den-wg-socks5-103.relays.mullvad.net (37.19.210.27)",
+  "type": 3,
+  "host": "10.124.1.198",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Denver, CO"
+}
+,
+{
+  "title": "us-den-wg-socks5-201.relays.mullvad.net (23.234.68.2)",
+  "type": 3,
+  "host": "10.124.0.147",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Denver, CO"
+}
+,
+{
+  "title": "us-den-wg-socks5-202.relays.mullvad.net (23.234.68.127)",
+  "type": 3,
+  "host": "10.124.0.148",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Denver, CO"
+}
+,
+{
+  "title": "us-den-wg-socks5-203.relays.mullvad.net (23.234.69.2)",
+  "type": 3,
+  "host": "10.124.0.149",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Denver, CO"
+}
+,
+{
+  "title": "us-den-wg-socks5-204.relays.mullvad.net (23.234.69.127)",
+  "type": 3,
+  "host": "10.124.0.150",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Denver, CO"
+}
+,
+{
+  "title": "us-den-wg-socks5-205.relays.mullvad.net (23.234.70.2)",
+  "type": 3,
+  "host": "10.124.0.151",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Denver, CO"
+}
+,
+{
+  "title": "us-den-wg-socks5-206.relays.mullvad.net (23.234.70.127)",
+  "type": 3,
+  "host": "10.124.1.36",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Denver, CO"
+}
+,
+{
+  "title": "us-den-wg-socks5-207.relays.mullvad.net (23.234.71.2)",
+  "type": 3,
+  "host": "10.124.1.37",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Denver, CO"
+}
+,
+{
+  "title": "us-den-wg-socks5-208.relays.mullvad.net (23.234.71.127)",
+  "type": 3,
+  "host": "10.124.1.38",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Denver, CO"
+}
+,
+{
+  "title": "us-det-wg-socks5-001.relays.mullvad.net (185.141.119.131)",
+  "type": 3,
+  "host": "10.124.0.16",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Detroit, MI"
+}
+,
+{
+  "title": "us-det-wg-socks5-002.relays.mullvad.net (185.141.119.161)",
+  "type": 3,
+  "host": "10.124.0.23",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Detroit, MI"
+}
+,
+{
+  "title": "us-hou-wg-socks5-001.relays.mullvad.net (37.19.221.130)",
+  "type": 3,
+  "host": "10.124.1.205",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Houston, TX"
+}
+,
+{
+  "title": "us-hou-wg-socks5-002.relays.mullvad.net (37.19.221.143)",
+  "type": 3,
+  "host": "10.124.1.193",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Houston, TX"
+}
+,
+{
+  "title": "us-hou-wg-socks5-003.relays.mullvad.net (37.19.221.156)",
+  "type": 3,
+  "host": "10.124.1.194",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Houston, TX"
+}
+,
+{
+  "title": "us-hou-wg-socks5-004.relays.mullvad.net (37.19.221.169)",
+  "type": 3,
+  "host": "10.124.1.195",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Houston, TX"
+}
+,
+{
+  "title": "us-lax-wg-socks5-101.relays.mullvad.net (198.44.129.98)",
+  "type": 3,
+  "host": "10.124.0.180",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Los Angeles, CA"
+}
+,
+{
+  "title": "us-lax-wg-socks5-102.relays.mullvad.net (198.44.129.66)",
+  "type": 3,
+  "host": "10.124.0.181",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Los Angeles, CA"
+}
+,
+{
+  "title": "us-lax-wg-socks5-103.relays.mullvad.net (198.44.129.34)",
+  "type": 3,
+  "host": "10.124.0.182",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Los Angeles, CA"
+}
+,
+{
+  "title": "us-lax-wg-socks5-201.relays.mullvad.net (169.150.203.2)",
+  "type": 3,
+  "host": "10.124.0.83",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Los Angeles, CA"
+}
+,
+{
+  "title": "us-lax-wg-socks5-202.relays.mullvad.net (169.150.203.15)",
+  "type": 3,
+  "host": "10.124.2.29",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Los Angeles, CA"
+}
+,
+{
+  "title": "us-lax-wg-socks5-203.relays.mullvad.net (169.150.203.28)",
+  "type": 3,
+  "host": "10.124.2.30",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Los Angeles, CA"
+}
+,
+{
+  "title": "us-lax-wg-socks5-402.relays.mullvad.net (146.70.173.66)",
+  "type": 3,
+  "host": "10.124.1.49",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Los Angeles, CA"
+}
+,
+{
+  "title": "us-lax-wg-socks5-403.relays.mullvad.net (146.70.173.130)",
+  "type": 3,
+  "host": "10.124.1.50",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Los Angeles, CA"
+}
+,
+{
+  "title": "us-lax-wg-socks5-404.relays.mullvad.net (146.70.173.194)",
+  "type": 3,
+  "host": "10.124.1.51",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Los Angeles, CA"
+}
+,
+{
+  "title": "us-lax-wg-socks5-405.relays.mullvad.net (146.70.172.2)",
+  "type": 3,
+  "host": "10.124.1.52",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Los Angeles, CA"
+}
+,
+{
+  "title": "us-lax-wg-socks5-406.relays.mullvad.net (146.70.174.2)",
+  "type": 3,
+  "host": "10.124.0.236",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Los Angeles, CA"
+}
+,
+{
+  "title": "us-lax-wg-socks5-407.relays.mullvad.net (146.70.172.66)",
+  "type": 3,
+  "host": "10.124.1.123",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Los Angeles, CA"
+}
+,
+{
+  "title": "us-lax-wg-socks5-408.relays.mullvad.net (146.70.172.130)",
+  "type": 3,
+  "host": "10.124.1.124",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Los Angeles, CA"
+}
+,
+{
+  "title": "us-lax-wg-socks5-409.relays.mullvad.net (146.70.172.194)",
+  "type": 3,
+  "host": "10.124.1.125",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Los Angeles, CA"
+}
+,
+{
+  "title": "us-lax-wg-socks5-601.relays.mullvad.net (23.162.40.3)",
+  "type": 3,
+  "host": "10.124.0.22",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Los Angeles, CA"
+}
+,
+{
+  "title": "us-lax-wg-socks5-602.relays.mullvad.net (23.162.40.127)",
+  "type": 3,
+  "host": "10.124.0.24",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Los Angeles, CA"
+}
+,
+{
+  "title": "us-lax-wg-socks5-603.relays.mullvad.net (23.159.216.3)",
+  "type": 3,
+  "host": "10.124.0.26",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Los Angeles, CA"
+}
+,
+{
+  "title": "us-lax-wg-socks5-604.relays.mullvad.net (23.159.216.127)",
+  "type": 3,
+  "host": "10.124.0.207",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Los Angeles, CA"
+}
+,
+{
+  "title": "us-lax-wg-socks5-605.relays.mullvad.net (23.160.24.3)",
+  "type": 3,
+  "host": "10.124.0.208",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Los Angeles, CA"
+}
+,
+{
+  "title": "us-lax-wg-socks5-606.relays.mullvad.net (23.160.24.127)",
+  "type": 3,
+  "host": "10.124.0.209",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Los Angeles, CA"
+}
+,
+{
+  "title": "us-lax-wg-socks5-607.relays.mullvad.net (23.168.216.3)",
+  "type": 3,
+  "host": "10.124.1.128",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Los Angeles, CA"
+}
+,
+{
+  "title": "us-lax-wg-socks5-608.relays.mullvad.net (23.168.216.127)",
+  "type": 3,
+  "host": "10.124.1.129",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Los Angeles, CA"
+}
+,
+{
+  "title": "us-lax-wg-socks5-701.relays.mullvad.net (103.251.26.3)",
+  "type": 3,
+  "host": "10.124.1.175",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Los Angeles, CA"
+}
+,
+{
+  "title": "us-lax-wg-socks5-702.relays.mullvad.net (103.251.26.127)",
+  "type": 3,
+  "host": "10.124.1.181",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Los Angeles, CA"
+}
+,
+{
+  "title": "us-lax-wg-socks5-703.relays.mullvad.net (103.251.27.3)",
+  "type": 3,
+  "host": "10.124.1.176",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Los Angeles, CA"
+}
+,
+{
+  "title": "us-lax-wg-socks5-704.relays.mullvad.net (103.251.27.127)",
+  "type": 3,
+  "host": "10.124.1.182",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Los Angeles, CA"
+}
+,
+{
+  "title": "us-mia-wg-socks5-001.relays.mullvad.net (45.134.142.219)",
+  "type": 3,
+  "host": "10.124.1.204",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Miami, FL"
+}
+,
+{
+  "title": "us-mia-wg-socks5-002.relays.mullvad.net (45.134.142.206)",
+  "type": 3,
+  "host": "10.124.1.200",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Miami, FL"
+}
+,
+{
+  "title": "us-mia-wg-socks5-003.relays.mullvad.net (45.134.142.193)",
+  "type": 3,
+  "host": "10.124.1.199",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Miami, FL"
+}
+,
+{
+  "title": "us-mia-wg-socks5-101.relays.mullvad.net (146.70.187.2)",
+  "type": 3,
+  "host": "10.124.0.14",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Miami, FL"
+}
+,
+{
+  "title": "us-mia-wg-socks5-102.relays.mullvad.net (146.70.187.66)",
+  "type": 3,
+  "host": "10.124.0.82",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Miami, FL"
+}
+,
+{
+  "title": "us-mia-wg-socks5-103.relays.mullvad.net (146.70.187.130)",
+  "type": 3,
+  "host": "10.124.0.89",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Miami, FL"
+}
+,
+{
+  "title": "us-mkc-wg-socks5-001.relays.mullvad.net (23.234.116.3)",
+  "type": 3,
+  "host": "10.124.0.86",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Kansas City, MO"
+}
+,
+{
+  "title": "us-mkc-wg-socks5-002.relays.mullvad.net (23.234.116.127)",
+  "type": 3,
+  "host": "10.124.0.153",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Kansas City, MO"
+}
+,
+{
+  "title": "us-mkc-wg-socks5-003.relays.mullvad.net (23.234.117.3)",
+  "type": 3,
+  "host": "10.124.0.157",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Kansas City, MO"
+}
+,
+{
+  "title": "us-mkc-wg-socks5-004.relays.mullvad.net (23.234.117.127)",
+  "type": 3,
+  "host": "10.124.0.158",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Kansas City, MO"
+}
+,
+{
+  "title": "us-mkc-wg-socks5-005.relays.mullvad.net (23.234.118.3)",
+  "type": 3,
+  "host": "10.124.0.162",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Kansas City, MO"
+}
+,
+{
+  "title": "us-mkc-wg-socks5-006.relays.mullvad.net (23.234.118.127)",
+  "type": 3,
+  "host": "10.124.0.163",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Kansas City, MO"
+}
+,
+{
+  "title": "us-mkc-wg-socks5-007.relays.mullvad.net (23.234.119.3)",
+  "type": 3,
+  "host": "10.124.0.164",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Kansas City, MO"
+}
+,
+{
+  "title": "us-mkc-wg-socks5-008.relays.mullvad.net (23.234.119.127)",
+  "type": 3,
+  "host": "10.124.0.165",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Kansas City, MO"
+}
+,
+{
+  "title": "us-nyc-wg-socks5-301.relays.mullvad.net (143.244.47.65)",
+  "type": 3,
+  "host": "10.124.1.190",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "New York, NY"
+}
+,
+{
+  "title": "us-nyc-wg-socks5-302.relays.mullvad.net (143.244.47.78)",
+  "type": 3,
+  "host": "10.124.1.191",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "New York, NY"
+}
+,
+{
+  "title": "us-nyc-wg-socks5-303.relays.mullvad.net (143.244.47.91)",
+  "type": 3,
+  "host": "10.124.1.192",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "New York, NY"
+}
+,
+{
+  "title": "us-nyc-wg-socks5-401.relays.mullvad.net (198.44.136.34)",
+  "type": 3,
+  "host": "10.124.1.230",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "New York, NY"
+}
+,
+{
+  "title": "us-nyc-wg-socks5-402.relays.mullvad.net (198.44.136.66)",
+  "type": 3,
+  "host": "10.124.1.231",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "New York, NY"
+}
+,
+{
+  "title": "us-nyc-wg-socks5-403.relays.mullvad.net (198.44.136.98)",
+  "type": 3,
+  "host": "10.124.1.232",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "New York, NY"
+}
+,
+{
+  "title": "us-nyc-wg-socks5-404.relays.mullvad.net (198.44.136.194)",
+  "type": 3,
+  "host": "10.124.0.210",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "New York, NY"
+}
+,
+{
+  "title": "us-nyc-wg-socks5-405.relays.mullvad.net (198.44.136.130)",
+  "type": 3,
+  "host": "10.124.0.103",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "New York, NY"
+}
+,
+{
+  "title": "us-nyc-wg-socks5-406.relays.mullvad.net (198.44.136.162)",
+  "type": 3,
+  "host": "10.124.0.104",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "New York, NY"
+}
+,
+{
+  "title": "us-nyc-wg-socks5-501.relays.mullvad.net (146.70.165.2)",
+  "type": 3,
+  "host": "10.124.0.72",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "New York, NY"
+}
+,
+{
+  "title": "us-nyc-wg-socks5-502.relays.mullvad.net (146.70.165.130)",
+  "type": 3,
+  "host": "10.124.0.75",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "New York, NY"
+}
+,
+{
+  "title": "us-nyc-wg-socks5-503.relays.mullvad.net (146.70.165.194)",
+  "type": 3,
+  "host": "10.124.0.76",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "New York, NY"
+}
+,
+{
+  "title": "us-nyc-wg-socks5-504.relays.mullvad.net (146.70.166.130)",
+  "type": 3,
+  "host": "10.124.0.87",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "New York, NY"
+}
+,
+{
+  "title": "us-nyc-wg-socks5-505.relays.mullvad.net (146.70.166.194)",
+  "type": 3,
+  "host": "10.124.0.90",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "New York, NY"
+}
+,
+{
+  "title": "us-nyc-wg-socks5-506.relays.mullvad.net (146.70.165.66)",
+  "type": 3,
+  "host": "10.124.0.213",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "New York, NY"
+}
+,
+{
+  "title": "us-nyc-wg-socks5-601.relays.mullvad.net (146.70.185.2)",
+  "type": 3,
+  "host": "10.124.0.167",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "New York, NY"
+}
+,
+{
+  "title": "us-nyc-wg-socks5-602.relays.mullvad.net (146.70.168.130)",
+  "type": 3,
+  "host": "10.124.0.187",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "New York, NY"
+}
+,
+{
+  "title": "us-nyc-wg-socks5-603.relays.mullvad.net (146.70.168.66)",
+  "type": 3,
+  "host": "10.124.1.45",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "New York, NY"
+}
+,
+{
+  "title": "us-nyc-wg-socks5-604.relays.mullvad.net (146.70.171.66)",
+  "type": 3,
+  "host": "10.124.1.46",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "New York, NY"
+}
+,
+{
+  "title": "us-nyc-wg-socks5-605.relays.mullvad.net (146.70.171.130)",
+  "type": 3,
+  "host": "10.124.1.47",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "New York, NY"
+}
+,
+{
+  "title": "us-nyc-wg-socks5-606.relays.mullvad.net (146.70.168.194)",
+  "type": 3,
+  "host": "10.124.0.235",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "New York, NY"
+}
+,
+{
+  "title": "us-nyc-wg-socks5-701.relays.mullvad.net (23.162.8.3)",
+  "type": 3,
+  "host": "10.124.0.131",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "New York, NY"
+}
+,
+{
+  "title": "us-nyc-wg-socks5-702.relays.mullvad.net (23.162.8.67)",
+  "type": 3,
+  "host": "10.124.0.132",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "New York, NY"
+}
+,
+{
+  "title": "us-nyc-wg-socks5-703.relays.mullvad.net (23.162.8.130)",
+  "type": 3,
+  "host": "10.124.0.133",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "New York, NY"
+}
+,
+{
+  "title": "us-nyc-wg-socks5-801.relays.mullvad.net (23.234.100.3)",
+  "type": 3,
+  "host": "10.124.0.170",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "New York, NY"
+}
+,
+{
+  "title": "us-nyc-wg-socks5-802.relays.mullvad.net (23.234.100.127)",
+  "type": 3,
+  "host": "10.124.0.184",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "New York, NY"
+}
+,
+{
+  "title": "us-nyc-wg-socks5-803.relays.mullvad.net (23.234.101.3)",
+  "type": 3,
+  "host": "10.124.0.188",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "New York, NY"
+}
+,
+{
+  "title": "us-nyc-wg-socks5-804.relays.mullvad.net (23.234.101.127)",
+  "type": 3,
+  "host": "10.124.0.193",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "New York, NY"
+}
+,
+{
+  "title": "us-nyc-wg-socks5-805.relays.mullvad.net (23.234.102.3)",
+  "type": 3,
+  "host": "10.124.0.242",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "New York, NY"
+}
+,
+{
+  "title": "us-nyc-wg-socks5-806.relays.mullvad.net (23.234.102.127)",
+  "type": 3,
+  "host": "10.124.1.29",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "New York, NY"
+}
+,
+{
+  "title": "us-nyc-wg-socks5-807.relays.mullvad.net (23.234.103.3)",
+  "type": 3,
+  "host": "10.124.1.165",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "New York, NY"
+}
+,
+{
+  "title": "us-nyc-wg-socks5-808.relays.mullvad.net (23.234.103.127)",
+  "type": 3,
+  "host": "10.124.1.166",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "New York, NY"
+}
+,
+{
+  "title": "us-phx-wg-socks5-101.relays.mullvad.net (198.54.133.98)",
+  "type": 3,
+  "host": "10.124.0.34",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Phoenix, AZ"
+}
+,
+{
+  "title": "us-phx-wg-socks5-102.relays.mullvad.net (198.54.133.130)",
+  "type": 3,
+  "host": "10.124.0.31",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Phoenix, AZ"
+}
+,
+{
+  "title": "us-phx-wg-socks5-103.relays.mullvad.net (198.54.133.162)",
+  "type": 3,
+  "host": "10.124.0.32",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Phoenix, AZ"
+}
+,
+{
+  "title": "us-phx-wg-socks5-201.relays.mullvad.net (23.234.88.3)",
+  "type": 3,
+  "host": "10.124.1.146",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Phoenix, AZ"
+}
+,
+{
+  "title": "us-phx-wg-socks5-202.relays.mullvad.net (23.234.88.127)",
+  "type": 3,
+  "host": "10.124.1.147",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Phoenix, AZ"
+}
+,
+{
+  "title": "us-phx-wg-socks5-203.relays.mullvad.net (23.234.89.3)",
+  "type": 3,
+  "host": "10.124.1.148",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Phoenix, AZ"
+}
+,
+{
+  "title": "us-phx-wg-socks5-204.relays.mullvad.net (23.234.89.127)",
+  "type": 3,
+  "host": "10.124.1.149",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Phoenix, AZ"
+}
+,
+{
+  "title": "us-phx-wg-socks5-205.relays.mullvad.net (23.234.90.3)",
+  "type": 3,
+  "host": "10.124.1.150",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Phoenix, AZ"
+}
+,
+{
+  "title": "us-phx-wg-socks5-206.relays.mullvad.net (23.234.90.127)",
+  "type": 3,
+  "host": "10.124.1.151",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Phoenix, AZ"
+}
+,
+{
+  "title": "us-phx-wg-socks5-207.relays.mullvad.net (23.234.91.3)",
+  "type": 3,
+  "host": "10.124.1.152",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Phoenix, AZ"
+}
+,
+{
+  "title": "us-phx-wg-socks5-208.relays.mullvad.net (23.234.91.127)",
+  "type": 3,
+  "host": "10.124.1.153",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Phoenix, AZ"
+}
+,
+{
+  "title": "us-qas-wg-socks5-001.relays.mullvad.net (198.54.135.34)",
+  "type": 3,
+  "host": "10.124.1.186",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Ashburn, VA"
+}
+,
+{
+  "title": "us-qas-wg-socks5-002.relays.mullvad.net (198.54.135.66)",
+  "type": 3,
+  "host": "10.124.1.187",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Ashburn, VA"
+}
+,
+{
+  "title": "us-qas-wg-socks5-003.relays.mullvad.net (198.54.135.98)",
+  "type": 3,
+  "host": "10.124.1.188",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Ashburn, VA"
+}
+,
+{
+  "title": "us-qas-wg-socks5-004.relays.mullvad.net (198.54.135.130)",
+  "type": 3,
+  "host": "10.124.1.189",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Ashburn, VA"
+}
+,
+{
+  "title": "us-qas-wg-socks5-101.relays.mullvad.net (185.156.46.130)",
+  "type": 3,
+  "host": "10.124.2.22",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Ashburn, VA"
+}
+,
+{
+  "title": "us-qas-wg-socks5-102.relays.mullvad.net (185.156.46.143)",
+  "type": 3,
+  "host": "10.124.2.23",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Ashburn, VA"
+}
+,
+{
+  "title": "us-qas-wg-socks5-103.relays.mullvad.net (185.156.46.156)",
+  "type": 3,
+  "host": "10.124.2.24",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Ashburn, VA"
+}
+,
+{
+  "title": "us-qas-wg-socks5-201.relays.mullvad.net (103.81.230.3)",
+  "type": 3,
+  "host": "10.124.1.167",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Ashburn, VA"
+}
+,
+{
+  "title": "us-qas-wg-socks5-202.relays.mullvad.net (103.81.230.127)",
+  "type": 3,
+  "host": "10.124.1.168",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Ashburn, VA"
+}
+,
+{
+  "title": "us-qas-wg-socks5-203.relays.mullvad.net (103.81.231.3)",
+  "type": 3,
+  "host": "10.124.1.169",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Ashburn, VA"
+}
+,
+{
+  "title": "us-qas-wg-socks5-204.relays.mullvad.net (103.81.231.127)",
+  "type": 3,
+  "host": "10.124.1.170",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Ashburn, VA"
+}
+,
+{
+  "title": "us-rag-wg-socks5-201.relays.mullvad.net (23.234.76.2)",
+  "type": 3,
+  "host": "10.124.1.41",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Raleigh, NC"
+}
+,
+{
+  "title": "us-rag-wg-socks5-202.relays.mullvad.net (23.234.76.127)",
+  "type": 3,
+  "host": "10.124.1.42",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Raleigh, NC"
+}
+,
+{
+  "title": "us-rag-wg-socks5-203.relays.mullvad.net (23.234.77.2)",
+  "type": 3,
+  "host": "10.124.1.43",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Raleigh, NC"
+}
+,
+{
+  "title": "us-rag-wg-socks5-204.relays.mullvad.net (23.234.77.127)",
+  "type": 3,
+  "host": "10.124.1.44",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Raleigh, NC"
+}
+,
+{
+  "title": "us-rag-wg-socks5-205.relays.mullvad.net (23.234.78.2)",
+  "type": 3,
+  "host": "10.124.1.96",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Raleigh, NC"
+}
+,
+{
+  "title": "us-rag-wg-socks5-206.relays.mullvad.net (23.234.78.127)",
+  "type": 3,
+  "host": "10.124.1.97",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Raleigh, NC"
+}
+,
+{
+  "title": "us-rag-wg-socks5-207.relays.mullvad.net (23.234.79.2)",
+  "type": 3,
+  "host": "10.124.1.98",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Raleigh, NC"
+}
+,
+{
+  "title": "us-rag-wg-socks5-208.relays.mullvad.net (23.234.79.127)",
+  "type": 3,
+  "host": "10.124.1.99",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Raleigh, NC"
+}
+,
+{
+  "title": "us-sea-wg-socks5-001.relays.mullvad.net (138.199.43.91)",
+  "type": 3,
+  "host": "10.124.1.229",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Seattle, WA"
+}
+,
+{
+  "title": "us-sea-wg-socks5-002.relays.mullvad.net (138.199.43.78)",
+  "type": 3,
+  "host": "10.124.1.228",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Seattle, WA"
+}
+,
+{
+  "title": "us-sea-wg-socks5-003.relays.mullvad.net (138.199.43.65)",
+  "type": 3,
+  "host": "10.124.1.227",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Seattle, WA"
+}
+,
+{
+  "title": "us-sea-wg-socks5-102.relays.mullvad.net (198.54.131.162)",
+  "type": 3,
+  "host": "10.124.0.3",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Seattle, WA"
+}
+,
+{
+  "title": "us-sea-wg-socks5-103.relays.mullvad.net (198.54.131.98)",
+  "type": 3,
+  "host": "10.124.0.5",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Seattle, WA"
+}
+,
+{
+  "title": "us-sea-wg-socks5-401.relays.mullvad.net (23.234.80.2)",
+  "type": 3,
+  "host": "10.124.1.100",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Seattle, WA"
+}
+,
+{
+  "title": "us-sea-wg-socks5-402.relays.mullvad.net (23.234.80.127)",
+  "type": 3,
+  "host": "10.124.1.101",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Seattle, WA"
+}
+,
+{
+  "title": "us-sea-wg-socks5-403.relays.mullvad.net (23.234.81.2)",
+  "type": 3,
+  "host": "10.124.1.102",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Seattle, WA"
+}
+,
+{
+  "title": "us-sea-wg-socks5-404.relays.mullvad.net (23.234.81.127)",
+  "type": 3,
+  "host": "10.124.1.103",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Seattle, WA"
+}
+,
+{
+  "title": "us-sea-wg-socks5-405.relays.mullvad.net (23.234.82.2)",
+  "type": 3,
+  "host": "10.124.1.104",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Seattle, WA"
+}
+,
+{
+  "title": "us-sea-wg-socks5-406.relays.mullvad.net (23.234.82.127)",
+  "type": 3,
+  "host": "10.124.1.105",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Seattle, WA"
+}
+,
+{
+  "title": "us-sea-wg-socks5-407.relays.mullvad.net (23.234.83.2)",
+  "type": 3,
+  "host": "10.124.1.106",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Seattle, WA"
+}
+,
+{
+  "title": "us-sea-wg-socks5-408.relays.mullvad.net (23.234.83.127)",
+  "type": 3,
+  "host": "10.124.1.107",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Seattle, WA"
+}
+,
+{
+  "title": "us-sjc-wg-socks5-001.relays.mullvad.net (198.54.134.98)",
+  "type": 3,
+  "host": "10.124.0.78",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "San Jose, CA"
+}
+,
+{
+  "title": "us-sjc-wg-socks5-002.relays.mullvad.net (198.54.134.130)",
+  "type": 3,
+  "host": "10.124.0.69",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "San Jose, CA"
+}
+,
+{
+  "title": "us-sjc-wg-socks5-003.relays.mullvad.net (198.54.134.162)",
+  "type": 3,
+  "host": "10.124.0.70",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "San Jose, CA"
+}
+,
+{
+  "title": "us-sjc-wg-socks5-301.relays.mullvad.net (142.147.89.195)",
+  "type": 3,
+  "host": "10.124.1.209",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "San Jose, CA"
+}
+,
+{
+  "title": "us-sjc-wg-socks5-302.relays.mullvad.net (142.147.89.210)",
+  "type": 3,
+  "host": "10.124.1.210",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "San Jose, CA"
+}
+,
+{
+  "title": "us-sjc-wg-socks5-303.relays.mullvad.net (142.147.89.225)",
+  "type": 3,
+  "host": "10.124.1.211",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "San Jose, CA"
+}
+,
+{
+  "title": "us-sjc-wg-socks5-401.relays.mullvad.net (79.127.217.34)",
+  "type": 3,
+  "host": "10.124.1.6",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "San Jose, CA"
+}
+,
+{
+  "title": "us-sjc-wg-socks5-402.relays.mullvad.net (79.127.217.47)",
+  "type": 3,
+  "host": "10.124.1.7",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "San Jose, CA"
+}
+,
+{
+  "title": "us-sjc-wg-socks5-501.relays.mullvad.net (23.234.92.3)",
+  "type": 3,
+  "host": "10.124.1.154",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "San Jose, CA"
+}
+,
+{
+  "title": "us-sjc-wg-socks5-502.relays.mullvad.net (23.234.92.127)",
+  "type": 3,
+  "host": "10.124.1.155",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "San Jose, CA"
+}
+,
+{
+  "title": "us-sjc-wg-socks5-503.relays.mullvad.net (23.234.93.3)",
+  "type": 3,
+  "host": "10.124.1.156",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "San Jose, CA"
+}
+,
+{
+  "title": "us-sjc-wg-socks5-504.relays.mullvad.net (23.234.93.127)",
+  "type": 3,
+  "host": "10.124.1.157",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "San Jose, CA"
+}
+,
+{
+  "title": "us-sjc-wg-socks5-505.relays.mullvad.net (23.234.94.3)",
+  "type": 3,
+  "host": "10.124.1.158",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "San Jose, CA"
+}
+,
+{
+  "title": "us-sjc-wg-socks5-506.relays.mullvad.net (23.234.94.127)",
+  "type": 3,
+  "host": "10.124.1.159",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "San Jose, CA"
+}
+,
+{
+  "title": "us-sjc-wg-socks5-507.relays.mullvad.net (23.234.95.3)",
+  "type": 3,
+  "host": "10.124.1.160",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "San Jose, CA"
+}
+,
+{
+  "title": "us-sjc-wg-socks5-508.relays.mullvad.net (23.234.95.127)",
+  "type": 3,
+  "host": "10.124.1.161",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "San Jose, CA"
+}
+,
+{
+  "title": "us-slc-wg-socks5-201.relays.mullvad.net (69.4.234.9)",
+  "type": 3,
+  "host": "10.124.1.12",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Salt Lake City, UT"
+}
+,
+{
+  "title": "us-slc-wg-socks5-202.relays.mullvad.net (69.4.234.149)",
+  "type": 3,
+  "host": "10.124.1.13",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Salt Lake City, UT"
+}
+,
+{
+  "title": "us-slc-wg-socks5-203.relays.mullvad.net (69.4.234.131)",
+  "type": 3,
+  "host": "10.124.1.14",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Salt Lake City, UT"
+}
+,
+{
+  "title": "us-slc-wg-socks5-204.relays.mullvad.net (69.4.234.10)",
+  "type": 3,
+  "host": "10.124.1.15",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Salt Lake City, UT"
+}
+,
+{
+  "title": "us-slc-wg-socks5-301.relays.mullvad.net (23.234.112.3)",
+  "type": 3,
+  "host": "10.124.1.138",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Salt Lake City, UT"
+}
+,
+{
+  "title": "us-slc-wg-socks5-302.relays.mullvad.net (23.234.112.127)",
+  "type": 3,
+  "host": "10.124.1.139",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Salt Lake City, UT"
+}
+,
+{
+  "title": "us-slc-wg-socks5-303.relays.mullvad.net (23.234.113.3)",
+  "type": 3,
+  "host": "10.124.1.140",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Salt Lake City, UT"
+}
+,
+{
+  "title": "us-slc-wg-socks5-304.relays.mullvad.net (23.234.113.127)",
+  "type": 3,
+  "host": "10.124.1.141",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Salt Lake City, UT"
+}
+,
+{
+  "title": "us-slc-wg-socks5-305.relays.mullvad.net (23.234.114.3)",
+  "type": 3,
+  "host": "10.124.1.142",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Salt Lake City, UT"
+}
+,
+{
+  "title": "us-slc-wg-socks5-306.relays.mullvad.net (23.234.114.127)",
+  "type": 3,
+  "host": "10.124.1.143",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Salt Lake City, UT"
+}
+,
+{
+  "title": "us-slc-wg-socks5-307.relays.mullvad.net (23.234.115.3)",
+  "type": 3,
+  "host": "10.124.1.144",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Salt Lake City, UT"
+}
+,
+{
+  "title": "us-slc-wg-socks5-308.relays.mullvad.net (23.234.115.127)",
+  "type": 3,
+  "host": "10.124.1.145",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Salt Lake City, UT"
+}
+,
+{
+  "title": "us-txc-wg-socks5-001.relays.mullvad.net (79.127.222.194)",
+  "type": 3,
+  "host": "10.124.0.250",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "McAllen, TX"
+}
+,
+{
+  "title": "us-txc-wg-socks5-002.relays.mullvad.net (79.127.222.207)",
+  "type": 3,
+  "host": "10.124.0.251",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "McAllen, TX"
+}
+,
+{
+  "title": "us-uyk-wg-socks5-201.relays.mullvad.net (104.36.50.3)",
+  "type": 3,
+  "host": "10.124.0.29",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Secaucus, NJ"
+}
+,
+{
+  "title": "us-uyk-wg-socks5-202.relays.mullvad.net (104.36.50.33)",
+  "type": 3,
+  "host": "10.124.0.169",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Secaucus, NJ"
+}
+,
+{
+  "title": "us-was-wg-socks5-001.relays.mullvad.net (185.213.193.3)",
+  "type": 3,
+  "host": "10.124.1.108",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Washington DC"
+}
+,
+{
+  "title": "us-was-wg-socks5-002.relays.mullvad.net (185.213.193.127)",
+  "type": 3,
+  "host": "10.124.1.109",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#888888",
+  "country": "USA",
+  "city": "Washington DC"
+}
+,
+{
+  "title": "za-jnb-wg-socks5-001.relays.mullvad.net (154.47.30.130)",
+  "type": 3,
+  "host": "10.124.2.59",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ffaa88",
+  "country": "South Africa",
+  "city": "Johannesburg"
+}
+,
+{
+  "title": "za-jnb-wg-socks5-002.relays.mullvad.net (154.47.30.143)",
+  "type": 3,
+  "host": "10.124.2.60",
+  "port": 1080,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "#ffaa88",
+  "country": "South Africa",
+  "city": "Johannesburg"
+}
