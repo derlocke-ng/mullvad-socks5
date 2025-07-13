@@ -15,6 +15,9 @@ curl -s "$API_URL" -o "$TMP_JSON"
 echo '[' > "$FOXY_JSON"
 first=1
 
+# Declare associative array for per-country JSON outputs
+declare -A country_json_files
+
 # Function to get country color
 get_country_color() {
     case "$1" in
@@ -99,13 +102,50 @@ jq -r '.[] | select(.type=="wireguard") | select(.socks_name != null) | [.socks_
   "city": "$city"
 }
 EOF
+        # Per-country file names
+        country_safe=$(echo "$country" | tr ' ' '_' | tr -dc 'A-Za-z0-9_')
+        json_file="${OUTPUT_PREFIX}_${country_safe}_foxyproxy.json"
+        list_file="${OUTPUT_PREFIX}_${country_safe}_list.txt"
+        proxifier_file="${OUTPUT_PREFIX}_${country_safe}_proxifier.txt"
+
+        # Initialize per-country JSON file if not exists
+        if [ ! -f "$json_file" ]; then echo '[' > "$json_file"; country_json_files[$country_safe]=0; fi
+        # Per-country TXT/Proxifier
+        touch "$list_file" "$proxifier_file"
+
+        # Write to per-country TXT
+        echo "$internal_ip:$socks_port" >> "$list_file"
+        echo "$internal_ip $socks_port SOCKS5" >> "$proxifier_file"
+
+        # Write to per-country JSON
+        if [ ${country_json_files[$country_safe]} -eq 0 ]; then country_json_files[$country_safe]=1; else echo ',' >> "$json_file"; fi
+        cat <<EOF >> "$json_file"
+{
+  "title": "$socks_name ($wan_ip)",
+  "type": 3,
+  "host": "$internal_ip",
+  "port": $socks_port,
+  "username": "",
+  "password": "",
+  "proxyDNS": true,
+  "active": true,
+  "color": "$color",
+  "country": "$country",
+  "city": "$city"
+}
+EOF
         echo "✓ $socks_name -> $internal_ip:$socks_port is UP"
     else
         echo "✗ $socks_name is DOWN"
     fi
 done
 
-echo ']' >> "$FOXY_JSON"
+# Close all per-country JSON arrays
+for file in "${!country_json_files[@]}"; do
+    json_file="${OUTPUT_PREFIX}_${file}_foxyproxy.json"
+    echo ']' >> "$json_file"
+done
+
 rm -f "$TMP_JSON"
 echo "\nWorking proxies saved to: ${OUTPUT_PREFIX}_list.txt"
 echo "Proxifier TXT: ${OUTPUT_PREFIX}_proxifier.txt"
