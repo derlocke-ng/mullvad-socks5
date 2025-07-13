@@ -23,9 +23,59 @@ curl -s "$API_URL" -o "$TMP_JSON"
 true > "$PROXY_TXT"
 
 get_country_code() {
-    # Use first two letters, uppercase, fallback to XX
     local country="$1"
-    if [ -z "$country" ]; then echo "XX"; else echo "$country" | awk '{print toupper(substr($1,1,2))}'; fi
+    case "$country" in
+        "Albania") echo "AL" ;;
+        "Australia") echo "AU" ;;
+        "Austria") echo "AT" ;;
+        "Belgium") echo "BE" ;;
+        "Brazil") echo "BR" ;;
+        "Bulgaria") echo "BG" ;;
+        "Canada") echo "CA" ;;
+        "Chile") echo "CL" ;;
+        "Colombia") echo "CO" ;;
+        "Croatia") echo "HR" ;;
+        "Cyprus") echo "CY" ;;
+        "Czech Republic") echo "CZ" ;;
+        "Denmark") echo "DK" ;;
+        "Estonia") echo "EE" ;;
+        "Finland") echo "FI" ;;
+        "France") echo "FR" ;;
+        "Germany") echo "DE" ;;
+        "Greece") echo "GR" ;;
+        "Hong Kong") echo "HK" ;;
+        "Hungary") echo "HU" ;;
+        "Indonesia") echo "ID" ;;
+        "Ireland") echo "IE" ;;
+        "Israel") echo "IL" ;;
+        "Italy") echo "IT" ;;
+        "Japan") echo "JP" ;;
+        "Malaysia") echo "MY" ;;
+        "Mexico") echo "MX" ;;
+        "Netherlands") echo "NL" ;;
+        "New Zealand") echo "NZ" ;;
+        "Nigeria") echo "NG" ;;
+        "Norway") echo "NO" ;;
+        "Peru") echo "PE" ;;
+        "Philippines") echo "PH" ;;
+        "Poland") echo "PL" ;;
+        "Portugal") echo "PT" ;;
+        "Romania") echo "RO" ;;
+        "Serbia") echo "RS" ;;
+        "Singapore") echo "SG" ;;
+        "Slovakia") echo "SK" ;;
+        "Slovenia") echo "SI" ;;
+        "South Africa") echo "ZA" ;;
+        "Spain") echo "ES" ;;
+        "Sweden") echo "SE" ;;
+        "Switzerland") echo "CH" ;;
+        "Thailand") echo "TH" ;;
+        "Turkey") echo "TR" ;;
+        "Ukraine") echo "UA" ;;
+        "United Kingdom") echo "GB" ;;
+        "United States") echo "US" ;;
+        *) echo "XX" ;;
+    esac
 }
 
 get_color() {
