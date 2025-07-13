@@ -1,0 +1,89 @@
+name: Mullvad SOCKS5 Proxy Scanner
+
+on:
+  schedule:
+    # Run every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch:  # Allow manual triggering
+
+jobs:
+  scan-proxies:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Install dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y wireguard-tools curl jq dnsutils
+        
+    - name: Setup WireGuard configuration
+      env:
+        MULLVAD_PRIVATE_KEY: ${{ secrets.MULLVAD_PRIVATE_KEY }}
+        MULLVAD_SERVER_PUBLIC_KEY: ${{ secrets.MULLVAD_SERVER_PUBLIC_KEY }}
+        MULLVAD_SERVER_ENDPOINT: ${{ secrets.MULLVAD_SERVER_ENDPOINT }}
+        MULLVAD_ADDRESS: ${{ secrets.MULLVAD_ADDRESS }}
+      run: |
+        # Create WireGuard config
+        sudo tee /etc/wireguard/wg0.conf > /dev/null <<EOF
+        [Interface]
+        PrivateKey = $MULLVAD_PRIVATE_KEY
+        Address = $MULLVAD_ADDRESS
+        DNS = 10.64.0.1
+        
+        [Peer]
+        PublicKey = $MULLVAD_SERVER_PUBLIC_KEY
+        Endpoint = $MULLVAD_SERVER_ENDPOINT
+        AllowedIPs = 10.64.0.0/10
+        EOF
+        
+        # Start WireGuard
+        sudo wg-quick up wg0
+        
+        # Verify connection
+        ping -c 3 10.64.0.1 || exit 1
+        
+    - name: Run proxy scanner
+      run: |
+        chmod +x ./mullvad_socks_scan.sh
+        ./mullvad_socks_scan.sh mullvad_proxies
+        
+    - name: Cleanup old proxy files
+      run: |
+        find . -maxdepth 1 -type f -name 'mullvad_proxies_*' -mtime +10 -delete
+
+    - name: Upload artifacts
+      uses: actions/upload-artifact@v4
+      with:
+        name: mullvad-proxy-lists-latest
+        path: |
+          mullvad_proxies_list.txt
+          mullvad_proxies_proxifier.txt
+          mullvad_proxies_foxyproxy.json
+        retention-days: 30
+        
+    - name: Create/Update Release
+      uses: softprops/action-gh-release@v1
+      with:
+        tag_name: latest-proxies
+        name: Mullvad SOCKS5 Proxies (Latest)
+        body: |
+          Latest checked Mullvad SOCKS5 proxy lists with internal IPs (10.124.x.y)
+          
+          Files included:
+          - mullvad_proxies_list.txt (IP:port)
+          - mullvad_proxies_proxifier.txt (IP port SOCKS5)
+          - mullvad_proxies_foxyproxy.json (FoxyProxy import)
+        files: |
+          mullvad_proxies_list.txt
+          mullvad_proxies_proxifier.txt
+          mullvad_proxies_foxyproxy.json
+        draft: false
+        prerelease: false
+        overwrite: true
+    - name: Cleanup
+      if: always()
+      run: |
+        sudo wg-quick down wg0 || true
