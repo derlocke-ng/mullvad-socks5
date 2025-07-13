@@ -105,13 +105,13 @@ echo "📊 Found $total_relays SOCKS5 relays to process"
 processed=0
 working_count=0
 
-jq -r '.[] | select(.type=="wireguard") | select(.socks_name != null) | [.socks_name, .socks_port, .ipv4_addr_in, .country_name, .city_name] | @tsv' "$TMP_JSON" | while IFS=$'\t' read -r socks_name socks_port wan_ip country city; do
+jq -r '.[] | select(.type=="wireguard") | select(.socks_name != null) | [.socks_name, .socks_port, .ipv4_addr_in, .country_name, .city_name] | @tsv' "$TMP_JSON" | while IFS=$'\t' read -r socks_name socks_port wan_ip country _; do
     internal_ip=$(resolve_ip "$socks_name")
     if [[ "$internal_ip" =~ ^[0-9.]+$ ]]; then
         country_code=$(get_country_code "$country")
         color=$(get_color "$country")
         title="$socks_name ($wan_ip)"
-        url="socks5://:@$internal_ip:$socks_port?color=$color&title=$(echo $title | sed 's/ /%20/g')&proxyDns=false&enabled=false&countryCode=$country_code&country=$(echo $country | sed 's/ /%20/g')&patternIncludesAll=false&patternExcludesIntranet=false"
+        url="socks5://$internal_ip:$socks_port?color=$color&title=$(echo $title | sed 's/ /%20/g')&proxyDns=false&enabled=false&countryCode=$country_code&country=$(echo $country | sed 's/ /%20/g')&patternIncludesAll=false&patternExcludesIntranet=false"
         echo "$url" >> "$PROXY_TXT"
         echo "✓ $socks_name -> $internal_ip:$socks_port is UP"
     else
