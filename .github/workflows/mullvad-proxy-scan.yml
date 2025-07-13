@@ -45,28 +45,20 @@ jobs:
         # Verify connection
         ping -c 3 10.64.0.1 || exit 1
         
-    - name: Run proxy scanner
+    - name: Run unified proxy scanner
       run: |
-        chmod +x ./mullvad_socks_scan.sh
-        ./mullvad_socks_scan.sh mullvad_proxies
+        chmod +x ./mullvad_socks_scan_unified.sh
+        ./mullvad_socks_scan_unified.sh mullvad_proxies
         
     - name: Cleanup old proxy files
       run: |
         find . -maxdepth 1 -type f -name 'mullvad_proxies_*' -mtime +10 -delete
 
-    - name: Upload artifacts
+    - name: Upload artifact
       uses: actions/upload-artifact@v4
       with:
-        name: mullvad-proxy-lists-latest
-        path: |
-          mullvad_proxies_list.txt
-          mullvad_proxies_proxifier.txt
-          mullvad_proxies_foxyproxy.json
-          mullvad_proxies_socks5.txt
-          mullvad_proxies_*_list.txt
-          mullvad_proxies_*_proxifier.txt
-          mullvad_proxies_*_foxyproxy.json
-          mullvad_proxies_*_socks5.txt
+        name: mullvad-proxy-list-latest
+        path: mullvad_proxies_proxies.txt
         retention-days: 30
         
     - name: Create/Update Release
@@ -75,26 +67,13 @@ jobs:
         tag_name: latest-proxies
         name: Mullvad SOCKS5 Proxies (Latest)
         body: |
-          Latest checked Mullvad SOCKS5 proxy lists with internal IPs (10.124.x.y)
+          Latest checked Mullvad SOCKS5 proxy list in unified format.
           
-          Files included:
-          - mullvad_proxies_list.txt (IP:port)
-          - mullvad_proxies_proxifier.txt (IP port SOCKS5)
-          - mullvad_proxies_foxyproxy.json (FoxyProxy import)
-          - mullvad_proxies_socks5.txt (socks5:// URLs)
-          - Per-country files: *_list.txt, *_proxifier.txt, *_foxyproxy.json, *_socks5.txt
-        files: |
-          mullvad_proxies_list.txt
-          mullvad_proxies_proxifier.txt
-          mullvad_proxies_foxyproxy.json
-          mullvad_proxies_socks5.txt
-          mullvad_proxies_*_list.txt
-          mullvad_proxies_*_proxifier.txt
-          mullvad_proxies_*_foxyproxy.json
-          mullvad_proxies_*_socks5.txt
+          File included:
+          - mullvad_proxies_proxies.txt (protocol://...)
+        files: mullvad_proxies_proxies.txt
         draft: false
         prerelease: false
-        overwrite: true
     - name: Cleanup
       if: always()
       run: |
