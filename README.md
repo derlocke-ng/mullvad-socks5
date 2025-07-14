@@ -10,39 +10,11 @@ Automated GitHub workflow that scans and generates Mullvad SOCKS5 proxy lists in
 - 📦 **Automatic releases** - Downloads available as GitHub releases
 - 🔒 **Secure** - Uses GitHub Secrets for credentials
 
-## Output Formats
+## Output Format
 
-### 1. Simple List (`*_list.txt`)
+### 1. Proxy/Socks5 List (`*_list.txt`)
 ```
-10.124.0.155:1080
-10.124.0.212:1080
-...
-```
-
-### 2. Proxifier Format (`*_proxifier.txt`)
-```
-10.124.0.155 1080 SOCKS5
-10.124.0.212 1080 SOCKS5
-...
-```
-
-### 3. FoxyProxy JSON (`*_foxyproxy.json`)
-```json
-[
-  {
-    "title": "al-tia-wg-socks5-001.relays.mullvad.net (31.171.153.66)",
-    "type": 3,
-    "host": "10.124.0.155",
-    "port": 1080,
-    "username": "",
-    "password": "",
-    "proxyDNS": true,
-    "active": true,
-    "color": "#ff4444",
-    "country": "Albania",
-    "city": "Tirana"
-  }
-]
+socks5://10.124.0.155:1080?color=ff4444&title=al-tia-wg-socks5-001.relays.mullvad.net%20(31.171.153.66)&proxyDns=false&enabled=false&countryCode=AL&country=Albania&patternIncludesAll=false&patternExcludesIntranet=false
 ```
 
 ## Setup Instructions
