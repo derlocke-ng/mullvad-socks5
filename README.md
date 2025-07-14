@@ -1,6 +1,6 @@
 # Mullvad SOCKS5 Proxy Scanner
 
-Automated GitHub workflow that scans and generates Mullvad SOCKS5 proxy lists in multiple formats.
+Automated GitHub workflow that scans and generates a Mullvad SOCKS5 proxy list.
 
 ## Features
 
