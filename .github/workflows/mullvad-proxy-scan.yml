@@ -6,6 +6,9 @@ on:
     - cron: '0 */6 * * *'
   workflow_dispatch:  # Allow manual triggering
 
+permissions:
+  contents: write
+
 jobs:
   scan-proxies:
     runs-on: ubuntu-latest
@@ -60,6 +63,28 @@ jobs:
         name: mullvad-proxy-list-latest
         path: mullvad_proxies_proxy.txt
         retention-days: 30
+
+    - name: Publish latest list to list branch
+      run: |
+        set -euo pipefail
+        test -s mullvad_proxies_proxy.txt
+        cp mullvad_proxies_proxy.txt "$RUNNER_TEMP/mullvad_proxies_proxy.txt"
+
+        if git ls-remote --exit-code --heads origin list >/dev/null; then
+          git fetch origin list
+          git checkout -B list FETCH_HEAD
+        else
+          git checkout --orphan list
+        fi
+
+        git rm -rf .
+        git clean -fdx
+        cp "$RUNNER_TEMP/mullvad_proxies_proxy.txt" mullvad_proxies_proxy.txt
+        git config user.name "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git add mullvad_proxies_proxy.txt
+        git commit -m "Update proxy list $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+        git push origin list
         
     - name: Create/Update Release
       uses: softprops/action-gh-release@v1
