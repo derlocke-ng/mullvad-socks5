@@ -100,6 +100,33 @@ class TestPiholeScript(unittest.TestCase):
         self.assertEqual(os.listdir(self.hosts), [])
         self.assertEqual(os.listdir(self.dir), ["mullvad-socks.hosts"])
 
+    def test_a_trailing_slash_does_not_get_a_link_past_the_check(self):
+        target = os.path.join(self.tmp, "elsewhere")
+        os.makedirs(target)
+        os.symlink(target, self.dir)
+        for arg in (self.dir + "/", self.dir + "//"):
+            r = subprocess.run(["sh", SCRIPT, arg], capture_output=True, text=True,
+                               env=dict(os.environ, MULLVAD_SOCKS_HOSTS_URL="file://" + self.src))
+            self.assertEqual(r.returncode, 1, arg)
+            self.assertEqual(os.listdir(target), [])
+        for arg in ("/", self.dir + "/.", self.dir + "/.."):
+            r = subprocess.run(["sh", SCRIPT, arg], capture_output=True, text=True)
+            self.assertEqual(r.returncode, 1, arg)
+
+    def test_never_writes_into_a_dnsmasq_conf_dir(self):
+        # what the earlier version of this script was given: Pi-hole's dnsmasq.d
+        os.makedirs(self.dir)
+        with open(os.path.join(self.dir, "90-mullvad-socks.conf"), "w") as f:
+            f.write("hostsdir=/etc/dnsmasq.d/mullvad-socks\n")
+        r = self.run_script()
+        self.assertEqual(r.returncode, 1)
+        self.assertIn("looks like Pi-hole's dnsmasq.d", r.stderr)
+        self.assertEqual(os.listdir(self.dir), ["90-mullvad-socks.conf"])
+        os.unlink(os.path.join(self.dir, "90-mullvad-socks.conf"))
+        os.makedirs(os.path.join(self.dir, "mullvad-socks"))
+        self.assertEqual(self.run_script().returncode, 1)
+        self.assertEqual(os.listdir(self.dir), ["mullvad-socks"])
+
 
 if __name__ == "__main__":
     unittest.main()

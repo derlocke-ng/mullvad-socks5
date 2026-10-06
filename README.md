@@ -94,6 +94,26 @@ master:
     # mullvad_socks_url: https://raw.githubusercontent.com/<you>/mullvad-socks5/list/mullvad-socks.hosts
 ```
 
+#### Upgrading from the earlier instructions
+
+An earlier version of this README had the records refreshed inside Pi-hole's
+`/etc/dnsmasq.d`, where a compromised Pi-hole container could redirect that
+root timer's writes. If you set that up, undo it (kiwi: before or after
+upgrading kiwi-server; the paths are a kiwi master's):
+
+```bash
+sudo systemctl disable --now pihole-mullvad-socks.timer pihole-mullvad-socks.service
+sudo rm -f /etc/systemd/system/pihole-mullvad-socks.timer /etc/systemd/system/pihole-mullvad-socks.service
+sudo rm -f /home/user/docker/km-pihole/etc-dnsmasq.d/90-mullvad-socks.conf
+sudo rm -rf /home/user/docker/km-pihole/etc-dnsmasq.d/mullvad-socks
+sudo systemctl daemon-reload
+```
+
+and take `FTLCONF_misc_etc_dnsmasq_d` out of the master's `dns: extra_env`
+(and any `kiwi-extra-records.yaml` entries out of `extra_records`) before
+applying the role again. Outside kiwi, set the script up anew as below; it
+refuses its old directory.
+
 ### Any other Pi-hole 6
 
 [contrib/pihole-mullvad-socks.sh](contrib/pihole-mullvad-socks.sh) does the

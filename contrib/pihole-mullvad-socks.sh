@@ -23,6 +23,12 @@ short=$(printf '%s' "${MULLVAD_SOCKS_DOMAIN-mullvad.home}" | tr '[:upper:]' '[:l
 dir="${1:?usage: $0 <directory for the records, read-only for Pi-hole>}"
 hosts=mullvad-socks.hosts
 
+# without trailing slashes: "dir/" would make stat follow a link at dir
+dir=$(printf '%s' "$dir" | sed 's#/*$##')
+case $dir in
+    '' | . | .. | */. | */..) echo "$1: give the directory by its name" >&2; exit 1 ;;
+esac
+
 # Work only in a directory that is exactly this path (not a link to another),
 # belongs to whoever runs this and is writable by nobody else, by relative
 # names: no one else can swap a file under root's hands.
@@ -34,6 +40,14 @@ if [ "$(stat -c %d:%i .)" != "$(stat -c %d:%i "$dir")" ] || [ "$(stat -c %u .)" 
     echo "$dir must be a directory of $(id -un)'s that nobody else can write to — leaving it alone" >&2
     exit 1
 fi
+# never a dnsmasq conf-dir: what the earlier version of this script was given
+for f in ./*.conf ./mullvad-socks; do
+    if [ -e "$f" ] || [ -L "$f" ]; then
+        echo "$dir looks like Pi-hole's dnsmasq.d: give this script a directory of its own" >&2
+        echo "(upgrading from the earlier setup? see 'Upgrading from the earlier instructions' in the README)" >&2
+        exit 1
+    fi
+done
 
 # dnsmasq ignores dotfiles in a hostsdir: nothing is visible before the rename
 raw=$(mktemp .download.XXXXXX)
