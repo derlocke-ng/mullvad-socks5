@@ -260,6 +260,7 @@ socks5://10.124.0.183:1080?title=se-mma-wg-socks5-002&cc=SE&city=Malm%C3%B6&colo
 socks5://10.124.0.186:1080?title=se-mma-wg-socks5-003&cc=SE&city=Malm%C3%B6&color=59d22d&proxyDNS=true
 socks5://10.124.0.28:1080?title=se-mma-wg-socks5-004&cc=SE&city=Malm%C3%B6&color=59d22d&proxyDNS=true
 socks5://10.124.0.185:1080?title=se-mma-wg-socks5-005&cc=SE&city=Malm%C3%B6&color=59d22d&proxyDNS=true
+socks5://10.124.0.18:1080?title=se-mma-wg-socks5-011&cc=SE&city=Malm%C3%B6&color=59d22d&proxyDNS=true
 socks5://10.124.0.38:1080?title=se-mma-wg-socks5-012&cc=SE&city=Malm%C3%B6&color=59d22d&proxyDNS=true
 socks5://10.124.0.190:1080?title=se-mma-wg-socks5-102&cc=SE&city=Malm%C3%B6&color=59d22d&proxyDNS=true
 socks5://10.124.0.191:1080?title=se-mma-wg-socks5-103&cc=SE&city=Malm%C3%B6&color=59d22d&proxyDNS=true

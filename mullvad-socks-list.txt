@@ -1,4 +1,4 @@
-Mullvad SOCKS5 proxies: 535 (answered a SOCKS5 greeting)
+Mullvad SOCKS5 proxies: 536 (answered a SOCKS5 greeting)
 Reachable only through a Mullvad VPN connection.
 
 flag  country         city                socks5        port  hostname                                 relay          ipv4_in          ipv6_in                    speed  owned  provider
@@ -264,6 +264,7 @@ flag  country         city                socks5        port  hostname          
 🇸🇪    Sweden          Malmö               10.124.0.186  1080  se-mma-wg-socks5-003.relays.mullvad.net  se-mma-wg-003  193.138.218.83   2a03:1b20:1:f410::a18f     10     yes    31173
 🇸🇪    Sweden          Malmö               10.124.0.28   1080  se-mma-wg-socks5-004.relays.mullvad.net  se-mma-wg-004  193.138.218.130  2a03:1b20:1:f410:40::a04f  20     yes    31173
 🇸🇪    Sweden          Malmö               10.124.0.185  1080  se-mma-wg-socks5-005.relays.mullvad.net  se-mma-wg-005  193.138.218.82   2a03:1b20:1:f410::a17f     10     yes    31173
+🇸🇪    Sweden          Malmö               10.124.0.18   1080  se-mma-wg-socks5-011.relays.mullvad.net  se-mma-wg-011  141.98.255.94    2a03:1b20:1:f410::f101     10     yes    31173
 🇸🇪    Sweden          Malmö               10.124.0.38   1080  se-mma-wg-socks5-012.relays.mullvad.net  se-mma-wg-012  141.98.255.97    2a03:1b20:1:f410::f201     10     yes    31173
 🇸🇪    Sweden          Malmö               10.124.0.190  1080  se-mma-wg-socks5-102.relays.mullvad.net  se-mma-wg-102  45.83.220.69     2a03:1b20:1:e011::a22f     200    yes    31173
 🇸🇪    Sweden          Malmö               10.124.0.191  1080  se-mma-wg-socks5-103.relays.mullvad.net  se-mma-wg-103  45.83.220.70     2a03:1b20:1:e011::a23f     20     yes    31173

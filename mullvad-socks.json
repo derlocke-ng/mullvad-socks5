@@ -4716,6 +4716,24 @@
     "flag": "🇸🇪"
   },
   {
+    "relay": "se-mma-wg-011",
+    "socks_name": "se-mma-wg-socks5-011.relays.mullvad.net",
+    "socks_port": 1080,
+    "country_code": "SE",
+    "country_name": "Sweden",
+    "city_code": "mma",
+    "city_name": "Malmö",
+    "ipv4_addr_in": "141.98.255.94",
+    "ipv6_addr_in": "2a03:1b20:1:f410::f101",
+    "provider": "31173",
+    "owned": true,
+    "speed": 10,
+    "socks_ip": "10.124.0.18",
+    "alias": "se-mma-011.mullvad.home",
+    "reachable": true,
+    "flag": "🇸🇪"
+  },
+  {
     "relay": "se-mma-wg-012",
     "socks_name": "se-mma-wg-socks5-012.relays.mullvad.net",
     "socks_port": 1080,

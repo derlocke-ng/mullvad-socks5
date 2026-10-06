@@ -260,6 +260,7 @@ socks5://se-mma-wg-socks5-002.relays.mullvad.net:1080?title=se-mma-wg-socks5-002
 socks5://se-mma-wg-socks5-003.relays.mullvad.net:1080?title=se-mma-wg-socks5-003&cc=SE&city=Malm%C3%B6&color=59d22d&proxyDNS=true
 socks5://se-mma-wg-socks5-004.relays.mullvad.net:1080?title=se-mma-wg-socks5-004&cc=SE&city=Malm%C3%B6&color=59d22d&proxyDNS=true
 socks5://se-mma-wg-socks5-005.relays.mullvad.net:1080?title=se-mma-wg-socks5-005&cc=SE&city=Malm%C3%B6&color=59d22d&proxyDNS=true
+socks5://se-mma-wg-socks5-011.relays.mullvad.net:1080?title=se-mma-wg-socks5-011&cc=SE&city=Malm%C3%B6&color=59d22d&proxyDNS=true
 socks5://se-mma-wg-socks5-012.relays.mullvad.net:1080?title=se-mma-wg-socks5-012&cc=SE&city=Malm%C3%B6&color=59d22d&proxyDNS=true
 socks5://se-mma-wg-socks5-102.relays.mullvad.net:1080?title=se-mma-wg-socks5-102&cc=SE&city=Malm%C3%B6&color=59d22d&proxyDNS=true
 socks5://se-mma-wg-socks5-103.relays.mullvad.net:1080?title=se-mma-wg-socks5-103&cc=SE&city=Malm%C3%B6&color=59d22d&proxyDNS=true

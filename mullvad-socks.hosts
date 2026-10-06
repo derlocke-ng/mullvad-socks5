@@ -287,6 +287,7 @@
 10.124.0.186 se-mma-wg-socks5-003.relays.mullvad.net
 10.124.0.28 se-mma-wg-socks5-004.relays.mullvad.net
 10.124.0.185 se-mma-wg-socks5-005.relays.mullvad.net
+10.124.0.18 se-mma-wg-socks5-011.relays.mullvad.net
 10.124.0.38 se-mma-wg-socks5-012.relays.mullvad.net
 10.124.0.190 se-mma-wg-socks5-102.relays.mullvad.net
 10.124.0.191 se-mma-wg-socks5-103.relays.mullvad.net
@@ -822,6 +823,7 @@
 10.124.0.186 se-mma-003.mullvad.home
 10.124.0.28 se-mma-004.mullvad.home
 10.124.0.185 se-mma-005.mullvad.home
+10.124.0.18 se-mma-011.mullvad.home
 10.124.0.38 se-mma-012.mullvad.home
 10.124.0.190 se-mma-102.mullvad.home
 10.124.0.191 se-mma-103.mullvad.home
