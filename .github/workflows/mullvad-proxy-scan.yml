@@ -1,105 +1,136 @@
-name: Mullvad SOCKS5 Proxy Scanner
+name: Mullvad SOCKS5 proxy lists
 
 on:
   schedule:
-    # Run every 6 hours
-    - cron: '0 */6 * * *'
-  workflow_dispatch:  # Allow manual triggering
+    # every 6 hours, off the full hour, when GitHub's scheduler is busiest
+    - cron: '23 */6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - mullvad_socks_list.py
+      - .github/workflows/mullvad-proxy-scan.yml
 
 permissions:
-  contents: write
+  contents: write   # the list branch and the release
+  actions: write    # keep this workflow enabled, see "Keep the schedule alive"
+
+concurrency:
+  group: mullvad-proxy-lists
+  cancel-in-progress: false
 
 jobs:
-  scan-proxies:
+  build:
     runs-on: ubuntu-latest
-    
+    timeout-minutes: 30
+    env:
+      # aliases <cc>-<city>-<n>.mullvad.<domain> in the DNS records; set the repository
+      # variable KIWI_DOMAIN to your fleet's domain
+      KIWI_DOMAIN: ${{ vars.KIWI_DOMAIN || 'home' }}
+      # optional: with a Mullvad WireGuard config in the secrets, every proxy is
+      # checked through the tunnel and only the ones that answer are listed
+      HAVE_WIREGUARD: ${{ secrets.MULLVAD_PRIVATE_KEY != '' && secrets.MULLVAD_ADDRESS != '' && secrets.MULLVAD_SERVER_PUBLIC_KEY != '' && secrets.MULLVAD_SERVER_ENDPOINT != '' }}
+
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
-      
-    - name: Install dependencies
-      run: |
-        sudo apt-get update
-        sudo apt-get install -y wireguard-tools curl jq dnsutils
-        
-    - name: Setup WireGuard configuration
-      env:
-        MULLVAD_PRIVATE_KEY: ${{ secrets.MULLVAD_PRIVATE_KEY }}
-        MULLVAD_SERVER_PUBLIC_KEY: ${{ secrets.MULLVAD_SERVER_PUBLIC_KEY }}
-        MULLVAD_SERVER_ENDPOINT: ${{ secrets.MULLVAD_SERVER_ENDPOINT }}
-        MULLVAD_ADDRESS: ${{ secrets.MULLVAD_ADDRESS }}
-      run: |
-        # Create WireGuard config
-        sudo tee /etc/wireguard/wg0.conf > /dev/null <<EOF
-        [Interface]
-        PrivateKey = $MULLVAD_PRIVATE_KEY
-        Address = $MULLVAD_ADDRESS
-        DNS = 10.64.0.1
-        
-        [Peer]
-        PublicKey = $MULLVAD_SERVER_PUBLIC_KEY
-        Endpoint = $MULLVAD_SERVER_ENDPOINT
-        AllowedIPs = 10.64.0.0/10
-        EOF
-        
-        # Start WireGuard
-        sudo wg-quick up wg0
-        
-        # Verify connection
-        ping -c 3 10.64.0.1 || exit 1
-        
-    - name: Run proxy scanner
-      run: |
-        chmod +x ./mullvad_socks_scan_github.sh
-        ./mullvad_socks_scan_github.sh mullvad_proxies
-        
-    - name: Cleanup old proxy files
-      run: |
-        find . -maxdepth 1 -type f -name 'mullvad_proxies_*' -mtime +10 -delete
+      - uses: actions/checkout@v5
 
-    - name: Upload artifact
-      uses: actions/upload-artifact@v4
-      with:
-        name: mullvad-proxy-list-latest
-        path: mullvad_proxies_proxy.txt
-        retention-days: 30
+      - name: Keep the schedule alive
+        # GitHub suspends the schedule of a public repository's workflow after
+        # 60 days without activity; enabling it through the API on every run
+        # keeps it running without anyone touching the repository
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          workflow="${GITHUB_WORKFLOW_REF%@*}"
+          gh api -X PUT "repos/$GITHUB_REPOSITORY/actions/workflows/${workflow##*/}/enable"
 
-    - name: Publish latest list to list branch
-      run: |
-        set -euo pipefail
-        test -s mullvad_proxies_proxy.txt
-        cp mullvad_proxies_proxy.txt "$RUNNER_TEMP/mullvad_proxies_proxy.txt"
+      - name: Test
+        run: python3 -m unittest discover -s tests
 
-        if git ls-remote --exit-code --heads origin list >/dev/null; then
-          git fetch origin list
-          git checkout -B list FETCH_HEAD
-        else
-          git checkout --orphan list
-        fi
+      - name: Connect to Mullvad
+        id: wireguard
+        if: env.HAVE_WIREGUARD == 'true'
+        # without the tunnel the lists are still built, just not checked
+        continue-on-error: true
+        env:
+          MULLVAD_PRIVATE_KEY: ${{ secrets.MULLVAD_PRIVATE_KEY }}
+          MULLVAD_ADDRESS: ${{ secrets.MULLVAD_ADDRESS }}
+          MULLVAD_SERVER_PUBLIC_KEY: ${{ secrets.MULLVAD_SERVER_PUBLIC_KEY }}
+          MULLVAD_SERVER_ENDPOINT: ${{ secrets.MULLVAD_SERVER_ENDPOINT }}
+        run: |
+          sudo apt-get update -q
+          sudo apt-get install -y -q --no-install-recommends wireguard-tools
+          # only Mullvad's internal network goes through the tunnel, DNS stays as is
+          sudo install -d -m 700 /etc/wireguard
+          sudo tee /etc/wireguard/wg0.conf >/dev/null <<EOF
+          [Interface]
+          PrivateKey = $MULLVAD_PRIVATE_KEY
+          Address = $MULLVAD_ADDRESS
 
-        git rm -rf .
-        git clean -fdx
-        cp "$RUNNER_TEMP/mullvad_proxies_proxy.txt" mullvad_proxies_proxy.txt
-        git config user.name "github-actions[bot]"
-        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git add mullvad_proxies_proxy.txt
-        git commit -m "Update proxy list $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-        git push origin list
-        
-    - name: Create/Update Release
-      uses: softprops/action-gh-release@v1
-      with:
-        tag_name: latest-proxies
-        name: Mullvad SOCKS5 Proxies (Latest)
-        body: |
-          Latest checked Mullvad SOCKS5 proxy list in universal format.
-          
-          File included:
-          - mullvad_proxies_proxy.txt (universal socks5 proxy URL list)
-        files: mullvad_proxies_proxy.txt
-        draft: false
-        prerelease: false
-    - name: Cleanup
-      if: always()
-      run: |
-        sudo wg-quick down wg0 || true
+          [Peer]
+          PublicKey = $MULLVAD_SERVER_PUBLIC_KEY
+          Endpoint = $MULLVAD_SERVER_ENDPOINT
+          AllowedIPs = 10.64.0.0/10
+          EOF
+          sudo chmod 600 /etc/wireguard/wg0.conf
+          sudo wg-quick up wg0
+          for _ in 1 2 3 4 5; do
+            if ping -c 1 -W 3 10.64.0.1 >/dev/null; then
+              echo "up=true" >>"$GITHUB_OUTPUT"
+              exit 0
+            fi
+            sleep 2
+          done
+          echo "::warning::The Mullvad tunnel does not answer: check the MULLVAD_* secrets. Building the lists unchecked."
+          exit 1
+
+      - name: Build the lists
+        env:
+          TUNNEL_UP: ${{ steps.wireguard.outputs.up == 'true' }}
+        run: |
+          args=(--out "$RUNNER_TEMP/list" --kiwi-domain "$KIWI_DOMAIN")
+          if [ "$TUNNEL_UP" = true ]; then args+=(--check); fi
+          python3 mullvad_socks_list.py "${args[@]}"
+
+      - name: Disconnect from Mullvad
+        if: always() && steps.wireguard.outcome != 'skipped'
+        run: sudo wg-quick down wg0 || true
+
+      - name: Publish to the list branch
+        run: |
+          set -euo pipefail
+          pub="$RUNNER_TEMP/publish"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # a worktree of its own, so the checkout of main is never in the way
+          if git fetch --depth=1 origin "+refs/heads/list:refs/remotes/origin/list"; then
+            git worktree add -B list "$pub" origin/list
+          else
+            git worktree add --orphan -b list "$pub"
+          fi
+          find "$pub" -mindepth 1 -maxdepth 1 ! -name .git -exec rm -rf {} +
+          cp -a "$RUNNER_TEMP/list/." "$pub/"
+          cd "$pub"
+          git add -A
+          # README.md only carries the build time, that alone is no commit
+          if git diff --cached --quiet -- . ':(exclude)README.md'; then
+            echo "The lists did not change"
+            exit 0
+          fi
+          git commit -q -m "Proxy lists $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push origin list
+
+      - name: Update the release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          set -euo pipefail
+          cd "$RUNNER_TEMP/list"
+          notes="Mullvad SOCKS5 proxy lists, built $(date -u '+%Y-%m-%d %H:%M UTC'). The same files, always current: https://github.com/$GITHUB_REPOSITORY/tree/list"
+          if ! gh release view latest-proxies >/dev/null 2>&1; then
+            gh release create latest-proxies --title "Mullvad SOCKS5 Proxies (Latest)" --notes "$notes"
+          fi
+          gh release upload latest-proxies --clobber ./*.txt ./*.json ./*.hosts ./*.yaml
+          gh release edit latest-proxies --notes "$notes"
