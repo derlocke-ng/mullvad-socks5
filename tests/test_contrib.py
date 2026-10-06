@@ -1,0 +1,159 @@
+"""Tests for contrib/pihole-mullvad-socks.sh. Offline: every list is a file:// URL."""
+import os
+import shutil
+import stat
+import subprocess
+import tempfile
+import unittest
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+SCRIPT = os.path.join(os.path.dirname(HERE), "contrib", "pihole-mullvad-socks.sh")
+
+LIST = ("# Mullvad SOCKS5 proxies\n"
+        "10.124.0.53 de-fra-wg-socks5-001.relays.mullvad.net\r\n"
+        "10.124.0.53 de-fra-001.mullvad.home\n"                  # the list's own short names: made here instead
+        "10.124.2.22 US-QAS-WG-SOCKS5-101.relays.mullvad.net\n"
+        "10.124.0.53 de-fra-wg-socks5-001.relays.mullvad.net\n"
+        "10.0.0.1 bank.example.com\n"                            # never another name
+        "203.0.113.7 se-mma-wg-socks5-001.relays.mullvad.net\n"  # never a public address
+        # octal to some resolvers, in any octet
+        "010.124.0.1 se-sto-wg-socks5-001.relays.mullvad.net\n"
+        "10.010.0.1 se-sto-wg-socks5-002.relays.mullvad.net\n"
+        "10.124.0.01 se-sto-wg-socks5-003.relays.mullvad.net\n"
+        "10.1.02.3 se-sto-wg-socks5-004.relays.mullvad.net\n"
+        "10.124.0.999 se-got-wg-socks5-001.relays.mullvad.net\n")
+
+
+@unittest.skipUnless(shutil.which("curl") and shutil.which("sh"), "needs sh and curl")
+class TestPiholeScript(unittest.TestCase):
+    def setUp(self):
+        # the modes below must not depend on the caller's umask (0002 on many desktops)
+        self.addCleanup(os.umask, os.umask(0o022))
+        self.tmp = tempfile.mkdtemp(prefix="pihole-mullvad-socks-test-")
+        self.addCleanup(shutil.rmtree, self.tmp, True)
+        self.src = os.path.join(self.tmp, "list.hosts")
+        self.missing = "file://" + self.src + ".missing"     # a list that can never be fetched
+        self.dir = os.path.join(self.tmp, "records")
+        self.hosts = os.path.join(self.dir, "mullvad-socks.hosts")
+        self.write(LIST)
+
+    def write(self, text):
+        with open(self.src, "w", newline="") as f:
+            f.write(text)
+
+    def run_script(self, arg=None, url=None, cwd=None, **env):
+        e = dict(os.environ, MULLVAD_SOCKS_HOSTS_URL=url or "file://" + self.src)
+        e.pop("MULLVAD_SOCKS_DOMAIN", None)
+        e.update(env)
+        return subprocess.run(["sh", SCRIPT, self.dir if arg is None else arg], capture_output=True, text=True,
+                              env=e, cwd=cwd, timeout=120)
+
+    def read(self):
+        with open(self.hosts) as f:
+            return f.read()
+
+    def assert_refused(self, r, what="leaving it alone"):
+        self.assertEqual(r.returncode, 1, r.stderr)
+        self.assertIn(what, r.stderr)
+
+    def test_takes_only_mullvad_names_and_makes_the_short_names(self):
+        r = self.run_script()
+        self.assertEqual(r.returncode, 0, r.stderr)
+        self.assertEqual(self.read(), "10.124.0.53 de-fra-wg-socks5-001.relays.mullvad.net\n"
+                                      "10.124.2.22 us-qas-wg-socks5-101.relays.mullvad.net\n"
+                                      "10.124.0.53 de-fra-001.mullvad.home\n"
+                                      "10.124.2.22 us-qas-101.mullvad.home\n")
+        self.assertEqual(stat.S_IMODE(os.stat(self.hosts).st_mode), 0o644)
+        self.assertEqual(os.listdir(self.dir), ["mullvad-socks.hosts"])   # no temp files left
+        self.run_script(MULLVAD_SOCKS_DOMAIN="Socks.Example.")
+        self.assertEqual(self.read().splitlines()[-1], "10.124.2.22 us-qas-101.socks.example")
+        self.run_script(MULLVAD_SOCKS_DOMAIN="")
+        self.assertEqual(len(self.read().splitlines()), 2)
+
+    def test_a_suffix_that_is_no_domain_is_refused_before_the_download(self):
+        self.assertEqual(self.run_script(MULLVAD_SOCKS_DOMAIN="").returncode, 0)
+        before = self.read()
+        for bad in ("x example.com", "-x.home", "x-.home", "a..b", "my_lan", "mullvad.home ", "a\nb"):
+            r = self.run_script(url=self.missing, MULLVAD_SOCKS_DOMAIN=bad)
+            self.assert_refused(r, "not a DNS domain")
+            self.assertEqual(self.read(), before)
+
+    def test_a_bad_download_keeps_the_records(self):
+        self.assertEqual(self.run_script().returncode, 0)
+        before = self.read()
+        for bad in ("<html>rate limited</html>\n", "", "# nothing\n", "10.0.0.1 bank.example.com\n",
+                    # good lines do not carry a bad one through
+                    "10.124.0.53 de-fra-wg-socks5-001.relays.mullvad.net\n"
+                    "10.1.2.3 a.relays.mullvad.net evil.example\n",
+                    "10.124.0.53 de-fra-wg-socks5-001.relays.mullvad.net\n::1 localhost\n"):
+            self.write(bad)
+            r = self.run_script()
+            self.assert_refused(r, "keeping the current records")
+            self.assertEqual(self.read(), before)
+        self.assertNotEqual(self.run_script(url=self.missing).returncode, 0)
+        self.assertEqual(self.read(), before)
+
+    def test_a_relative_directory_works(self):
+        r = self.run_script(arg="records", cwd=self.tmp)
+        self.assertEqual(r.returncode, 0, r.stderr)
+        self.assertTrue(os.path.isfile(self.hosts))
+
+    def test_works_only_in_a_directory_nobody_else_can_write(self):
+        target = os.path.join(self.tmp, "elsewhere")
+        os.makedirs(target, mode=0o700)
+        os.symlink(target, self.dir)
+        self.assert_refused(self.run_script(url=self.missing))
+        self.assertEqual((os.listdir(target), stat.S_IMODE(os.stat(target).st_mode)), ([], 0o700))
+        os.unlink(self.dir)
+        os.makedirs(self.dir)
+        for mode in (0o775, 0o757, 0o777, 0o1777):
+            os.chmod(self.dir, mode)
+            self.assert_refused(self.run_script(url=self.missing))
+            self.assertEqual(os.listdir(self.dir), [])
+        os.chmod(self.dir, 0o755)
+        # a FIFO where the list goes does not hang it, a directory there is not written into
+        os.mkfifo(self.hosts)
+        self.assertEqual(self.run_script().returncode, 0)
+        self.assertTrue(os.path.isfile(self.hosts))
+        os.unlink(self.hosts)
+        os.makedirs(self.hosts)
+        self.assertNotEqual(self.run_script().returncode, 0)
+        self.assertEqual(os.listdir(self.hosts), [])
+        self.assertEqual(os.listdir(self.dir), ["mullvad-socks.hosts"])
+
+    def test_a_directory_of_someone_elses_is_refused(self):
+        if os.geteuid() == 0:
+            os.makedirs(self.dir)
+            os.chown(self.dir, 65534, 65534)     # Pi-hole's user, say
+            self.assert_refused(self.run_script(url=self.missing))
+            self.assertEqual(os.listdir(self.dir), [])
+        else:
+            # a directory of root's, as a normal user: refused by the check, not by a failed write
+            self.assert_refused(self.run_script(arg="/usr", url=self.missing))
+
+    def test_a_trailing_slash_does_not_get_a_link_past_the_check(self):
+        target = os.path.join(self.tmp, "elsewhere")
+        os.makedirs(target)
+        os.symlink(target, self.dir)
+        for arg in (self.dir + "/", self.dir + "//"):
+            self.assert_refused(self.run_script(arg=arg, url=self.missing))
+            self.assertEqual(os.listdir(target), [])
+        for arg in ("/", self.dir + "/.", self.dir + "/.."):
+            self.assertEqual(self.run_script(arg=arg, url=self.missing).returncode, 1, arg)
+        self.assertFalse(os.path.exists("/mullvad-socks.hosts") and os.path.getmtime("/mullvad-socks.hosts") > os.path.getmtime(self.tmp))
+
+    def test_never_writes_into_a_dnsmasq_conf_dir(self):
+        # what the earlier version of this script was given: Pi-hole's dnsmasq.d
+        os.makedirs(self.dir)
+        with open(os.path.join(self.dir, "90-mullvad-socks.conf"), "w") as f:
+            f.write("hostsdir=/etc/dnsmasq.d/mullvad-socks\n")
+        self.assert_refused(self.run_script(url=self.missing), "looks like Pi-hole's dnsmasq.d")
+        self.assertEqual(os.listdir(self.dir), ["90-mullvad-socks.conf"])
+        os.unlink(os.path.join(self.dir, "90-mullvad-socks.conf"))
+        os.makedirs(os.path.join(self.dir, "mullvad-socks"))
+        self.assert_refused(self.run_script(url=self.missing), "looks like Pi-hole's dnsmasq.d")
+        self.assertEqual(os.listdir(self.dir), ["mullvad-socks"])
+
+
+if __name__ == "__main__":
+    unittest.main()
