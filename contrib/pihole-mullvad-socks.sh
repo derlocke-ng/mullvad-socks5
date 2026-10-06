@@ -23,10 +23,20 @@ short=$(printf '%s' "${MULLVAD_SOCKS_DOMAIN-mullvad.home}" | tr '[:upper:]' '[:l
 dir="${1:?usage: $0 <directory for the records, read-only for Pi-hole>}"
 hosts=mullvad-socks.hosts
 
-# without trailing slashes: "dir/" would make stat follow a link at dir
+# a DNS domain or nothing: anything else could add other names to Pi-hole
+case $short in *[!a-z0-9.-]*) short_ok=0 ;; *) short_ok=1 ;; esac
+if [ "$short_ok" = 0 ] || ! printf '%s\n' "$short" | grep -Eqx '([a-z0-9]([a-z0-9-]*[a-z0-9])?(\.[a-z0-9]([a-z0-9-]*[a-z0-9])?)*)?'; then
+    echo "MULLVAD_SOCKS_DOMAIN=${MULLVAD_SOCKS_DOMAIN-}: not a DNS domain" >&2
+    exit 1
+fi
+
+# without trailing slashes: "dir/" would make stat follow a link at dir;
+# absolute: the check below looks at the path again after cd
 dir=$(printf '%s' "$dir" | sed 's#/*$##')
 case $dir in
     '' | . | .. | */. | */..) echo "$1: give the directory by its name" >&2; exit 1 ;;
+    /*) ;;
+    *) dir=$(pwd -P)/$dir ;;
 esac
 
 # Work only in a directory that is exactly this path (not a link to another),

@@ -130,8 +130,9 @@ itself.
    sudo pihole-mullvad-socks.sh /srv/pihole/mullvad-socks
    ```
 
-2. Point Pi-hole at it, then restart Pi-hole once. In docker, mount it
-   read-only and add the dnsmasq line:
+2. Point Pi-hole at it. In docker, mount it read-only and add the dnsmasq
+   line, then recreate the container (`docker compose up -d`; a `docker
+   restart` keeps the old mounts and variables):
 
    ```yaml
    volumes:
@@ -140,8 +141,16 @@ itself.
      FTLCONF_misc_dnsmasq_lines: hostsdir=/etc/mullvad-socks
    ```
 
-   Without docker: add `hostsdir=/srv/pihole/mullvad-socks` to
-   `misc.dnsmasq_lines` in `/etc/pihole/pihole.toml`.
+   That variable replaces every dnsmasq line Pi-hole has. If you have some
+   already (`misc.dnsmasq_lines` under the web interface's *All settings*, or
+   an earlier `FTLCONF_misc_dnsmasq_lines`), list them all in it, separated by `;`:
+   `"address=/myhost.lan/192.168.1.50;hostsdir=/etc/mullvad-socks"`. Or leave
+   the variable out and add `hostsdir=/etc/mullvad-socks` to `misc.dnsmasq_lines`
+   in the web interface instead.
+
+   Without docker: add `hostsdir=/srv/pihole/mullvad-socks` to the dnsmasq
+   lines (`misc.dnsmasq_lines`, in the web interface or `/etc/pihole/pihole.toml`),
+   then `sudo systemctl restart pihole-FTL`.
 
 3. Keep it current with a timer:
 
