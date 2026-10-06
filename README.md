@@ -97,22 +97,31 @@ master:
 ### Any other Pi-hole 6
 
 [contrib/pihole-mullvad-socks.sh](contrib/pihole-mullvad-socks.sh) does the
-same for a Pi-hole you run yourself: it puts the current records into Pi-hole's
-dnsmasq directory, where dnsmasq picks up every change by itself.
+same for a Pi-hole you run yourself. It keeps the records in a directory of
+root's that Pi-hole only reads — it runs as root, so it never works inside
+Pi-hole's own writable directories — and dnsmasq picks up every change by
+itself.
 
-1. Let Pi-hole load `/etc/dnsmasq.d`: `misc.etc_dnsmasq_d = true` in `pihole.toml`
-   (in docker: `FTLCONF_misc_etc_dnsmasq_d: "true"`).
-
-2. Install the script and run it once with the directory Pi-hole mounts at
-   `/etc/dnsmasq.d` (`/etc/dnsmasq.d` itself without docker). The first run
-   writes `90-mullvad-socks.conf`, so restart Pi-hole once after it:
+1. Install the script and fill the directory once:
 
    ```bash
    curl -fsSLo /tmp/pihole-mullvad-socks.sh https://raw.githubusercontent.com/derlocke-ng/mullvad-socks5/main/contrib/pihole-mullvad-socks.sh
    sudo install -m 755 /tmp/pihole-mullvad-socks.sh /usr/local/bin/pihole-mullvad-socks.sh
-   sudo pihole-mullvad-socks.sh /srv/pihole/etc-dnsmasq.d
-   sudo docker restart pihole
+   sudo pihole-mullvad-socks.sh /srv/pihole/mullvad-socks
    ```
+
+2. Point Pi-hole at it, then restart Pi-hole once. In docker, mount it
+   read-only and add the dnsmasq line:
+
+   ```yaml
+   volumes:
+     - /srv/pihole/mullvad-socks:/etc/mullvad-socks:ro     # :ro,z with SELinux
+   environment:
+     FTLCONF_misc_dnsmasq_lines: hostsdir=/etc/mullvad-socks
+   ```
+
+   Without docker: add `hostsdir=/srv/pihole/mullvad-socks` to
+   `misc.dnsmasq_lines` in `/etc/pihole/pihole.toml`.
 
 3. Keep it current with a timer:
 
@@ -125,9 +134,10 @@ dnsmasq directory, where dnsmasq picks up every change by itself.
 
    [Service]
    Type=oneshot
+   TimeoutStartSec=15min
    # Environment=MULLVAD_SOCKS_DOMAIN=mullvad.home
    # Environment=MULLVAD_SOCKS_HOSTS_URL=https://raw.githubusercontent.com/<you>/mullvad-socks5/list/mullvad-socks.hosts
-   ExecStart=/usr/local/bin/pihole-mullvad-socks.sh /srv/pihole/etc-dnsmasq.d
+   ExecStart=/usr/local/bin/pihole-mullvad-socks.sh /srv/pihole/mullvad-socks
    EOF
    sudo tee /etc/systemd/system/pihole-mullvad-socks.timer >/dev/null <<'EOF'
    [Unit]
@@ -145,8 +155,9 @@ dnsmasq directory, where dnsmasq picks up every change by itself.
    ```
 
 The short names go under `mullvad.home` (`MULLVAD_SOCKS_DOMAIN`, empty for
-none). A download that is not a list of Mullvad proxies (an error page, an
-empty file) never replaces the records Pi-hole has.
+none). The script refuses a directory that is a link or that anyone else can
+write to, and a download that is not a list of Mullvad proxies (an error page,
+an empty file) never replaces the records Pi-hole has.
 
 ### The files themselves
 

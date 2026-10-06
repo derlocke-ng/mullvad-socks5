@@ -3,13 +3,12 @@
 #
 #   pihole-mullvad-socks.sh <dir>
 #
-# <dir> is the host directory Pi-hole mounts at /etc/dnsmasq.d (or /etc/dnsmasq.d
-# itself on a Pi-hole installed without docker). The first run writes
-# <dir>/90-mullvad-socks.conf (hostsdir=/etc/dnsmasq.d/mullvad-socks): restart
-# Pi-hole once to load it, with misc.etc_dnsmasq_d=true. Every run puts the
-# current records into <dir>/mullvad-socks/, which dnsmasq watches and reloads
-# by itself. Run it from a timer; see the README. kiwi-server 2.2.0 and later
-# do all of this themselves (dns.mullvad_socks).
+# <dir> holds the records, mullvad-socks.hosts: a directory of root's, outside
+# Pi-hole's own writable directories — this runs as root, so nothing Pi-hole
+# runs may write where it works. Point Pi-hole at it once with a dnsmasq line,
+# hostsdir=<dir as Pi-hole sees it>, and dnsmasq reloads every change by
+# itself. In docker, mount <dir> read-only (see the README). kiwi-server 2.2.0
+# and later do all of this themselves (dns.mullvad_socks).
 #
 # Only *.relays.mullvad.net names at 10.x.x.x addresses are taken from the list,
 # so it can never redirect another name; short names <cc>-<city>-<n>.<domain>
@@ -21,42 +20,35 @@ umask 022
 
 url="${MULLVAD_SOCKS_HOSTS_URL:-https://raw.githubusercontent.com/derlocke-ng/mullvad-socks5/list/mullvad-socks.hosts}"
 short=$(printf '%s' "${MULLVAD_SOCKS_DOMAIN-mullvad.home}" | tr '[:upper:]' '[:lower:]' | sed 's/^\.*//; s/\.*$//')
-base="${1:?usage: $0 <directory Pi-hole mounts at /etc/dnsmasq.d>}"
-dir="$base/mullvad-socks"
-conf=90-mullvad-socks.conf
+dir="${1:?usage: $0 <directory for the records, read-only for Pi-hole>}"
+hosts=mullvad-socks.hosts
 
-# Pi-hole (its container, too) can write in <dir>: work in it by relative
-# names, never through a link something put there
-[ -d "$base" ] || { echo "$base: no such directory" >&2; exit 1; }
-cd "$base"
-if [ ! -e "$conf" ] && [ ! -L "$conf" ]; then
-    tmp=$(mktemp .mullvad-socks-conf.XXXXXX)
-    printf '# written by pihole-mullvad-socks.sh: the Mullvad SOCKS5 records, reloaded on change\nhostsdir=/etc/dnsmasq.d/mullvad-socks\n' >"$tmp"
-    chmod 644 "$tmp"
-    mv -fT "$tmp" "$conf"
-    echo "wrote $base/$conf: restart Pi-hole once to load it"
-fi
-mkdir -p mullvad-socks
-cd mullvad-socks
-if [ "$(stat -c %d:%i .)" != "$(stat -c %d:%i "$dir")" ]; then
-    echo "$dir is not a plain directory, leaving it alone" >&2
+# Work only in a directory that is exactly this path (not a link to another),
+# belongs to whoever runs this and is writable by nobody else, by relative
+# names: no one else can swap a file under root's hands.
+mkdir -p "$dir"
+cd "$dir"
+case $(stat -c %A .) in ?????w*|????????w*) writable=1 ;; *) writable=0 ;; esac
+if [ "$(stat -c %d:%i .)" != "$(stat -c %d:%i "$dir")" ] || [ "$(stat -c %u .)" != "$(id -u)" ] ||
+   [ "$writable" = 1 ]; then
+    echo "$dir must be a directory of $(id -un)'s that nobody else can write to — leaving it alone" >&2
     exit 1
 fi
-# Pi-hole reads it as its own user, whatever the umask was when it was made
-chmod 755 .
 
 # dnsmasq ignores dotfiles in a hostsdir: nothing is visible before the rename
 raw=$(mktemp .download.XXXXXX)
 new=$(mktemp .hosts.XXXXXX)
 trap 'rm -f "$raw" "$new"' EXIT INT TERM
-curl -fsSL --proto-redir =https --retry 3 --max-time 120 --max-filesize 10000000 -o "$raw" "$url"
+curl -fsSL --proto-redir =https --max-filesize 10000000 --retry 3 --retry-delay 5 --max-time 120 -o "$raw" "$url"
 
 if ! awk -v short="$short" '
+    BEGIN { if (short !~ /^([a-z0-9]([a-z0-9-]*[a-z0-9])?(\.[a-z0-9]([a-z0-9-]*[a-z0-9])?)*)?$/) { bad = 1; exit } }
     { sub(/\r$/, "") }
     /^[ \t]*(#|$)/ { next }
     !/^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+[ \t]+[A-Za-z0-9.-]+[ \t]*$/ { bad = 1; exit }
     {
         ip = $1; name = tolower($2)
+        # no leading zeros: some resolvers read 010 as octal
         if (ip !~ /^10\.(0|[1-9][0-9]*)\.(0|[1-9][0-9]*)\.(0|[1-9][0-9]*)$/) next
         if (name !~ /^[a-z0-9-]+\.relays\.mullvad\.net$/) next
         split(ip, o, ".")
@@ -78,9 +70,9 @@ if ! awk -v short="$short" '
     exit 1
 fi
 
-if cmp -s "$new" mullvad-socks.hosts; then
+if [ -f "$hosts" ] && [ ! -L "$hosts" ] && cmp -s "$new" "$hosts"; then
     exit 0
 fi
 chmod 644 "$new"
-mv -fT "$new" mullvad-socks.hosts
-echo "updated $dir/mullvad-socks.hosts: $(wc -l <mullvad-socks.hosts) records"
+mv -fT "$new" "$hosts"
+echo "updated $dir/$hosts: $(wc -l <"$hosts") records"
