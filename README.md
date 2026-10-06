@@ -67,51 +67,51 @@ Kiwi Network reliably once Pi-hole has the records below.
 
 A kiwi master's Pi-hole asks its VPN client (gluetun) first, and gluetun refuses
 DNS answers in private ranges (DNS rebinding protection). So the proxies' names
-only resolve in the mesh when Pi-hole moves on to its fallback resolvers
-(`fallback_dns`, Quad9 by default), and not at all without them. With the
-records below Pi-hole answers the names itself, and adds short aliases in the
-fleet's domain. Nodes ask the master's Pi-hole first, so the master alone is
-enough. (Only the Mullvad names, without aliases, can also come through gluetun:
-`vpn-client: { extra_env: { DNS_REBINDING_PROTECTION_EXEMPT_HOSTNAMES: relays.mullvad.net } }`.)
-
-The records are the Mullvad names and short aliases:
+only resolve in the mesh when Pi-hole moves on to its fallback resolvers, and
+not at all without them. Pi-hole answering them itself fixes that, with short
+names in the fleet's domain as well:
 
 ```
 10.124.0.53 de-fra-wg-socks5-001.relays.mullvad.net
 10.124.0.53 de-fra-001.mullvad.home
 ```
 
-The aliases use the domain `home`; for another one set the repository variable
-`KIWI_DOMAIN` (*Settings → Secrets and variables → Actions → Variables*). In a
-fork, take the records from the fork's `list` branch: set
-`MULLVAD_SOCKS_HOSTS_URL=https://raw.githubusercontent.com/<you>/mullvad-socks5/list/mullvad-socks.hosts`
-for the script (the `Environment=` line in the service below), and use the
-fork's `kiwi-extra-records.yaml`.
+Only `*.relays.mullvad.net` names at `10.x` addresses are ever taken from the
+list, so it can never redirect another name; the short names are made locally.
 
-### Records that stay current (recommended)
+### kiwi-server
 
-[contrib/pihole-mullvad-socks.sh](contrib/pihole-mullvad-socks.sh) puts the
-current records into Pi-hole's dnsmasq directory, where dnsmasq picks up every
-change by itself — no restart, no reload.
+[kiwi-server](https://github.com/derlocke-ng/kiwi-server) 2.2.0 and later do
+it themselves: the dns module's `mullvad_socks` is on in the master preset. A
+host timer (`km-mullvad-socks.timer`) fetches this list every 6 hours and
+dnsmasq reloads the records without a restart; nodes ask the master. Render and
+apply the master again after upgrading. To turn it off, or to use a fork's list:
 
-1. Let Pi-hole load `/etc/dnsmasq.d`. kiwi-server, in the master's role block of `fleet.yaml`:
+```yaml
+master:
+  dns:
+    mullvad_socks: false
+    # mullvad_socks_url: https://raw.githubusercontent.com/<you>/mullvad-socks5/list/mullvad-socks.hosts
+```
 
-   ```yaml
-   master:
-     dns:
-       extra_env: { FTLCONF_misc_etc_dnsmasq_d: "true" }
-   ```
+### Any other Pi-hole 6
 
-   and apply the role again. Any other Pi-hole 6: `misc.etc_dnsmasq_d = true` in `pihole.toml`.
+[contrib/pihole-mullvad-socks.sh](contrib/pihole-mullvad-socks.sh) does the
+same for a Pi-hole you run yourself: it puts the current records into Pi-hole's
+dnsmasq directory, where dnsmasq picks up every change by itself.
 
-2. On the master, install the script and run it once; it writes
-   `90-mullvad-socks.conf` the first time, so restart Pi-hole once after it:
+1. Let Pi-hole load `/etc/dnsmasq.d`: `misc.etc_dnsmasq_d = true` in `pihole.toml`
+   (in docker: `FTLCONF_misc_etc_dnsmasq_d: "true"`).
+
+2. Install the script and run it once with the directory Pi-hole mounts at
+   `/etc/dnsmasq.d` (`/etc/dnsmasq.d` itself without docker). The first run
+   writes `90-mullvad-socks.conf`, so restart Pi-hole once after it:
 
    ```bash
    curl -fsSLo /tmp/pihole-mullvad-socks.sh https://raw.githubusercontent.com/derlocke-ng/mullvad-socks5/main/contrib/pihole-mullvad-socks.sh
    sudo install -m 755 /tmp/pihole-mullvad-socks.sh /usr/local/bin/pihole-mullvad-socks.sh
-   sudo pihole-mullvad-socks.sh /home/user/docker/km-pihole/etc-dnsmasq.d   # <docker_dir>/km-pihole/etc-dnsmasq.d
-   sudo docker restart km-pihole
+   sudo pihole-mullvad-socks.sh /srv/pihole/etc-dnsmasq.d
+   sudo docker restart pihole
    ```
 
 3. Keep it current with a timer:
@@ -125,8 +125,9 @@ change by itself — no restart, no reload.
 
    [Service]
    Type=oneshot
+   # Environment=MULLVAD_SOCKS_DOMAIN=mullvad.home
    # Environment=MULLVAD_SOCKS_HOSTS_URL=https://raw.githubusercontent.com/<you>/mullvad-socks5/list/mullvad-socks.hosts
-   ExecStart=/usr/local/bin/pihole-mullvad-socks.sh /home/user/docker/km-pihole/etc-dnsmasq.d
+   ExecStart=/usr/local/bin/pihole-mullvad-socks.sh /srv/pihole/etc-dnsmasq.d
    EOF
    sudo tee /etc/systemd/system/pihole-mullvad-socks.timer >/dev/null <<'EOF'
    [Unit]
@@ -143,15 +144,18 @@ change by itself — no restart, no reload.
    sudo systemctl daemon-reload && sudo systemctl enable --now pihole-mullvad-socks.timer
    ```
 
-A download that is not a hosts list (an error page, an empty file) never
-replaces the records Pi-hole has.
+The short names go under `mullvad.home` (`MULLVAD_SOCKS_DOMAIN`, empty for
+none). A download that is not a list of Mullvad proxies (an error page, an
+empty file) never replaces the records Pi-hole has.
 
-### Fixed records
+### The files themselves
 
+`mullvad-socks.hosts` also works as an `/etc/hosts` addition, and
 [kiwi-extra-records.yaml](https://raw.githubusercontent.com/derlocke-ng/mullvad-socks5/list/kiwi-extra-records.yaml)
-holds the same records as a kiwi-server `extra_records` map: paste it into the
-master's `dns:` block and apply the role. They stay as they were at render
-time.
+holds the same records as a kiwi-server `extra_records` map for kiwi-server
+before 2.2.0 (fixed at render time). Their short names use the domain `home`;
+set the repository variable `KIWI_DOMAIN` (*Settings → Secrets and variables →
+Actions → Variables*) for another.
 
 ## How the lists are built
 
