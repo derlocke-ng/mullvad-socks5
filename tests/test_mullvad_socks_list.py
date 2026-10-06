@@ -2,6 +2,7 @@
 
 No test touches the network: DNS and the SOCKS5 check are replaced.
 """
+import http.client
 import io
 import json
 import os
@@ -36,6 +37,7 @@ ADDRESSES = {
 
 def fake_getaddrinfo(answers):
     def getaddrinfo(name, *args, **kwargs):
+        name.encode("idna")   # what the real one does first: UnicodeError for an empty or over-long label
         if name not in answers:
             raise socket.gaierror(socket.EAI_NONAME, "Name or service not known")
         return [(socket.AF_INET, socket.SOCK_STREAM, 6, "", (answers[name], 0))]
@@ -95,6 +97,17 @@ class TestRelays(Base):
             with self.assertRaises(ValueError):
                 msl.fetch_relays(attempts=2)
         with mock.patch.object(msl.urllib.request, "urlopen", lambda req, timeout: io.BytesIO(b'[{"a": 1}]')):
+            self.assertEqual(msl.fetch_relays(), [{"a": 1}])
+
+    def test_cut_off_api_answer_is_retried(self):
+        answers = [http.client.IncompleteRead(b"[{"), io.BytesIO(b'[{"a": 1}]')]
+
+        def urlopen(req, timeout):
+            answer = answers.pop(0)
+            if isinstance(answer, Exception):
+                raise answer
+            return answer
+        with mock.patch.object(msl.urllib.request, "urlopen", urlopen), redirect_stderr(io.StringIO()):
             self.assertEqual(msl.fetch_relays(), [{"a": 1}])
 
     def test_sorted_by_country_city_name(self):
@@ -230,6 +243,14 @@ class TestBuild(Base):
         answers = dict(ADDRESSES, **{"al-tia-wg-socks5-001.relays.mullvad.net": "93.184.216.34"})
         self.run_main(answers=answers)
         self.assertNotIn("93.184.216.34", self.read("foxyproxy.txt"))
+        self.assertIn("Failed to resolve (1):", self.read("mullvad-socks-list.txt"))
+
+    def test_a_malformed_name_is_unresolved_not_fatal(self):
+        with open(self.relays, "w") as f:
+            json.dump(RELAYS + [dict(RELAYS[0], hostname="al-tia-wg-009",
+                                     socks_name="al-tia-wg-socks5-009..relays.mullvad.net")], f)
+        self.assertEqual(self.run_main(), 0)
+        self.assertEqual(len(self.read("foxyproxy.txt").splitlines()), 6)
         self.assertIn("Failed to resolve (1):", self.read("mullvad-socks-list.txt"))
 
     def test_dns_trouble_writes_nothing(self):

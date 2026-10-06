@@ -13,6 +13,7 @@
 #
 # MULLVAD_SOCKS_HOSTS_URL overrides where the list comes from.
 set -eu
+umask 022
 
 url="${MULLVAD_SOCKS_HOSTS_URL:-https://raw.githubusercontent.com/derlocke-ng/mullvad-socks5/list/mullvad-socks.hosts}"
 dir="${1:?usage: $0 <directory Pi-hole mounts at /etc/dnsmasq.d>}"
@@ -20,7 +21,9 @@ hostsdir="$dir/mullvad-socks"
 conf="$dir/90-mullvad-socks.conf"
 
 [ -d "$dir" ] || { echo "$dir: no such directory" >&2; exit 1; }
+# Pi-hole reads it as its own user: every run repairs a folder made under a tight umask
 mkdir -p "$hostsdir"
+chmod 755 "$hostsdir"
 
 if [ ! -f "$conf" ]; then
     printf '# written by pihole-mullvad-socks.sh: the Mullvad SOCKS5 records, reloaded on change\nhostsdir=/etc/dnsmasq.d/mullvad-socks\n' >"$conf"

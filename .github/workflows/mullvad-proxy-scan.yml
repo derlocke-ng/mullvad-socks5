@@ -24,7 +24,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     env:
-      # aliases <city>-<n>.mullvad.<domain> in the DNS records; set the repository
+      # aliases <cc>-<city>-<n>.mullvad.<domain> in the DNS records; set the repository
       # variable KIWI_DOMAIN to your fleet's domain
       KIWI_DOMAIN: ${{ vars.KIWI_DOMAIN || 'home' }}
       # optional: with a Mullvad WireGuard config in the secrets, every proxy is

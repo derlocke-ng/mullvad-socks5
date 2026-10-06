@@ -43,10 +43,16 @@ FoxyProxy 8 (Firefox, Chrome), *Options → Import*:
 
 - **Import from URL** — paste
   `https://raw.githubusercontent.com/derlocke-ng/mullvad-socks5/list/foxyproxy.json`,
-  then *Save*. This **replaces** your proxy list; your other settings stay.
+  click *Import*, then *Save* on the *Proxies* tab it opens. This **replaces**
+  your proxy list; your other settings stay.
 - **Import Proxy List** — paste the lines of
   [foxyproxy.txt](https://raw.githubusercontent.com/derlocke-ng/mullvad-socks5/list/foxyproxy.txt)
-  (or just the countries you want), then *Save*. This **adds** to your proxies.
+  (or just the countries you want), click *Import*, then *Save* on the
+  *Proxies* tab. This **adds** to your proxies.
+
+With FoxyProxy's *Sync* on, keep to the countries you use: the browser syncs at
+most 512 entries / 100 KB, about 390 of these proxies (350 with hostnames). On
+a bigger list FoxyProxy reports a Sync error and switches *Sync* off.
 
 Each proxy shows its country's flag, *City, Country* and a colour per country,
 and is titled like its server (`de-fra-wg-socks5-001`). *Proxy DNS* is on, so
@@ -54,17 +60,21 @@ names are looked up at the proxy's end, as Mullvad recommends.
 
 The `-hostnames` variants use the proxies' names instead of their addresses, so
 they keep working if Mullvad renumbers a proxy. They need a resolver that
-answers those names with private addresses: public DNS does, the Kiwi Network
-does once Pi-hole has the records below.
+answers those names with private addresses: public DNS does, and so does the
+Kiwi Network reliably once Pi-hole has the records below.
 
 ## Kiwi Network / Pi-hole
 
-A kiwi master resolves through its VPN client, and gluetun's DNS drops answers
-in private ranges (DNS rebinding protection) — so in the mesh the proxies' names
-do not resolve, only their addresses work. Pi-hole answering them itself fixes
-that. Nodes ask the master's Pi-hole first, so the master alone is enough.
+A kiwi master's Pi-hole asks its VPN client (gluetun) first, and gluetun refuses
+DNS answers in private ranges (DNS rebinding protection). So the proxies' names
+only resolve in the mesh when Pi-hole moves on to its fallback resolvers
+(`fallback_dns`, Quad9 by default), and not at all without them. With the
+records below Pi-hole answers the names itself, and adds short aliases in the
+fleet's domain. Nodes ask the master's Pi-hole first, so the master alone is
+enough. (Only the Mullvad names, without aliases, can also come through gluetun:
+`vpn-client: { extra_env: { DNS_REBINDING_PROTECTION_EXEMPT_HOSTNAMES: relays.mullvad.net } }`.)
 
-The records are the Mullvad names and short aliases in the fleet's domain:
+The records are the Mullvad names and short aliases:
 
 ```
 10.124.0.53 de-fra-wg-socks5-001.relays.mullvad.net
@@ -72,7 +82,11 @@ The records are the Mullvad names and short aliases in the fleet's domain:
 ```
 
 The aliases use the domain `home`; for another one set the repository variable
-`KIWI_DOMAIN` (*Settings → Secrets and variables → Actions → Variables*).
+`KIWI_DOMAIN` (*Settings → Secrets and variables → Actions → Variables*). In a
+fork, take the records from the fork's `list` branch: set
+`MULLVAD_SOCKS_HOSTS_URL=https://raw.githubusercontent.com/<you>/mullvad-socks5/list/mullvad-socks.hosts`
+for the script (the `Environment=` line in the service below), and use the
+fork's `kiwi-extra-records.yaml`.
 
 ### Records that stay current (recommended)
 
@@ -111,6 +125,7 @@ change by itself — no restart, no reload.
 
    [Service]
    Type=oneshot
+   # Environment=MULLVAD_SOCKS_HOSTS_URL=https://raw.githubusercontent.com/<you>/mullvad-socks5/list/mullvad-socks.hosts
    ExecStart=/usr/local/bin/pihole-mullvad-socks.sh /home/user/docker/km-pihole/etc-dnsmasq.d
    EOF
    sudo tee /etc/systemd/system/pihole-mullvad-socks.timer >/dev/null <<'EOF'

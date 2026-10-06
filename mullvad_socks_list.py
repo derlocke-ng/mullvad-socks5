@@ -24,6 +24,7 @@ Python 3.9+, standard library only.
 
 import argparse
 import colorsys
+import http.client
 import ipaddress
 import json
 import os
@@ -90,7 +91,7 @@ def fetch_relays(url: str = API_URL, attempts: int = 4) -> list:
             if not isinstance(relays, list):
                 raise ValueError(f"expected a list of relays, got {type(relays).__name__}")
             return relays
-        except (OSError, ValueError) as e:
+        except (OSError, ValueError, http.client.HTTPException) as e:   # HTTPException: a cut-off body
             if attempt == attempts:
                 raise
             log(f"relay list: {e}, retrying")
@@ -140,6 +141,9 @@ def resolve(name: str, attempts: int = 3) -> str:
                 if ipaddress.ip_address(ip).is_private:
                     return ip
             log(f"{name}: no private address in {sorted({i[4][0] for i in infos})}")
+            return ""
+        except UnicodeError:   # an empty or over-long label: not a name, retrying will not help
+            log(f"{name}: not a valid host name")
             return ""
         except OSError:
             if attempt < attempts:
@@ -379,7 +383,7 @@ def main(argv: Optional[List[str]] = None) -> int:
     ap.add_argument("--check", action="store_true",
                     help="keep only proxies that answer a SOCKS5 greeting (needs a Mullvad connection)")
     ap.add_argument("--kiwi-domain", default="home",
-                    help="add DNS aliases <city>-<n>.mullvad.<domain>; empty for none (default: home)")
+                    help="add DNS aliases <cc>-<city>-<n>.mullvad.<domain>; empty for none (default: home)")
     ap.add_argument("--no-proxy-dns", dest="proxy_dns", action="store_false",
                     help="FoxyProxy resolves names locally instead of through the proxy")
     ap.add_argument("--repo", default=os.environ.get("GITHUB_REPOSITORY") or DEFAULT_REPO,
