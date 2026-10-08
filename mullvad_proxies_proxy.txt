@@ -10,8 +10,6 @@ socks5://10.124.0.3:1080?title=au-adl-wg-socks5-303&cc=AU&city=Adelaide&color=2d
 socks5://10.124.0.220:1080?title=au-bne-wg-socks5-301&cc=AU&city=Brisbane&color=2d48d2&proxyDNS=true
 socks5://10.124.0.221:1080?title=au-bne-wg-socks5-302&cc=AU&city=Brisbane&color=2d48d2&proxyDNS=true
 socks5://10.124.0.69:1080?title=au-bne-wg-socks5-303&cc=AU&city=Brisbane&color=2d48d2&proxyDNS=true
-socks5://10.124.1.53:1080?title=au-mel-wg-socks5-401&cc=AU&city=Melbourne&color=2d48d2&proxyDNS=true
-socks5://10.124.2.107:1080?title=au-mel-wg-socks5-403&cc=AU&city=Melbourne&color=2d48d2&proxyDNS=true
 socks5://10.124.1.55:1080?title=au-per-wg-socks5-301&cc=AU&city=Perth&color=2d48d2&proxyDNS=true
 socks5://10.124.1.57:1080?title=au-per-wg-socks5-302&cc=AU&city=Perth&color=2d48d2&proxyDNS=true
 socks5://10.124.0.36:1080?title=au-syd-wg-socks5-001&cc=AU&city=Sydney&color=2d48d2&proxyDNS=true
@@ -37,8 +35,6 @@ socks5://10.124.0.10:1080?title=br-for-wg-socks5-001&cc=BR&city=Fortaleza&color=
 socks5://10.124.0.12:1080?title=br-for-wg-socks5-002&cc=BR&city=Fortaleza&color=2dd287&proxyDNS=true
 socks5://10.124.2.31:1080?title=br-sao-wg-socks5-201&cc=BR&city=Sao%20Paulo&color=2dd287&proxyDNS=true
 socks5://10.124.2.32:1080?title=br-sao-wg-socks5-202&cc=BR&city=Sao%20Paulo&color=2dd287&proxyDNS=true
-socks5://10.124.2.21:1080?title=br-sao-wg-socks5-303&cc=BR&city=Sao%20Paulo&color=2dd287&proxyDNS=true
-socks5://10.124.2.52:1080?title=br-sao-wg-socks5-304&cc=BR&city=Sao%20Paulo&color=2dd287&proxyDNS=true
 socks5://10.124.0.225:1080?title=bg-sof-wg-socks5-001&cc=BG&city=Sofia&color=9ad22d&proxyDNS=true
 socks5://10.124.0.226:1080?title=bg-sof-wg-socks5-002&cc=BG&city=Sofia&color=9ad22d&proxyDNS=true
 socks5://10.124.0.100:1080?title=bg-sof-wg-socks5-003&cc=BG&city=Sofia&color=9ad22d&proxyDNS=true
@@ -379,8 +375,6 @@ socks5://10.124.1.225:1080?title=us-dal-wg-socks5-402&cc=US&city=Dallas%2C%20TX&
 socks5://10.124.1.224:1080?title=us-dal-wg-socks5-403&cc=US&city=Dallas%2C%20TX&color=2dd2d0&proxyDNS=true
 socks5://10.124.1.171:1080?title=us-dal-wg-socks5-601&cc=US&city=Dallas%2C%20TX&color=2dd2d0&proxyDNS=true
 socks5://10.124.1.172:1080?title=us-dal-wg-socks5-602&cc=US&city=Dallas%2C%20TX&color=2dd2d0&proxyDNS=true
-socks5://10.124.1.173:1080?title=us-dal-wg-socks5-603&cc=US&city=Dallas%2C%20TX&color=2dd2d0&proxyDNS=true
-socks5://10.124.1.174:1080?title=us-dal-wg-socks5-604&cc=US&city=Dallas%2C%20TX&color=2dd2d0&proxyDNS=true
 socks5://10.124.2.88:1080?title=us-dal-wg-socks5-701&cc=US&city=Dallas%2C%20TX&color=2dd2d0&proxyDNS=true
 socks5://10.124.2.89:1080?title=us-dal-wg-socks5-702&cc=US&city=Dallas%2C%20TX&color=2dd2d0&proxyDNS=true
 socks5://10.124.2.101:1080?title=us-dal-wg-socks5-703&cc=US&city=Dallas%2C%20TX&color=2dd2d0&proxyDNS=true
