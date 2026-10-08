@@ -1,4 +1,4 @@
-Mullvad SOCKS5 proxies: 530 (answered a SOCKS5 greeting)
+Mullvad SOCKS5 proxies: 534 (answered a SOCKS5 greeting)
 Reachable only through a Mullvad VPN connection.
 
 flag  country         city                socks5        port  hostname                                 relay          ipv4_in          ipv6_in                    speed  owned  provider
@@ -14,6 +14,8 @@ flag  country         city                socks5        port  hostname          
 🇦🇺    Australia       Brisbane            10.124.0.220  1080  au-bne-wg-socks5-301.relays.mullvad.net  au-bne-wg-301  103.216.220.18   2404:f780:4:deb::f001      10     no     hostuniversal
 🇦🇺    Australia       Brisbane            10.124.0.221  1080  au-bne-wg-socks5-302.relays.mullvad.net  au-bne-wg-302  103.216.220.34   2404:f780:4:dec::a02f      10     no     hostuniversal
 🇦🇺    Australia       Brisbane            10.124.0.69   1080  au-bne-wg-socks5-303.relays.mullvad.net  au-bne-wg-303  103.216.220.66   2404:f780:4:def::f201      10     no     hostuniversal
+🇦🇺    Australia       Melbourne           10.124.1.53   1080  au-mel-wg-socks5-401.relays.mullvad.net  au-mel-wg-401  163.47.16.146    2406:d501:f:dfa::f001      20     no     hostuniversal
+🇦🇺    Australia       Melbourne           10.124.2.107  1080  au-mel-wg-socks5-403.relays.mullvad.net  au-mel-wg-403  163.47.16.154    2406:d501:f:dfc::f001      20     no     hostuniversal
 🇦🇺    Australia       Perth               10.124.1.55   1080  au-per-wg-socks5-301.relays.mullvad.net  au-per-wg-301  103.108.231.50   2404:f780:8:deb::a01f      10     no     hostuniversal
 🇦🇺    Australia       Perth               10.124.1.57   1080  au-per-wg-socks5-302.relays.mullvad.net  au-per-wg-302  103.108.231.66   2404:f780:8:dec::f001      10     no     hostuniversal
 🇦🇺    Australia       Sydney              10.124.0.36   1080  au-syd-wg-socks5-001.relays.mullvad.net  au-syd-wg-001  146.70.200.2     2001:ac8:84:5::f001        10     no     M247
@@ -379,6 +381,8 @@ flag  country         city                socks5        port  hostname          
 🇺🇸    USA             Dallas, TX          10.124.1.224  1080  us-dal-wg-socks5-403.relays.mullvad.net  us-dal-wg-403  37.19.200.130    2a02:6ea0:d20c:1::f001     10     no     DataPacket
 🇺🇸    USA             Dallas, TX          10.124.1.171  1080  us-dal-wg-socks5-601.relays.mullvad.net  us-dal-wg-601  103.102.246.3    2a01:4740:2::f001          10     no     HostRoyale
 🇺🇸    USA             Dallas, TX          10.124.1.172  1080  us-dal-wg-socks5-602.relays.mullvad.net  us-dal-wg-602  103.102.246.127  2a01:4740:2::f101          10     no     HostRoyale
+🇺🇸    USA             Dallas, TX          10.124.1.173  1080  us-dal-wg-socks5-603.relays.mullvad.net  us-dal-wg-603  103.102.247.3    2a01:4740:2::f201          10     no     HostRoyale
+🇺🇸    USA             Dallas, TX          10.124.1.174  1080  us-dal-wg-socks5-604.relays.mullvad.net  us-dal-wg-604  103.102.247.127  2a01:4740:2::f301          10     no     HostRoyale
 🇺🇸    USA             Dallas, TX          10.124.2.88   1080  us-dal-wg-socks5-701.relays.mullvad.net  us-dal-wg-701  23.234.104.2     2607:9000:b00:31::f001     20     no     Tzulo
 🇺🇸    USA             Dallas, TX          10.124.2.89   1080  us-dal-wg-socks5-702.relays.mullvad.net  us-dal-wg-702  23.234.104.127   2607:9000:b00:32::f001     20     no     Tzulo
 🇺🇸    USA             Dallas, TX          10.124.2.101  1080  us-dal-wg-socks5-703.relays.mullvad.net  us-dal-wg-703  23.234.105.2     2607:9000:b00:33::f001     20     no     Tzulo
@@ -532,14 +536,3 @@ flag  country         city                socks5        port  hostname          
 🇺🇸    USA             Secaucus, NJ        10.124.0.169  1080  us-uyk-wg-socks5-202.relays.mullvad.net  us-uyk-wg-202  104.36.50.33     2a06:3040:22:620::f101     10     no     HostRoyale
 🇺🇸    USA             Washington DC       10.124.1.108  1080  us-was-wg-socks5-001.relays.mullvad.net  us-was-wg-001  185.213.193.3    2604:980:1002:11::f001     10     no     Zenlayer
 🇺🇸    USA             Washington DC       10.124.1.109  1080  us-was-wg-socks5-002.relays.mullvad.net  us-was-wg-002  185.213.193.127  2604:980:1002:11::f101     10     no     Zenlayer
-
-
-Not answering (6):
-
-flag  country    city        socks5        port  hostname                                 relay          ipv4_in          ipv6_in                 speed  owned  provider
-🇦🇺    Australia  Melbourne   10.124.1.53   1080  au-mel-wg-socks5-401.relays.mullvad.net  au-mel-wg-401  163.47.16.146    2406:d501:f:dfa::f001   20     no     hostuniversal
-🇦🇺    Australia  Melbourne   10.124.2.107  1080  au-mel-wg-socks5-403.relays.mullvad.net  au-mel-wg-403  163.47.16.154    2406:d501:f:dfc::f001   20     no     hostuniversal
-🇧🇷    Brazil     Sao Paulo   10.124.2.21   1080  br-sao-wg-socks5-303.relays.mullvad.net  br-sao-wg-303  103.139.178.123  2a06:3040:10:610::f201  10     no     HostRoyale
-🇧🇷    Brazil     Sao Paulo   10.124.2.52   1080  br-sao-wg-socks5-304.relays.mullvad.net  br-sao-wg-304  103.139.178.183  2a06:3040:10:610::f301  10     no     HostRoyale
-🇺🇸    USA        Dallas, TX  10.124.1.173  1080  us-dal-wg-socks5-603.relays.mullvad.net  us-dal-wg-603  103.102.247.3    2a01:4740:2::f201       10     no     HostRoyale
-🇺🇸    USA        Dallas, TX  10.124.1.174  1080  us-dal-wg-socks5-604.relays.mullvad.net  us-dal-wg-604  103.102.247.127  2a01:4740:2::f301       10     no     HostRoyale
