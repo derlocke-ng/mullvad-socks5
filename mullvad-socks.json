@@ -7434,24 +7434,6 @@
     "flag": "🇺🇸"
   },
   {
-    "relay": "us-mkc-wg-008",
-    "socks_name": "us-mkc-wg-socks5-008.relays.mullvad.net",
-    "socks_port": 1080,
-    "country_code": "US",
-    "country_name": "USA",
-    "city_code": "mkc",
-    "city_name": "Kansas City, MO",
-    "ipv4_addr_in": "23.234.119.127",
-    "ipv6_addr_in": "2607:9000:e00:9::f001",
-    "provider": "Tzulo",
-    "owned": false,
-    "speed": 10,
-    "socks_ip": "10.124.0.165",
-    "alias": "us-mkc-008.mullvad.home",
-    "reachable": true,
-    "flag": "🇺🇸"
-  },
-  {
     "relay": "us-mkc-wg-101",
     "socks_name": "us-mkc-wg-socks5-101.relays.mullvad.net",
     "socks_port": 1080,

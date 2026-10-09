@@ -1,4 +1,4 @@
-Mullvad SOCKS5 proxies: 534 (answered a SOCKS5 greeting)
+Mullvad SOCKS5 proxies: 533 (answered a SOCKS5 greeting)
 Reachable only through a Mullvad VPN connection.
 
 flag  country         city                socks5        port  hostname                                 relay          ipv4_in          ipv6_in                    speed  owned  provider
@@ -415,7 +415,6 @@ flag  country         city                socks5        port  hostname          
 🇺🇸    USA             Kansas City, MO     10.124.0.162  1080  us-mkc-wg-socks5-005.relays.mullvad.net  us-mkc-wg-005  23.234.118.3     2607:9000:e00:6::f001      10     no     Tzulo
 🇺🇸    USA             Kansas City, MO     10.124.0.163  1080  us-mkc-wg-socks5-006.relays.mullvad.net  us-mkc-wg-006  23.234.118.127   2607:9000:e00:7::f001      10     no     Tzulo
 🇺🇸    USA             Kansas City, MO     10.124.0.164  1080  us-mkc-wg-socks5-007.relays.mullvad.net  us-mkc-wg-007  23.234.119.3     2607:9000:e00:8::f001      10     no     Tzulo
-🇺🇸    USA             Kansas City, MO     10.124.0.165  1080  us-mkc-wg-socks5-008.relays.mullvad.net  us-mkc-wg-008  23.234.119.127   2607:9000:e00:9::f001      10     no     Tzulo
 🇺🇸    USA             Kansas City, MO     10.124.2.61   1080  us-mkc-wg-socks5-101.relays.mullvad.net  us-mkc-wg-101  155.2.191.3      2602:fed2:7e0a::f001       10     no     hostuniversal
 🇺🇸    USA             Kansas City, MO     10.124.2.62   1080  us-mkc-wg-socks5-102.relays.mullvad.net  us-mkc-wg-102  155.2.191.53     2602:fed2:7e0a::f101       10     no     hostuniversal
 🇺🇸    USA             Kansas City, MO     10.124.2.63   1080  us-mkc-wg-socks5-103.relays.mullvad.net  us-mkc-wg-103  155.2.191.103    2602:fed2:7e0a::f201       10     no     hostuniversal
@@ -536,3 +535,9 @@ flag  country         city                socks5        port  hostname          
 🇺🇸    USA             Secaucus, NJ        10.124.0.169  1080  us-uyk-wg-socks5-202.relays.mullvad.net  us-uyk-wg-202  104.36.50.33     2a06:3040:22:620::f101     10     no     HostRoyale
 🇺🇸    USA             Washington DC       10.124.1.108  1080  us-was-wg-socks5-001.relays.mullvad.net  us-was-wg-001  185.213.193.3    2604:980:1002:11::f001     10     no     Zenlayer
 🇺🇸    USA             Washington DC       10.124.1.109  1080  us-was-wg-socks5-002.relays.mullvad.net  us-was-wg-002  185.213.193.127  2604:980:1002:11::f101     10     no     Zenlayer
+
+
+Not answering (1):
+
+flag  country  city             socks5        port  hostname                                 relay          ipv4_in         ipv6_in                speed  owned  provider
+🇺🇸    USA      Kansas City, MO  10.124.0.165  1080  us-mkc-wg-socks5-008.relays.mullvad.net  us-mkc-wg-008  23.234.119.127  2607:9000:e00:9::f001  10     no     Tzulo
