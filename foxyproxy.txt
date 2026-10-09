@@ -11,6 +11,7 @@ socks5://10.124.0.220:1080?title=au-bne-wg-socks5-301&cc=AU&city=Brisbane&color=
 socks5://10.124.0.221:1080?title=au-bne-wg-socks5-302&cc=AU&city=Brisbane&color=2d48d2&proxyDNS=true
 socks5://10.124.0.69:1080?title=au-bne-wg-socks5-303&cc=AU&city=Brisbane&color=2d48d2&proxyDNS=true
 socks5://10.124.1.53:1080?title=au-mel-wg-socks5-401&cc=AU&city=Melbourne&color=2d48d2&proxyDNS=true
+socks5://10.124.1.59:1080?title=au-mel-wg-socks5-402&cc=AU&city=Melbourne&color=2d48d2&proxyDNS=true
 socks5://10.124.2.107:1080?title=au-mel-wg-socks5-403&cc=AU&city=Melbourne&color=2d48d2&proxyDNS=true
 socks5://10.124.1.55:1080?title=au-per-wg-socks5-301&cc=AU&city=Perth&color=2d48d2&proxyDNS=true
 socks5://10.124.1.57:1080?title=au-per-wg-socks5-302&cc=AU&city=Perth&color=2d48d2&proxyDNS=true
@@ -411,6 +412,7 @@ socks5://10.124.0.158:1080?title=us-mkc-wg-socks5-004&cc=US&city=Kansas%20City%2
 socks5://10.124.0.162:1080?title=us-mkc-wg-socks5-005&cc=US&city=Kansas%20City%2C%20MO&color=2dd2d0&proxyDNS=true
 socks5://10.124.0.163:1080?title=us-mkc-wg-socks5-006&cc=US&city=Kansas%20City%2C%20MO&color=2dd2d0&proxyDNS=true
 socks5://10.124.0.164:1080?title=us-mkc-wg-socks5-007&cc=US&city=Kansas%20City%2C%20MO&color=2dd2d0&proxyDNS=true
+socks5://10.124.0.165:1080?title=us-mkc-wg-socks5-008&cc=US&city=Kansas%20City%2C%20MO&color=2dd2d0&proxyDNS=true
 socks5://10.124.2.61:1080?title=us-mkc-wg-socks5-101&cc=US&city=Kansas%20City%2C%20MO&color=2dd2d0&proxyDNS=true
 socks5://10.124.2.62:1080?title=us-mkc-wg-socks5-102&cc=US&city=Kansas%20City%2C%20MO&color=2dd2d0&proxyDNS=true
 socks5://10.124.2.63:1080?title=us-mkc-wg-socks5-103&cc=US&city=Kansas%20City%2C%20MO&color=2dd2d0&proxyDNS=true

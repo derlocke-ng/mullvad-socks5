@@ -11,6 +11,7 @@ socks5://au-bne-wg-socks5-301.relays.mullvad.net:1080?title=au-bne-wg-socks5-301
 socks5://au-bne-wg-socks5-302.relays.mullvad.net:1080?title=au-bne-wg-socks5-302&cc=AU&city=Brisbane&color=2d48d2&proxyDNS=true
 socks5://au-bne-wg-socks5-303.relays.mullvad.net:1080?title=au-bne-wg-socks5-303&cc=AU&city=Brisbane&color=2d48d2&proxyDNS=true
 socks5://au-mel-wg-socks5-401.relays.mullvad.net:1080?title=au-mel-wg-socks5-401&cc=AU&city=Melbourne&color=2d48d2&proxyDNS=true
+socks5://au-mel-wg-socks5-402.relays.mullvad.net:1080?title=au-mel-wg-socks5-402&cc=AU&city=Melbourne&color=2d48d2&proxyDNS=true
 socks5://au-mel-wg-socks5-403.relays.mullvad.net:1080?title=au-mel-wg-socks5-403&cc=AU&city=Melbourne&color=2d48d2&proxyDNS=true
 socks5://au-per-wg-socks5-301.relays.mullvad.net:1080?title=au-per-wg-socks5-301&cc=AU&city=Perth&color=2d48d2&proxyDNS=true
 socks5://au-per-wg-socks5-302.relays.mullvad.net:1080?title=au-per-wg-socks5-302&cc=AU&city=Perth&color=2d48d2&proxyDNS=true
@@ -411,6 +412,7 @@ socks5://us-mkc-wg-socks5-004.relays.mullvad.net:1080?title=us-mkc-wg-socks5-004
 socks5://us-mkc-wg-socks5-005.relays.mullvad.net:1080?title=us-mkc-wg-socks5-005&cc=US&city=Kansas%20City%2C%20MO&color=2dd2d0&proxyDNS=true
 socks5://us-mkc-wg-socks5-006.relays.mullvad.net:1080?title=us-mkc-wg-socks5-006&cc=US&city=Kansas%20City%2C%20MO&color=2dd2d0&proxyDNS=true
 socks5://us-mkc-wg-socks5-007.relays.mullvad.net:1080?title=us-mkc-wg-socks5-007&cc=US&city=Kansas%20City%2C%20MO&color=2dd2d0&proxyDNS=true
+socks5://us-mkc-wg-socks5-008.relays.mullvad.net:1080?title=us-mkc-wg-socks5-008&cc=US&city=Kansas%20City%2C%20MO&color=2dd2d0&proxyDNS=true
 socks5://us-mkc-wg-socks5-101.relays.mullvad.net:1080?title=us-mkc-wg-socks5-101&cc=US&city=Kansas%20City%2C%20MO&color=2dd2d0&proxyDNS=true
 socks5://us-mkc-wg-socks5-102.relays.mullvad.net:1080?title=us-mkc-wg-socks5-102&cc=US&city=Kansas%20City%2C%20MO&color=2dd2d0&proxyDNS=true
 socks5://us-mkc-wg-socks5-103.relays.mullvad.net:1080?title=us-mkc-wg-socks5-103&cc=US&city=Kansas%20City%2C%20MO&color=2dd2d0&proxyDNS=true
