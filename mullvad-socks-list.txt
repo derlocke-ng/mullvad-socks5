@@ -1,4 +1,4 @@
-Mullvad SOCKS5 proxies: 533 (answered a SOCKS5 greeting)
+Mullvad SOCKS5 proxies: 531 (answered a SOCKS5 greeting)
 Reachable only through a Mullvad VPN connection.
 
 flag  country         city                socks5        port  hostname                                 relay          ipv4_in          ipv6_in                    speed  owned  provider
@@ -236,8 +236,6 @@ flag  country         city                socks5        port  hostname          
 🇸🇮    Slovenia        Ljubljana           10.124.0.249  1080  si-lju-wg-socks5-002.relays.mullvad.net  si-lju-wg-002  93.115.0.33      2a06:3040:7:210::f101      10     no     HostRoyale
 🇿🇦    South Africa    Johannesburg        10.124.2.59   1080  za-jnb-wg-socks5-001.relays.mullvad.net  za-jnb-wg-001  154.47.30.130    2a02:6ea0:f206::f001       10     no     DataPacket
 🇿🇦    South Africa    Johannesburg        10.124.2.60   1080  za-jnb-wg-socks5-002.relays.mullvad.net  za-jnb-wg-002  154.47.30.143    2a02:6ea0:f207::f001       10     no     DataPacket
-🇪🇸    Spain           Barcelona           10.124.0.252  1080  es-bcn-wg-socks5-001.relays.mullvad.net  es-bcn-wg-001  185.188.61.195   2a06:3040:2:210::f001      10     no     HostRoyale
-🇪🇸    Spain           Barcelona           10.124.0.253  1080  es-bcn-wg-socks5-002.relays.mullvad.net  es-bcn-wg-002  185.188.61.225   2a06:3040:2:210::f101      10     no     HostRoyale
 🇪🇸    Spain           Barcelona           10.124.1.69   1080  es-bcn-wg-socks5-101.relays.mullvad.net  es-bcn-wg-101  185.253.99.30    2001:ac8:17:20::f001       10     no     M247
 🇪🇸    Spain           Barcelona           10.124.1.70   1080  es-bcn-wg-socks5-102.relays.mullvad.net  es-bcn-wg-102  185.253.99.98    2001:ac8:17:20::f101       10     no     M247
 🇪🇸    Spain           Madrid              10.124.1.223  1080  es-mad-wg-socks5-101.relays.mullvad.net  es-mad-wg-101  45.134.213.194   2a02:6ea0:c318:1::a06f     10     no     DataPacket
@@ -535,3 +533,10 @@ flag  country         city                socks5        port  hostname          
 🇺🇸    USA             Secaucus, NJ        10.124.0.169  1080  us-uyk-wg-socks5-202.relays.mullvad.net  us-uyk-wg-202  104.36.50.33     2a06:3040:22:620::f101     10     no     HostRoyale
 🇺🇸    USA             Washington DC       10.124.1.108  1080  us-was-wg-socks5-001.relays.mullvad.net  us-was-wg-001  185.213.193.3    2604:980:1002:11::f001     10     no     Zenlayer
 🇺🇸    USA             Washington DC       10.124.1.109  1080  us-was-wg-socks5-002.relays.mullvad.net  us-was-wg-002  185.213.193.127  2604:980:1002:11::f101     10     no     Zenlayer
+
+
+Not answering (2):
+
+flag  country  city       socks5        port  hostname                                 relay          ipv4_in         ipv6_in                speed  owned  provider
+🇪🇸    Spain    Barcelona  10.124.0.252  1080  es-bcn-wg-socks5-001.relays.mullvad.net  es-bcn-wg-001  185.188.61.195  2a06:3040:2:210::f001  10     no     HostRoyale
+🇪🇸    Spain    Barcelona  10.124.0.253  1080  es-bcn-wg-socks5-002.relays.mullvad.net  es-bcn-wg-002  185.188.61.225  2a06:3040:2:210::f101  10     no     HostRoyale

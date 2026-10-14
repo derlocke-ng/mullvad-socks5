@@ -1,6 +1,6 @@
 # Mullvad SOCKS5 proxy lists
 
-Built 2026-10-13 06:56 UTC by [derlocke-ng/mullvad-socks5](https://github.com/derlocke-ng/mullvad-socks5) — **533 proxies** in 49 countries, each answered a SOCKS5 greeting through a Mullvad tunnel.
+Built 2026-10-14 06:48 UTC by [derlocke-ng/mullvad-socks5](https://github.com/derlocke-ng/mullvad-socks5) — **531 proxies** in 49 countries, each answered a SOCKS5 greeting through a Mullvad tunnel.
 
 The proxies are reachable only through a Mullvad VPN connection.
 
@@ -59,7 +59,7 @@ The proxies are reachable only through a Mullvad VPN connection.
 | 🇸🇰 | Slovakia | 2 |
 | 🇸🇮 | Slovenia | 2 |
 | 🇿🇦 | South Africa | 2 |
-| 🇪🇸 | Spain | 11 |
+| 🇪🇸 | Spain | 9 |
 | 🇸🇪 | Sweden | 37 |
 | 🇨🇭 | Switzerland | 14 |
 | 🇹🇭 | Thailand | 2 |
