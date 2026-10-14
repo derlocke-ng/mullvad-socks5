@@ -76,6 +76,8 @@ socks5://co-bog-wg-socks5-001.relays.mullvad.net:1080?title=co-bog-wg-socks5-001
 socks5://co-bog-wg-socks5-002.relays.mullvad.net:1080?title=co-bog-wg-socks5-002&cc=CO&city=Bogota&color=a7d22d&proxyDNS=true
 socks5://hr-zag-wg-socks5-001.relays.mullvad.net:1080?title=hr-zag-wg-socks5-001&cc=HR&city=Zagreb&color=d2382d&proxyDNS=true
 socks5://hr-zag-wg-socks5-002.relays.mullvad.net:1080?title=hr-zag-wg-socks5-002&cc=HR&city=Zagreb&color=d2382d&proxyDNS=true
+socks5://cy-nic-wg-socks5-001.relays.mullvad.net:1080?title=cy-nic-wg-socks5-001&cc=CY&city=Nicosia&color=d24a2d&proxyDNS=true
+socks5://cy-nic-wg-socks5-002.relays.mullvad.net:1080?title=cy-nic-wg-socks5-002&cc=CY&city=Nicosia&color=d24a2d&proxyDNS=true
 socks5://cz-prg-wg-socks5-101.relays.mullvad.net:1080?title=cz-prg-wg-socks5-101&cc=CZ&city=Prague&color=2dd27a&proxyDNS=true
 socks5://cz-prg-wg-socks5-102.relays.mullvad.net:1080?title=cz-prg-wg-socks5-102&cc=CZ&city=Prague&color=2dd27a&proxyDNS=true
 socks5://cz-prg-wg-socks5-201.relays.mullvad.net:1080?title=cz-prg-wg-socks5-201&cc=CZ&city=Prague&color=2dd27a&proxyDNS=true
@@ -232,6 +234,8 @@ socks5://si-lju-wg-socks5-001.relays.mullvad.net:1080?title=si-lju-wg-socks5-001
 socks5://si-lju-wg-socks5-002.relays.mullvad.net:1080?title=si-lju-wg-socks5-002&cc=SI&city=Ljubljana&color=c12dd2&proxyDNS=true
 socks5://za-jnb-wg-socks5-001.relays.mullvad.net:1080?title=za-jnb-wg-socks5-001&cc=ZA&city=Johannesburg&color=63d22d&proxyDNS=true
 socks5://za-jnb-wg-socks5-002.relays.mullvad.net:1080?title=za-jnb-wg-socks5-002&cc=ZA&city=Johannesburg&color=63d22d&proxyDNS=true
+socks5://es-bcn-wg-socks5-001.relays.mullvad.net:1080?title=es-bcn-wg-socks5-001&cc=ES&city=Barcelona&color=2d6fd2&proxyDNS=true
+socks5://es-bcn-wg-socks5-002.relays.mullvad.net:1080?title=es-bcn-wg-socks5-002&cc=ES&city=Barcelona&color=2d6fd2&proxyDNS=true
 socks5://es-bcn-wg-socks5-101.relays.mullvad.net:1080?title=es-bcn-wg-socks5-101&cc=ES&city=Barcelona&color=2d6fd2&proxyDNS=true
 socks5://es-bcn-wg-socks5-102.relays.mullvad.net:1080?title=es-bcn-wg-socks5-102&cc=ES&city=Barcelona&color=2d6fd2&proxyDNS=true
 socks5://es-mad-wg-socks5-101.relays.mullvad.net:1080?title=es-mad-wg-socks5-101&cc=ES&city=Madrid&color=2d6fd2&proxyDNS=true
