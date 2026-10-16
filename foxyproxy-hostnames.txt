@@ -461,7 +461,6 @@ socks5://us-nyc-wg-socks5-003.relays.mullvad.net:1080?title=us-nyc-wg-socks5-003
 socks5://us-nyc-wg-socks5-301.relays.mullvad.net:1080?title=us-nyc-wg-socks5-301&cc=US&city=New%20York%2C%20NY&color=2dd2d0&proxyDNS=true
 socks5://us-nyc-wg-socks5-302.relays.mullvad.net:1080?title=us-nyc-wg-socks5-302&cc=US&city=New%20York%2C%20NY&color=2dd2d0&proxyDNS=true
 socks5://us-nyc-wg-socks5-303.relays.mullvad.net:1080?title=us-nyc-wg-socks5-303&cc=US&city=New%20York%2C%20NY&color=2dd2d0&proxyDNS=true
-socks5://us-nyc-wg-socks5-501.relays.mullvad.net:1080?title=us-nyc-wg-socks5-501&cc=US&city=New%20York%2C%20NY&color=2dd2d0&proxyDNS=true
 socks5://us-nyc-wg-socks5-502.relays.mullvad.net:1080?title=us-nyc-wg-socks5-502&cc=US&city=New%20York%2C%20NY&color=2dd2d0&proxyDNS=true
 socks5://us-nyc-wg-socks5-504.relays.mullvad.net:1080?title=us-nyc-wg-socks5-504&cc=US&city=New%20York%2C%20NY&color=2dd2d0&proxyDNS=true
 socks5://us-nyc-wg-socks5-505.relays.mullvad.net:1080?title=us-nyc-wg-socks5-505&cc=US&city=New%20York%2C%20NY&color=2dd2d0&proxyDNS=true

@@ -461,7 +461,6 @@ socks5://10.124.0.134:1080?title=us-nyc-wg-socks5-003&cc=US&city=New%20York%2C%2
 socks5://10.124.1.190:1080?title=us-nyc-wg-socks5-301&cc=US&city=New%20York%2C%20NY&color=2dd2d0&proxyDNS=true
 socks5://10.124.1.191:1080?title=us-nyc-wg-socks5-302&cc=US&city=New%20York%2C%20NY&color=2dd2d0&proxyDNS=true
 socks5://10.124.1.192:1080?title=us-nyc-wg-socks5-303&cc=US&city=New%20York%2C%20NY&color=2dd2d0&proxyDNS=true
-socks5://10.124.0.72:1080?title=us-nyc-wg-socks5-501&cc=US&city=New%20York%2C%20NY&color=2dd2d0&proxyDNS=true
 socks5://10.124.0.75:1080?title=us-nyc-wg-socks5-502&cc=US&city=New%20York%2C%20NY&color=2dd2d0&proxyDNS=true
 socks5://10.124.0.87:1080?title=us-nyc-wg-socks5-504&cc=US&city=New%20York%2C%20NY&color=2dd2d0&proxyDNS=true
 socks5://10.124.0.90:1080?title=us-nyc-wg-socks5-505&cc=US&city=New%20York%2C%20NY&color=2dd2d0&proxyDNS=true

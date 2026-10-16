@@ -8334,24 +8334,6 @@
     "flag": "🇺🇸"
   },
   {
-    "relay": "us-nyc-wg-501",
-    "socks_name": "us-nyc-wg-socks5-501.relays.mullvad.net",
-    "socks_port": 1080,
-    "country_code": "US",
-    "country_name": "USA",
-    "city_code": "nyc",
-    "city_name": "New York, NY",
-    "ipv4_addr_in": "146.70.165.2",
-    "ipv6_addr_in": "2a0d:5600:24:2b6::f001",
-    "provider": "M247",
-    "owned": false,
-    "speed": 10,
-    "socks_ip": "10.124.0.72",
-    "alias": "us-nyc-501.mullvad.home",
-    "reachable": true,
-    "flag": "🇺🇸"
-  },
-  {
     "relay": "us-nyc-wg-502",
     "socks_name": "us-nyc-wg-socks5-502.relays.mullvad.net",
     "socks_port": 1080,
