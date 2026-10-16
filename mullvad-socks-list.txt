@@ -1,4 +1,4 @@
-Mullvad SOCKS5 proxies: 534 (answered a SOCKS5 greeting)
+Mullvad SOCKS5 proxies: 535 (answered a SOCKS5 greeting)
 Reachable only through a Mullvad VPN connection.
 
 flag  country         city                socks5        port  hostname                                 relay          ipv4_in          ipv6_in                    speed  owned  provider
@@ -465,6 +465,7 @@ flag  country         city                socks5        port  hostname          
 🇺🇸    USA             New York, NY        10.124.1.190  1080  us-nyc-wg-socks5-301.relays.mullvad.net  us-nyc-wg-301  143.244.47.65    2a02:6ea0:c43f::f001       10     no     DataPacket
 🇺🇸    USA             New York, NY        10.124.1.191  1080  us-nyc-wg-socks5-302.relays.mullvad.net  us-nyc-wg-302  143.244.47.78    2a02:6ea0:c43f:1::f001     10     no     DataPacket
 🇺🇸    USA             New York, NY        10.124.1.192  1080  us-nyc-wg-socks5-303.relays.mullvad.net  us-nyc-wg-303  143.244.47.91    2a02:6ea0:c43f:2::b52f     10     no     DataPacket
+🇺🇸    USA             New York, NY        10.124.0.72   1080  us-nyc-wg-socks5-501.relays.mullvad.net  us-nyc-wg-501  146.70.165.2     2a0d:5600:24:2b6::f001     10     no     M247
 🇺🇸    USA             New York, NY        10.124.0.75   1080  us-nyc-wg-socks5-502.relays.mullvad.net  us-nyc-wg-502  146.70.165.130   2a0d:5600:24:2b8::f001     10     no     M247
 🇺🇸    USA             New York, NY        10.124.0.87   1080  us-nyc-wg-socks5-504.relays.mullvad.net  us-nyc-wg-504  146.70.166.130   2a0d:5600:24:2c2::f001     10     no     M247
 🇺🇸    USA             New York, NY        10.124.0.90   1080  us-nyc-wg-socks5-505.relays.mullvad.net  us-nyc-wg-505  146.70.166.194   2a0d:5600:24:2c3::f001     10     no     M247

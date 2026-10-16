@@ -446,6 +446,7 @@
 10.124.1.190 us-nyc-wg-socks5-301.relays.mullvad.net
 10.124.1.191 us-nyc-wg-socks5-302.relays.mullvad.net
 10.124.1.192 us-nyc-wg-socks5-303.relays.mullvad.net
+10.124.0.72 us-nyc-wg-socks5-501.relays.mullvad.net
 10.124.0.75 us-nyc-wg-socks5-502.relays.mullvad.net
 10.124.0.87 us-nyc-wg-socks5-504.relays.mullvad.net
 10.124.0.90 us-nyc-wg-socks5-505.relays.mullvad.net
@@ -980,6 +981,7 @@
 10.124.1.190 us-nyc-301.mullvad.home
 10.124.1.191 us-nyc-302.mullvad.home
 10.124.1.192 us-nyc-303.mullvad.home
+10.124.0.72 us-nyc-501.mullvad.home
 10.124.0.75 us-nyc-502.mullvad.home
 10.124.0.87 us-nyc-504.mullvad.home
 10.124.0.90 us-nyc-505.mullvad.home
