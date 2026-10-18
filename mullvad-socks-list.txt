@@ -1,4 +1,4 @@
-Mullvad SOCKS5 proxies: 532 (answered a SOCKS5 greeting)
+Mullvad SOCKS5 proxies: 535 (answered a SOCKS5 greeting)
 Reachable only through a Mullvad VPN connection.
 
 flag  country         city                socks5        port  hostname                                 relay          ipv4_in          ipv6_in                    speed  owned  provider
@@ -92,6 +92,8 @@ flag  country         city                socks5        port  hostname          
 🇩🇰    Denmark         Copenhagen          10.124.0.229  1080  dk-cph-wg-socks5-401.relays.mullvad.net  dk-cph-wg-401  146.70.197.194   2001:ac8:37:97::f001       10     no     M247
 🇩🇰    Denmark         Copenhagen          10.124.0.230  1080  dk-cph-wg-socks5-402.relays.mullvad.net  dk-cph-wg-402  146.70.197.130   2001:ac8:37:96::f001       10     no     M247
 🇪🇪    Estonia         Tallinn             10.124.1.249  1080  ee-tll-wg-socks5-101.relays.mullvad.net  ee-tll-wg-101  213.232.112.3    2a07:d883:704:1::f001      100    yes    xtom
+🇪🇪    Estonia         Tallinn             10.124.2.6    1080  ee-tll-wg-socks5-102.relays.mullvad.net  ee-tll-wg-102  213.232.112.166  2a07:d883:704:2::f001      100    yes    xtom
+🇪🇪    Estonia         Tallinn             10.124.2.7    1080  ee-tll-wg-socks5-103.relays.mullvad.net  ee-tll-wg-103  213.232.112.209  2a07:d883:704:3::f001      100    yes    xtom
 🇫🇮    Finland         Helsinki            10.124.0.111  1080  fi-hel-wg-socks5-002.relays.mullvad.net  fi-hel-wg-002  185.204.1.211    2a0c:f040:0:2790::a02f     10     yes    Creanova
 🇫🇮    Finland         Helsinki            10.124.0.112  1080  fi-hel-wg-socks5-003.relays.mullvad.net  fi-hel-wg-003  185.204.1.219    2a0c:f040:0:2790::a03f     10     yes    Creanova
 🇫🇮    Finland         Helsinki            10.124.2.53   1080  fi-hel-wg-socks5-101.relays.mullvad.net  fi-hel-wg-101  193.138.7.137    2a02:ed04:3581:1::f001     10     yes    Blix
@@ -188,6 +190,7 @@ flag  country         city                socks5        port  hostname          
 🇳🇱    Netherlands     Amsterdam           10.124.1.254  1080  nl-ams-wg-socks5-202.relays.mullvad.net  nl-ams-wg-202  169.150.196.15   2a02:6ea0:c034:2::a31f     10     no     DataPacket
 🇳🇱    Netherlands     Amsterdam           10.124.2.1    1080  nl-ams-wg-socks5-203.relays.mullvad.net  nl-ams-wg-203  169.150.196.28   2a02:6ea0:c034:3::a32f     10     no     DataPacket
 🇳🇱    Netherlands     Amsterdam           10.124.0.244  1080  nl-ams-wg-socks5-301.relays.mullvad.net  nl-ams-wg-301  185.184.222.3    2a07:d883:700:1::f001      100    yes    xtom
+🇳🇱    Netherlands     Amsterdam           10.124.0.245  1080  nl-ams-wg-socks5-302.relays.mullvad.net  nl-ams-wg-302  185.184.222.166  2a07:d883:700:2::f001      100    yes    xtom
 🇳🇱    Netherlands     Amsterdam           10.124.1.121  1080  nl-ams-wg-socks5-303.relays.mullvad.net  nl-ams-wg-303  185.184.222.209  2a07:d883:700:3::f001      100    yes    xtom
 🇳🇱    Netherlands     Amsterdam           10.124.0.236  1080  nl-ams-wg-socks5-401.relays.mullvad.net  nl-ams-wg-401  109.104.134.3    2a06:3040:31:601::f001     100    no     HostRoyale
 🇳🇱    Netherlands     Amsterdam           10.124.1.48   1080  nl-ams-wg-socks5-402.relays.mullvad.net  nl-ams-wg-402  62.101.160.3     2a06:3040:31:601::f101     100    no     HostRoyale
@@ -534,11 +537,3 @@ flag  country         city                socks5        port  hostname          
 🇺🇸    USA             Secaucus, NJ        10.124.0.169  1080  us-uyk-wg-socks5-202.relays.mullvad.net  us-uyk-wg-202  104.36.50.33     2a06:3040:22:620::f101     10     no     HostRoyale
 🇺🇸    USA             Washington DC       10.124.1.108  1080  us-was-wg-socks5-001.relays.mullvad.net  us-was-wg-001  185.213.193.3    2604:980:1002:11::f001     10     no     Zenlayer
 🇺🇸    USA             Washington DC       10.124.1.109  1080  us-was-wg-socks5-002.relays.mullvad.net  us-was-wg-002  185.213.193.127  2604:980:1002:11::f101     10     no     Zenlayer
-
-
-Not answering (3):
-
-flag  country      city       socks5        port  hostname                                 relay          ipv4_in          ipv6_in                speed  owned  provider
-🇪🇪    Estonia      Tallinn    10.124.2.6    1080  ee-tll-wg-socks5-102.relays.mullvad.net  ee-tll-wg-102  213.232.112.166  2a07:d883:704:2::f001  100    yes    xtom
-🇪🇪    Estonia      Tallinn    10.124.2.7    1080  ee-tll-wg-socks5-103.relays.mullvad.net  ee-tll-wg-103  213.232.112.209  2a07:d883:704:3::f001  100    yes    xtom
-🇳🇱    Netherlands  Amsterdam  10.124.0.245  1080  nl-ams-wg-socks5-302.relays.mullvad.net  nl-ams-wg-302  185.184.222.166  2a07:d883:700:2::f001  100    yes    xtom
