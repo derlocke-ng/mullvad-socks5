@@ -1,4 +1,4 @@
-Mullvad SOCKS5 proxies: 533 (answered a SOCKS5 greeting)
+Mullvad SOCKS5 proxies: 531 (answered a SOCKS5 greeting)
 Reachable only through a Mullvad VPN connection.
 
 flag  country         city                socks5        port  hostname                                 relay          ipv4_in          ipv6_in                    speed  owned  provider
@@ -82,15 +82,13 @@ flag  country         city                socks5        port  hostname          
 🇭🇷    Croatia         Zagreb              10.124.0.74   1080  hr-zag-wg-socks5-002.relays.mullvad.net  hr-zag-wg-002  154.47.29.15     2a02:6ea0:f401:2::a01f     10     no     DataPacket
 🇨🇾    Cyprus          Nicosia             10.124.1.83   1080  cy-nic-wg-socks5-001.relays.mullvad.net  cy-nic-wg-001  195.47.194.131   2a06:3040:f:601::f001      10     no     HostRoyale
 🇨🇾    Cyprus          Nicosia             10.124.1.84   1080  cy-nic-wg-socks5-002.relays.mullvad.net  cy-nic-wg-002  195.47.194.161   2a06:3040:f:601::f101      10     no     HostRoyale
-🇨🇿    Czech Republic  Prague              10.124.2.33   1080  cz-prg-wg-socks5-101.relays.mullvad.net  cz-prg-wg-101  146.70.129.98    2001:ac8:33:c::a01f        10     no     M247
-🇨🇿    Czech Republic  Prague              10.124.2.34   1080  cz-prg-wg-socks5-102.relays.mullvad.net  cz-prg-wg-102  146.70.129.130   2001:ac8:33:d::a02f        10     no     M247
+🇨🇿    Czech Republic  Prague              10.124.0.77   1080  cz-prg-wg-socks5-101.relays.mullvad.net  cz-prg-wg-101  135.136.123.130  2001:ac8:33:e::f001        20     no     M247
+🇨🇿    Czech Republic  Prague              10.124.0.48   1080  cz-prg-wg-socks5-103.relays.mullvad.net  cz-prg-wg-103  135.136.123.2    2001:ac8:33:d::f001        20     no     M247
 🇨🇿    Czech Republic  Prague              10.124.2.57   1080  cz-prg-wg-socks5-201.relays.mullvad.net  cz-prg-wg-201  178.249.209.162  2a02:6ea0:c201:1::f001     10     no     DataPacket
 🇨🇿    Czech Republic  Prague              10.124.2.58   1080  cz-prg-wg-socks5-202.relays.mullvad.net  cz-prg-wg-202  178.249.209.175  2a02:6ea0:c201:1::f101     10     no     DataPacket
 🇩🇰    Denmark         Copenhagen          10.124.0.64   1080  dk-cph-wg-socks5-001.relays.mullvad.net  dk-cph-wg-001  45.129.56.67     2a03:1b20:8:f011::f001     20     yes    31173
 🇩🇰    Denmark         Copenhagen          10.124.0.17   1080  dk-cph-wg-socks5-002.relays.mullvad.net  dk-cph-wg-002  45.129.56.68     2a03:1b20:8:f011::f101     20     yes    31173
 🇩🇰    Denmark         Copenhagen          10.124.2.91   1080  dk-cph-wg-socks5-102.relays.mullvad.net  dk-cph-wg-102  149.88.109.73    2a02:6ea0:470b:0:2::f001   100    yes    DataPacket
-🇩🇰    Denmark         Copenhagen          10.124.0.229  1080  dk-cph-wg-socks5-401.relays.mullvad.net  dk-cph-wg-401  146.70.197.194   2001:ac8:37:97::f001       10     no     M247
-🇩🇰    Denmark         Copenhagen          10.124.0.230  1080  dk-cph-wg-socks5-402.relays.mullvad.net  dk-cph-wg-402  146.70.197.130   2001:ac8:37:96::f001       10     no     M247
 🇪🇪    Estonia         Tallinn             10.124.1.249  1080  ee-tll-wg-socks5-101.relays.mullvad.net  ee-tll-wg-101  213.232.112.3    2a07:d883:704:1::f001      100    yes    xtom
 🇪🇪    Estonia         Tallinn             10.124.2.6    1080  ee-tll-wg-socks5-102.relays.mullvad.net  ee-tll-wg-102  213.232.112.166  2a07:d883:704:2::f001      100    yes    xtom
 🇪🇪    Estonia         Tallinn             10.124.2.7    1080  ee-tll-wg-socks5-103.relays.mullvad.net  ee-tll-wg-103  213.232.112.209  2a07:d883:704:3::f001      100    yes    xtom
