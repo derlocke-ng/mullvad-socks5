@@ -303,7 +303,6 @@
 10.124.0.57 se-sto-wg-socks5-203.relays.mullvad.net
 10.124.0.58 se-sto-wg-socks5-204.relays.mullvad.net
 10.124.0.79 se-sto-wg-socks5-205.relays.mullvad.net
-10.124.0.115 se-sto-wg-socks5-206.relays.mullvad.net
 10.124.0.128 se-sto-wg-socks5-207.relays.mullvad.net
 10.124.0.129 se-sto-wg-socks5-208.relays.mullvad.net
 10.124.0.130 se-sto-wg-socks5-209.relays.mullvad.net
@@ -413,8 +412,6 @@
 10.124.0.207 us-lax-wg-socks5-604.relays.mullvad.net
 10.124.0.208 us-lax-wg-socks5-605.relays.mullvad.net
 10.124.0.209 us-lax-wg-socks5-606.relays.mullvad.net
-10.124.1.128 us-lax-wg-socks5-607.relays.mullvad.net
-10.124.1.129 us-lax-wg-socks5-608.relays.mullvad.net
 10.124.1.175 us-lax-wg-socks5-701.relays.mullvad.net
 10.124.1.181 us-lax-wg-socks5-702.relays.mullvad.net
 10.124.1.176 us-lax-wg-socks5-703.relays.mullvad.net
@@ -836,7 +833,6 @@
 10.124.0.57 se-sto-203.mullvad.home
 10.124.0.58 se-sto-204.mullvad.home
 10.124.0.79 se-sto-205.mullvad.home
-10.124.0.115 se-sto-206.mullvad.home
 10.124.0.128 se-sto-207.mullvad.home
 10.124.0.129 se-sto-208.mullvad.home
 10.124.0.130 se-sto-209.mullvad.home
@@ -946,8 +942,6 @@
 10.124.0.207 us-lax-604.mullvad.home
 10.124.0.208 us-lax-605.mullvad.home
 10.124.0.209 us-lax-606.mullvad.home
-10.124.1.128 us-lax-607.mullvad.home
-10.124.1.129 us-lax-608.mullvad.home
 10.124.1.175 us-lax-701.mullvad.home
 10.124.1.181 us-lax-702.mullvad.home
 10.124.1.176 us-lax-703.mullvad.home

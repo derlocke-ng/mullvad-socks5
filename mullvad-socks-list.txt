@@ -1,4 +1,4 @@
-Mullvad SOCKS5 proxies: 531 (answered a SOCKS5 greeting)
+Mullvad SOCKS5 proxies: 530 (answered a SOCKS5 greeting)
 Reachable only through a Mullvad VPN connection.
 
 flag  country         city                socks5        port  hostname                                 relay          ipv4_in          ipv6_in                    speed  owned  provider
@@ -280,7 +280,6 @@ flag  country         city                socks5        port  hostname          
 🇸🇪    Sweden          Stockholm           10.124.0.57   1080  se-sto-wg-socks5-203.relays.mullvad.net  se-sto-wg-203  89.37.63.129     2a02:6ea0:1508:3::f001     40     yes    DataPacket
 🇸🇪    Sweden          Stockholm           10.124.0.58   1080  se-sto-wg-socks5-204.relays.mullvad.net  se-sto-wg-204  89.37.63.190     2a02:6ea0:1508:4::f001     40     yes    DataPacket
 🇸🇪    Sweden          Stockholm           10.124.0.79   1080  se-sto-wg-socks5-205.relays.mullvad.net  se-sto-wg-205  170.62.100.10    2a02:6ea0:1508:5::f001     40     yes    DataPacket
-🇸🇪    Sweden          Stockholm           10.124.0.115  1080  se-sto-wg-socks5-206.relays.mullvad.net  se-sto-wg-206  170.62.100.66    2a02:6ea0:1508:6::f001     40     yes    DataPacket
 🇸🇪    Sweden          Stockholm           10.124.0.128  1080  se-sto-wg-socks5-207.relays.mullvad.net  se-sto-wg-207  170.62.100.129   2a02:6ea0:1508:7::f001     40     yes    DataPacket
 🇸🇪    Sweden          Stockholm           10.124.0.129  1080  se-sto-wg-socks5-208.relays.mullvad.net  se-sto-wg-208  170.62.100.170   2a02:6ea0:1508:8::f001     40     yes    DataPacket
 🇸🇪    Sweden          Stockholm           10.124.0.130  1080  se-sto-wg-socks5-209.relays.mullvad.net  se-sto-wg-209  170.62.100.211   2a02:6ea0:1508:9::f001     40     yes    DataPacket
@@ -533,10 +532,3 @@ flag  country         city                socks5        port  hostname          
 🇺🇸    USA             Secaucus, NJ        10.124.0.169  1080  us-uyk-wg-socks5-202.relays.mullvad.net  us-uyk-wg-202  104.36.50.33     2a06:3040:22:620::f101     10     no     HostRoyale
 🇺🇸    USA             Washington DC       10.124.1.108  1080  us-was-wg-socks5-001.relays.mullvad.net  us-was-wg-001  185.213.193.3    2604:980:1002:11::f001     10     no     Zenlayer
 🇺🇸    USA             Washington DC       10.124.1.109  1080  us-was-wg-socks5-002.relays.mullvad.net  us-was-wg-002  185.213.193.127  2604:980:1002:11::f101     10     no     Zenlayer
-
-
-Not answering (2):
-
-flag  country  city             socks5        port  hostname                                 relay          ipv4_in         ipv6_in          speed  owned  provider
-🇺🇸    USA      Los Angeles, CA  10.124.1.128  1080  us-lax-wg-socks5-607.relays.mullvad.net  us-lax-wg-607  23.168.216.3    2602:f99d::f001  10     no     xtom
-🇺🇸    USA      Los Angeles, CA  10.124.1.129  1080  us-lax-wg-socks5-608.relays.mullvad.net  us-lax-wg-608  23.168.216.127  2602:f99d::f101  10     no     xtom

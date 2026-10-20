@@ -5004,24 +5004,6 @@
     "flag": "🇸🇪"
   },
   {
-    "relay": "se-sto-wg-206",
-    "socks_name": "se-sto-wg-socks5-206.relays.mullvad.net",
-    "socks_port": 1080,
-    "country_code": "SE",
-    "country_name": "Sweden",
-    "city_code": "sto",
-    "city_name": "Stockholm",
-    "ipv4_addr_in": "170.62.100.66",
-    "ipv6_addr_in": "2a02:6ea0:1508:6::f001",
-    "provider": "DataPacket",
-    "owned": true,
-    "speed": 40,
-    "socks_ip": "10.124.0.115",
-    "alias": "se-sto-206.mullvad.home",
-    "reachable": true,
-    "flag": "🇸🇪"
-  },
-  {
     "relay": "se-sto-wg-207",
     "socks_name": "se-sto-wg-socks5-207.relays.mullvad.net",
     "socks_port": 1080,

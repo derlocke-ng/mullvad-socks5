@@ -276,7 +276,6 @@ socks5://se-sto-wg-socks5-202.relays.mullvad.net:1080?title=se-sto-wg-socks5-202
 socks5://se-sto-wg-socks5-203.relays.mullvad.net:1080?title=se-sto-wg-socks5-203&cc=SE&city=Stockholm&color=59d22d&proxyDNS=true
 socks5://se-sto-wg-socks5-204.relays.mullvad.net:1080?title=se-sto-wg-socks5-204&cc=SE&city=Stockholm&color=59d22d&proxyDNS=true
 socks5://se-sto-wg-socks5-205.relays.mullvad.net:1080?title=se-sto-wg-socks5-205&cc=SE&city=Stockholm&color=59d22d&proxyDNS=true
-socks5://se-sto-wg-socks5-206.relays.mullvad.net:1080?title=se-sto-wg-socks5-206&cc=SE&city=Stockholm&color=59d22d&proxyDNS=true
 socks5://se-sto-wg-socks5-207.relays.mullvad.net:1080?title=se-sto-wg-socks5-207&cc=SE&city=Stockholm&color=59d22d&proxyDNS=true
 socks5://se-sto-wg-socks5-208.relays.mullvad.net:1080?title=se-sto-wg-socks5-208&cc=SE&city=Stockholm&color=59d22d&proxyDNS=true
 socks5://se-sto-wg-socks5-209.relays.mullvad.net:1080?title=se-sto-wg-socks5-209&cc=SE&city=Stockholm&color=59d22d&proxyDNS=true
