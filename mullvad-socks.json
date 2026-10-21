@@ -9414,24 +9414,6 @@
     "flag": "🇺🇸"
   },
   {
-    "relay": "us-sea-wg-406",
-    "socks_name": "us-sea-wg-socks5-406.relays.mullvad.net",
-    "socks_port": 1080,
-    "country_code": "US",
-    "country_name": "USA",
-    "city_code": "sea",
-    "city_name": "Seattle, WA",
-    "ipv4_addr_in": "23.234.82.127",
-    "ipv6_addr_in": "2607:9000:5000:36::f001",
-    "provider": "Tzulo",
-    "owned": false,
-    "speed": 10,
-    "socks_ip": "10.124.1.105",
-    "alias": "us-sea-406.mullvad.home",
-    "reachable": true,
-    "flag": "🇺🇸"
-  },
-  {
     "relay": "us-sea-wg-407",
     "socks_name": "us-sea-wg-socks5-407.relays.mullvad.net",
     "socks_port": 1080,

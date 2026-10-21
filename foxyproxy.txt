@@ -521,7 +521,6 @@ socks5://10.124.1.101:1080?title=us-sea-wg-socks5-402&cc=US&city=Seattle%2C%20WA
 socks5://10.124.1.102:1080?title=us-sea-wg-socks5-403&cc=US&city=Seattle%2C%20WA&color=2dd2d0&proxyDNS=true
 socks5://10.124.1.103:1080?title=us-sea-wg-socks5-404&cc=US&city=Seattle%2C%20WA&color=2dd2d0&proxyDNS=true
 socks5://10.124.1.104:1080?title=us-sea-wg-socks5-405&cc=US&city=Seattle%2C%20WA&color=2dd2d0&proxyDNS=true
-socks5://10.124.1.105:1080?title=us-sea-wg-socks5-406&cc=US&city=Seattle%2C%20WA&color=2dd2d0&proxyDNS=true
 socks5://10.124.1.106:1080?title=us-sea-wg-socks5-407&cc=US&city=Seattle%2C%20WA&color=2dd2d0&proxyDNS=true
 socks5://10.124.1.107:1080?title=us-sea-wg-socks5-408&cc=US&city=Seattle%2C%20WA&color=2dd2d0&proxyDNS=true
 socks5://10.124.0.29:1080?title=us-uyk-wg-socks5-201&cc=US&city=Secaucus%2C%20NJ&color=2dd2d0&proxyDNS=true
