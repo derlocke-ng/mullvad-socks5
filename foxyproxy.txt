@@ -438,6 +438,8 @@ socks5://10.124.0.26:1080?title=us-lax-wg-socks5-603&cc=US&city=Los%20Angeles%2C
 socks5://10.124.0.207:1080?title=us-lax-wg-socks5-604&cc=US&city=Los%20Angeles%2C%20CA&color=2dd2d0&proxyDNS=true
 socks5://10.124.0.208:1080?title=us-lax-wg-socks5-605&cc=US&city=Los%20Angeles%2C%20CA&color=2dd2d0&proxyDNS=true
 socks5://10.124.0.209:1080?title=us-lax-wg-socks5-606&cc=US&city=Los%20Angeles%2C%20CA&color=2dd2d0&proxyDNS=true
+socks5://10.124.1.128:1080?title=us-lax-wg-socks5-607&cc=US&city=Los%20Angeles%2C%20CA&color=2dd2d0&proxyDNS=true
+socks5://10.124.1.129:1080?title=us-lax-wg-socks5-608&cc=US&city=Los%20Angeles%2C%20CA&color=2dd2d0&proxyDNS=true
 socks5://10.124.1.175:1080?title=us-lax-wg-socks5-701&cc=US&city=Los%20Angeles%2C%20CA&color=2dd2d0&proxyDNS=true
 socks5://10.124.1.181:1080?title=us-lax-wg-socks5-702&cc=US&city=Los%20Angeles%2C%20CA&color=2dd2d0&proxyDNS=true
 socks5://10.124.1.176:1080?title=us-lax-wg-socks5-703&cc=US&city=Los%20Angeles%2C%20CA&color=2dd2d0&proxyDNS=true
@@ -521,6 +523,7 @@ socks5://10.124.1.101:1080?title=us-sea-wg-socks5-402&cc=US&city=Seattle%2C%20WA
 socks5://10.124.1.102:1080?title=us-sea-wg-socks5-403&cc=US&city=Seattle%2C%20WA&color=2dd2d0&proxyDNS=true
 socks5://10.124.1.103:1080?title=us-sea-wg-socks5-404&cc=US&city=Seattle%2C%20WA&color=2dd2d0&proxyDNS=true
 socks5://10.124.1.104:1080?title=us-sea-wg-socks5-405&cc=US&city=Seattle%2C%20WA&color=2dd2d0&proxyDNS=true
+socks5://10.124.1.105:1080?title=us-sea-wg-socks5-406&cc=US&city=Seattle%2C%20WA&color=2dd2d0&proxyDNS=true
 socks5://10.124.1.106:1080?title=us-sea-wg-socks5-407&cc=US&city=Seattle%2C%20WA&color=2dd2d0&proxyDNS=true
 socks5://10.124.1.107:1080?title=us-sea-wg-socks5-408&cc=US&city=Seattle%2C%20WA&color=2dd2d0&proxyDNS=true
 socks5://10.124.0.29:1080?title=us-uyk-wg-socks5-201&cc=US&city=Secaucus%2C%20NJ&color=2dd2d0&proxyDNS=true
