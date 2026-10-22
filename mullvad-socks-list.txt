@@ -1,4 +1,4 @@
-Mullvad SOCKS5 proxies: 532 (answered a SOCKS5 greeting)
+Mullvad SOCKS5 proxies: 533 (answered a SOCKS5 greeting)
 Reachable only through a Mullvad VPN connection.
 
 flag  country         city                socks5        port  hostname                                 relay          ipv4_in          ipv6_in                    speed  owned  provider
@@ -280,6 +280,7 @@ flag  country         city                socks5        port  hostname          
 🇸🇪    Sweden          Stockholm           10.124.0.57   1080  se-sto-wg-socks5-203.relays.mullvad.net  se-sto-wg-203  89.37.63.129     2a02:6ea0:1508:3::f001     40     yes    DataPacket
 🇸🇪    Sweden          Stockholm           10.124.0.58   1080  se-sto-wg-socks5-204.relays.mullvad.net  se-sto-wg-204  89.37.63.190     2a02:6ea0:1508:4::f001     40     yes    DataPacket
 🇸🇪    Sweden          Stockholm           10.124.0.79   1080  se-sto-wg-socks5-205.relays.mullvad.net  se-sto-wg-205  170.62.100.10    2a02:6ea0:1508:5::f001     40     yes    DataPacket
+🇸🇪    Sweden          Stockholm           10.124.0.115  1080  se-sto-wg-socks5-206.relays.mullvad.net  se-sto-wg-206  170.62.100.66    2a02:6ea0:1508:6::f001     40     yes    DataPacket
 🇸🇪    Sweden          Stockholm           10.124.0.128  1080  se-sto-wg-socks5-207.relays.mullvad.net  se-sto-wg-207  170.62.100.129   2a02:6ea0:1508:7::f001     40     yes    DataPacket
 🇸🇪    Sweden          Stockholm           10.124.0.129  1080  se-sto-wg-socks5-208.relays.mullvad.net  se-sto-wg-208  170.62.100.170   2a02:6ea0:1508:8::f001     40     yes    DataPacket
 🇸🇪    Sweden          Stockholm           10.124.0.130  1080  se-sto-wg-socks5-209.relays.mullvad.net  se-sto-wg-209  170.62.100.211   2a02:6ea0:1508:9::f001     40     yes    DataPacket

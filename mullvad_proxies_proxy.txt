@@ -276,6 +276,7 @@ socks5://10.124.0.52:1080?title=se-sto-wg-socks5-202&cc=SE&city=Stockholm&color=
 socks5://10.124.0.57:1080?title=se-sto-wg-socks5-203&cc=SE&city=Stockholm&color=59d22d&proxyDNS=true
 socks5://10.124.0.58:1080?title=se-sto-wg-socks5-204&cc=SE&city=Stockholm&color=59d22d&proxyDNS=true
 socks5://10.124.0.79:1080?title=se-sto-wg-socks5-205&cc=SE&city=Stockholm&color=59d22d&proxyDNS=true
+socks5://10.124.0.115:1080?title=se-sto-wg-socks5-206&cc=SE&city=Stockholm&color=59d22d&proxyDNS=true
 socks5://10.124.0.128:1080?title=se-sto-wg-socks5-207&cc=SE&city=Stockholm&color=59d22d&proxyDNS=true
 socks5://10.124.0.129:1080?title=se-sto-wg-socks5-208&cc=SE&city=Stockholm&color=59d22d&proxyDNS=true
 socks5://10.124.0.130:1080?title=se-sto-wg-socks5-209&cc=SE&city=Stockholm&color=59d22d&proxyDNS=true
