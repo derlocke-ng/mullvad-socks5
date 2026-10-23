@@ -1,4 +1,4 @@
-Mullvad SOCKS5 proxies: 533 (answered a SOCKS5 greeting)
+Mullvad SOCKS5 proxies: 529 (answered a SOCKS5 greeting)
 Reachable only through a Mullvad VPN connection.
 
 flag  country         city                socks5        port  hostname                                 relay          ipv4_in          ipv6_in                    speed  owned  provider
@@ -178,7 +178,6 @@ flag  country         city                socks5        port  hostname          
 🇲🇽    Mexico          Queretaro           10.124.0.154  1080  mx-qro-wg-socks5-001.relays.mullvad.net  mx-qro-wg-001  149.88.22.129    2a02:6ea0:f803::f001       10     no     DataPacket
 🇲🇽    Mexico          Queretaro           10.124.0.204  1080  mx-qro-wg-socks5-002.relays.mullvad.net  mx-qro-wg-002  149.88.22.142    2a02:6ea0:f803:1::f001     10     no     DataPacket
 🇲🇽    Mexico          Queretaro           10.124.0.205  1080  mx-qro-wg-socks5-003.relays.mullvad.net  mx-qro-wg-003  149.88.22.155    2a02:6ea0:f803:2::f001     10     no     DataPacket
-🇲🇽    Mexico          Queretaro           10.124.0.206  1080  mx-qro-wg-socks5-004.relays.mullvad.net  mx-qro-wg-004  149.88.22.168    2a02:6ea0:f803:3::f001     10     no     DataPacket
 🇳🇱    Netherlands     Amsterdam           10.124.0.113  1080  nl-ams-wg-socks5-004.relays.mullvad.net  nl-ams-wg-004  193.32.249.69    2a03:1b20:3:f011::f301     20     yes    31173
 🇳🇱    Netherlands     Amsterdam           10.124.0.114  1080  nl-ams-wg-socks5-005.relays.mullvad.net  nl-ams-wg-005  193.32.249.70    2a03:1b20:3:f011::f401     20     yes    31173
 🇳🇱    Netherlands     Amsterdam           10.124.0.94   1080  nl-ams-wg-socks5-006.relays.mullvad.net  nl-ams-wg-006  185.65.134.86    2a03:1b20:3:f011::f501     20     yes    31173
@@ -405,7 +404,6 @@ flag  country         city                socks5        port  hostname          
 🇺🇸    USA             Detroit, MI         10.124.0.23   1080  us-det-wg-socks5-002.relays.mullvad.net  us-det-wg-002  185.141.119.161  2a06:3040:11:610::f101     10     no     HostRoyale
 🇺🇸    USA             Houston, TX         10.124.1.205  1080  us-hou-wg-socks5-001.relays.mullvad.net  us-hou-wg-001  37.19.221.130    2a02:6ea0:e001::f001       10     no     DataPacket
 🇺🇸    USA             Houston, TX         10.124.1.193  1080  us-hou-wg-socks5-002.relays.mullvad.net  us-hou-wg-002  37.19.221.143    2a02:6ea0:e001:1::f001     10     no     DataPacket
-🇺🇸    USA             Houston, TX         10.124.1.194  1080  us-hou-wg-socks5-003.relays.mullvad.net  us-hou-wg-003  37.19.221.156    2a02:6ea0:e001:2::b55f     10     no     DataPacket
 🇺🇸    USA             Houston, TX         10.124.1.195  1080  us-hou-wg-socks5-004.relays.mullvad.net  us-hou-wg-004  37.19.221.169    2a02:6ea0:e001:3::b56f     10     no     DataPacket
 🇺🇸    USA             Kansas City, MO     10.124.0.86   1080  us-mkc-wg-socks5-001.relays.mullvad.net  us-mkc-wg-001  23.234.116.3     2607:9000:e00:2::f001      10     no     Tzulo
 🇺🇸    USA             Kansas City, MO     10.124.0.153  1080  us-mkc-wg-socks5-002.relays.mullvad.net  us-mkc-wg-002  23.234.116.127   2607:9000:e00:3::f001      10     no     Tzulo
@@ -428,8 +426,6 @@ flag  country         city                socks5        port  hostname          
 🇺🇸    USA             Los Angeles, CA     10.124.2.112  1080  us-lax-wg-socks5-006.relays.mullvad.net  us-lax-wg-006  23.234.74.127    2607:9000:300:36::f001     20     no     Tzulo
 🇺🇸    USA             Los Angeles, CA     10.124.2.113  1080  us-lax-wg-socks5-007.relays.mullvad.net  us-lax-wg-007  23.234.75.2      2607:9000:300:37::f001     20     no     Tzulo
 🇺🇸    USA             Los Angeles, CA     10.124.2.114  1080  us-lax-wg-socks5-008.relays.mullvad.net  us-lax-wg-008  23.234.75.127    2607:9000:300:38::f001     20     no     Tzulo
-🇺🇸    USA             Los Angeles, CA     10.124.0.83   1080  us-lax-wg-socks5-201.relays.mullvad.net  us-lax-wg-201  169.150.203.2    2a02:6ea0:c859:1::a01f     10     no     DataPacket
-🇺🇸    USA             Los Angeles, CA     10.124.2.29   1080  us-lax-wg-socks5-202.relays.mullvad.net  us-lax-wg-202  169.150.203.15   2a02:6ea0:c859:2::a02f     10     no     DataPacket
 🇺🇸    USA             Los Angeles, CA     10.124.2.30   1080  us-lax-wg-socks5-203.relays.mullvad.net  us-lax-wg-203  169.150.203.28   2a02:6ea0:c859:3::a03f     10     no     DataPacket
 🇺🇸    USA             Los Angeles, CA     10.124.0.101  1080  us-lax-wg-socks5-401.relays.mullvad.net  us-lax-wg-401  146.70.173.2     2a0d:5600:8:4::f001        20     no     M247
 🇺🇸    USA             Los Angeles, CA     10.124.0.179  1080  us-lax-wg-socks5-402.relays.mullvad.net  us-lax-wg-402  146.70.173.130   2a0d:5600:8:6::f001        20     no     M247
@@ -535,3 +531,12 @@ flag  country         city                socks5        port  hostname          
 🇺🇸    USA             Secaucus, NJ        10.124.0.169  1080  us-uyk-wg-socks5-202.relays.mullvad.net  us-uyk-wg-202  104.36.50.33     2a06:3040:22:620::f101     10     no     HostRoyale
 🇺🇸    USA             Washington DC       10.124.1.108  1080  us-was-wg-socks5-001.relays.mullvad.net  us-was-wg-001  185.213.193.3    2604:980:1002:11::f001     10     no     Zenlayer
 🇺🇸    USA             Washington DC       10.124.1.109  1080  us-was-wg-socks5-002.relays.mullvad.net  us-was-wg-002  185.213.193.127  2604:980:1002:11::f101     10     no     Zenlayer
+
+
+Not answering (4):
+
+flag  country  city             socks5        port  hostname                                 relay          ipv4_in         ipv6_in                 speed  owned  provider
+🇲🇽    Mexico   Queretaro        10.124.0.206  1080  mx-qro-wg-socks5-004.relays.mullvad.net  mx-qro-wg-004  149.88.22.168   2a02:6ea0:f803:3::f001  10     no     DataPacket
+🇺🇸    USA      Houston, TX      10.124.1.194  1080  us-hou-wg-socks5-003.relays.mullvad.net  us-hou-wg-003  37.19.221.156   2a02:6ea0:e001:2::b55f  10     no     DataPacket
+🇺🇸    USA      Los Angeles, CA  10.124.0.83   1080  us-lax-wg-socks5-201.relays.mullvad.net  us-lax-wg-201  169.150.203.2   2a02:6ea0:c859:1::a01f  10     no     DataPacket
+🇺🇸    USA      Los Angeles, CA  10.124.2.29   1080  us-lax-wg-socks5-202.relays.mullvad.net  us-lax-wg-202  169.150.203.15  2a02:6ea0:c859:2::a02f  10     no     DataPacket

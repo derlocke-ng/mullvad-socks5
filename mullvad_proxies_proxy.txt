@@ -174,7 +174,6 @@ socks5://10.124.1.40:1080?title=my-kul-wg-socks5-002&cc=MY&city=Kuala%20Lumpur&c
 socks5://10.124.0.154:1080?title=mx-qro-wg-socks5-001&cc=MX&city=Queretaro&color=d22d56&proxyDNS=true
 socks5://10.124.0.204:1080?title=mx-qro-wg-socks5-002&cc=MX&city=Queretaro&color=d22d56&proxyDNS=true
 socks5://10.124.0.205:1080?title=mx-qro-wg-socks5-003&cc=MX&city=Queretaro&color=d22d56&proxyDNS=true
-socks5://10.124.0.206:1080?title=mx-qro-wg-socks5-004&cc=MX&city=Queretaro&color=d22d56&proxyDNS=true
 socks5://10.124.0.113:1080?title=nl-ams-wg-socks5-004&cc=NL&city=Amsterdam&color=47d22d&proxyDNS=true
 socks5://10.124.0.114:1080?title=nl-ams-wg-socks5-005&cc=NL&city=Amsterdam&color=47d22d&proxyDNS=true
 socks5://10.124.0.94:1080?title=nl-ams-wg-socks5-006&cc=NL&city=Amsterdam&color=47d22d&proxyDNS=true
@@ -401,7 +400,6 @@ socks5://10.124.0.16:1080?title=us-det-wg-socks5-001&cc=US&city=Detroit%2C%20MI&
 socks5://10.124.0.23:1080?title=us-det-wg-socks5-002&cc=US&city=Detroit%2C%20MI&color=2dd2d0&proxyDNS=true
 socks5://10.124.1.205:1080?title=us-hou-wg-socks5-001&cc=US&city=Houston%2C%20TX&color=2dd2d0&proxyDNS=true
 socks5://10.124.1.193:1080?title=us-hou-wg-socks5-002&cc=US&city=Houston%2C%20TX&color=2dd2d0&proxyDNS=true
-socks5://10.124.1.194:1080?title=us-hou-wg-socks5-003&cc=US&city=Houston%2C%20TX&color=2dd2d0&proxyDNS=true
 socks5://10.124.1.195:1080?title=us-hou-wg-socks5-004&cc=US&city=Houston%2C%20TX&color=2dd2d0&proxyDNS=true
 socks5://10.124.0.86:1080?title=us-mkc-wg-socks5-001&cc=US&city=Kansas%20City%2C%20MO&color=2dd2d0&proxyDNS=true
 socks5://10.124.0.153:1080?title=us-mkc-wg-socks5-002&cc=US&city=Kansas%20City%2C%20MO&color=2dd2d0&proxyDNS=true
@@ -424,8 +422,6 @@ socks5://10.124.2.111:1080?title=us-lax-wg-socks5-005&cc=US&city=Los%20Angeles%2
 socks5://10.124.2.112:1080?title=us-lax-wg-socks5-006&cc=US&city=Los%20Angeles%2C%20CA&color=2dd2d0&proxyDNS=true
 socks5://10.124.2.113:1080?title=us-lax-wg-socks5-007&cc=US&city=Los%20Angeles%2C%20CA&color=2dd2d0&proxyDNS=true
 socks5://10.124.2.114:1080?title=us-lax-wg-socks5-008&cc=US&city=Los%20Angeles%2C%20CA&color=2dd2d0&proxyDNS=true
-socks5://10.124.0.83:1080?title=us-lax-wg-socks5-201&cc=US&city=Los%20Angeles%2C%20CA&color=2dd2d0&proxyDNS=true
-socks5://10.124.2.29:1080?title=us-lax-wg-socks5-202&cc=US&city=Los%20Angeles%2C%20CA&color=2dd2d0&proxyDNS=true
 socks5://10.124.2.30:1080?title=us-lax-wg-socks5-203&cc=US&city=Los%20Angeles%2C%20CA&color=2dd2d0&proxyDNS=true
 socks5://10.124.0.101:1080?title=us-lax-wg-socks5-401&cc=US&city=Los%20Angeles%2C%20CA&color=2dd2d0&proxyDNS=true
 socks5://10.124.0.179:1080?title=us-lax-wg-socks5-402&cc=US&city=Los%20Angeles%2C%20CA&color=2dd2d0&proxyDNS=true
