@@ -174,6 +174,7 @@ socks5://my-kul-wg-socks5-002.relays.mullvad.net:1080?title=my-kul-wg-socks5-002
 socks5://mx-qro-wg-socks5-001.relays.mullvad.net:1080?title=mx-qro-wg-socks5-001&cc=MX&city=Queretaro&color=d22d56&proxyDNS=true
 socks5://mx-qro-wg-socks5-002.relays.mullvad.net:1080?title=mx-qro-wg-socks5-002&cc=MX&city=Queretaro&color=d22d56&proxyDNS=true
 socks5://mx-qro-wg-socks5-003.relays.mullvad.net:1080?title=mx-qro-wg-socks5-003&cc=MX&city=Queretaro&color=d22d56&proxyDNS=true
+socks5://mx-qro-wg-socks5-004.relays.mullvad.net:1080?title=mx-qro-wg-socks5-004&cc=MX&city=Queretaro&color=d22d56&proxyDNS=true
 socks5://nl-ams-wg-socks5-004.relays.mullvad.net:1080?title=nl-ams-wg-socks5-004&cc=NL&city=Amsterdam&color=47d22d&proxyDNS=true
 socks5://nl-ams-wg-socks5-005.relays.mullvad.net:1080?title=nl-ams-wg-socks5-005&cc=NL&city=Amsterdam&color=47d22d&proxyDNS=true
 socks5://nl-ams-wg-socks5-006.relays.mullvad.net:1080?title=nl-ams-wg-socks5-006&cc=NL&city=Amsterdam&color=47d22d&proxyDNS=true
@@ -400,6 +401,7 @@ socks5://us-det-wg-socks5-001.relays.mullvad.net:1080?title=us-det-wg-socks5-001
 socks5://us-det-wg-socks5-002.relays.mullvad.net:1080?title=us-det-wg-socks5-002&cc=US&city=Detroit%2C%20MI&color=2dd2d0&proxyDNS=true
 socks5://us-hou-wg-socks5-001.relays.mullvad.net:1080?title=us-hou-wg-socks5-001&cc=US&city=Houston%2C%20TX&color=2dd2d0&proxyDNS=true
 socks5://us-hou-wg-socks5-002.relays.mullvad.net:1080?title=us-hou-wg-socks5-002&cc=US&city=Houston%2C%20TX&color=2dd2d0&proxyDNS=true
+socks5://us-hou-wg-socks5-003.relays.mullvad.net:1080?title=us-hou-wg-socks5-003&cc=US&city=Houston%2C%20TX&color=2dd2d0&proxyDNS=true
 socks5://us-hou-wg-socks5-004.relays.mullvad.net:1080?title=us-hou-wg-socks5-004&cc=US&city=Houston%2C%20TX&color=2dd2d0&proxyDNS=true
 socks5://us-mkc-wg-socks5-001.relays.mullvad.net:1080?title=us-mkc-wg-socks5-001&cc=US&city=Kansas%20City%2C%20MO&color=2dd2d0&proxyDNS=true
 socks5://us-mkc-wg-socks5-002.relays.mullvad.net:1080?title=us-mkc-wg-socks5-002&cc=US&city=Kansas%20City%2C%20MO&color=2dd2d0&proxyDNS=true
@@ -422,6 +424,8 @@ socks5://us-lax-wg-socks5-005.relays.mullvad.net:1080?title=us-lax-wg-socks5-005
 socks5://us-lax-wg-socks5-006.relays.mullvad.net:1080?title=us-lax-wg-socks5-006&cc=US&city=Los%20Angeles%2C%20CA&color=2dd2d0&proxyDNS=true
 socks5://us-lax-wg-socks5-007.relays.mullvad.net:1080?title=us-lax-wg-socks5-007&cc=US&city=Los%20Angeles%2C%20CA&color=2dd2d0&proxyDNS=true
 socks5://us-lax-wg-socks5-008.relays.mullvad.net:1080?title=us-lax-wg-socks5-008&cc=US&city=Los%20Angeles%2C%20CA&color=2dd2d0&proxyDNS=true
+socks5://us-lax-wg-socks5-201.relays.mullvad.net:1080?title=us-lax-wg-socks5-201&cc=US&city=Los%20Angeles%2C%20CA&color=2dd2d0&proxyDNS=true
+socks5://us-lax-wg-socks5-202.relays.mullvad.net:1080?title=us-lax-wg-socks5-202&cc=US&city=Los%20Angeles%2C%20CA&color=2dd2d0&proxyDNS=true
 socks5://us-lax-wg-socks5-203.relays.mullvad.net:1080?title=us-lax-wg-socks5-203&cc=US&city=Los%20Angeles%2C%20CA&color=2dd2d0&proxyDNS=true
 socks5://us-lax-wg-socks5-401.relays.mullvad.net:1080?title=us-lax-wg-socks5-401&cc=US&city=Los%20Angeles%2C%20CA&color=2dd2d0&proxyDNS=true
 socks5://us-lax-wg-socks5-402.relays.mullvad.net:1080?title=us-lax-wg-socks5-402&cc=US&city=Los%20Angeles%2C%20CA&color=2dd2d0&proxyDNS=true
