@@ -1,4 +1,4 @@
-Mullvad SOCKS5 proxies: 533 (answered a SOCKS5 greeting)
+Mullvad SOCKS5 proxies: 521 (answered a SOCKS5 greeting)
 Reachable only through a Mullvad VPN connection.
 
 flag  country         city                socks5        port  hostname                                 relay          ipv4_in          ipv6_in                    speed  owned  provider
@@ -45,14 +45,12 @@ flag  country         city                socks5        port  hostname          
 🇧🇬    Bulgaria        Sofia               10.124.0.225  1080  bg-sof-wg-socks5-001.relays.mullvad.net  bg-sof-wg-001  146.70.188.130   2001:ac8:30:55::f001       20     no     M247
 🇧🇬    Bulgaria        Sofia               10.124.0.226  1080  bg-sof-wg-socks5-002.relays.mullvad.net  bg-sof-wg-002  135.136.38.2     2001:ac8:30:56::f001       20     no     M247
 🇧🇬    Bulgaria        Sofia               10.124.0.100  1080  bg-sof-wg-socks5-003.relays.mullvad.net  bg-sof-wg-003  146.70.188.2     2001:ac8:30:54::f001       20     no     M247
-🇨🇦    Canada          Calgary             10.124.0.174  1080  ca-yyc-wg-socks5-201.relays.mullvad.net  ca-yyc-wg-201  38.240.225.36    2606:9580:438:32::f001     10     no     techfutures
 🇨🇦    Canada          Calgary             10.124.0.178  1080  ca-yyc-wg-socks5-202.relays.mullvad.net  ca-yyc-wg-202  38.240.225.68    2606:9580:438:64::f001     10     no     techfutures
 🇨🇦    Canada          Montreal            10.124.0.231  1080  ca-mtr-wg-socks5-001.relays.mullvad.net  ca-mtr-wg-001  146.70.198.66    2a0d:5600:9:c::f001        10     no     M247
 🇨🇦    Canada          Montreal            10.124.0.232  1080  ca-mtr-wg-socks5-002.relays.mullvad.net  ca-mtr-wg-002  146.70.198.130   2a0d:5600:9:d::f001        10     no     M247
 🇨🇦    Canada          Montreal            10.124.0.233  1080  ca-mtr-wg-socks5-003.relays.mullvad.net  ca-mtr-wg-003  146.70.198.194   2a0d:5600:9:e::a02f        10     no     M247
 🇨🇦    Canada          Montreal            10.124.0.234  1080  ca-mtr-wg-socks5-004.relays.mullvad.net  ca-mtr-wg-004  188.241.176.194  2a0d:5600:9:16::f001       10     no     M247
 🇨🇦    Canada          Montreal            10.124.0.168  1080  ca-mtr-wg-socks5-201.relays.mullvad.net  ca-mtr-wg-201  62.93.167.130    2a02:6ea0:a03:2::f001      10     no     DataPacket
-🇨🇦    Canada          Montreal            10.124.0.171  1080  ca-mtr-wg-socks5-202.relays.mullvad.net  ca-mtr-wg-202  62.93.167.160    2a02:6ea0:a03::f001        10     no     DataPacket
 🇨🇦    Canada          Montreal            10.124.2.93   1080  ca-mtr-wg-socks5-301.relays.mullvad.net  ca-mtr-wg-301  23.234.120.2     2607:9000:f00:2::f001      20     no     Tzulo
 🇨🇦    Canada          Montreal            10.124.2.94   1080  ca-mtr-wg-socks5-302.relays.mullvad.net  ca-mtr-wg-302  23.234.120.127   2607:9000:f00:3::f001      20     no     Tzulo
 🇨🇦    Canada          Montreal            10.124.2.95   1080  ca-mtr-wg-socks5-303.relays.mullvad.net  ca-mtr-wg-303  23.234.121.2     2607:9000:f00:4::f01f      20     no     Tzulo
@@ -97,9 +95,7 @@ flag  country         city                socks5        port  hostname          
 🇫🇮    Finland         Helsinki            10.124.2.53   1080  fi-hel-wg-socks5-101.relays.mullvad.net  fi-hel-wg-101  193.138.7.137    2a02:ed04:3581:1::f001     10     yes    Blix
 🇫🇮    Finland         Helsinki            10.124.2.54   1080  fi-hel-wg-socks5-102.relays.mullvad.net  fi-hel-wg-102  193.138.7.157    2a02:ed04:3581:2::f001     10     yes    Blix
 🇫🇮    Finland         Helsinki            10.124.2.55   1080  fi-hel-wg-socks5-103.relays.mullvad.net  fi-hel-wg-103  193.138.7.177    2a02:ed04:3581:3::f001     10     yes    Blix
-🇫🇮    Finland         Helsinki            10.124.2.56   1080  fi-hel-wg-socks5-104.relays.mullvad.net  fi-hel-wg-104  193.138.7.197    2a02:ed04:3581:4::f001     10     yes    Blix
 🇫🇮    Finland         Helsinki            10.124.0.155  1080  fi-hel-wg-socks5-201.relays.mullvad.net  fi-hel-wg-201  185.65.133.5     2a03:1b20:d:f011:1::f001   40     yes    31173
-🇫🇮    Finland         Helsinki            10.124.0.194  1080  fi-hel-wg-socks5-202.relays.mullvad.net  fi-hel-wg-202  185.65.133.85    2a03:1b20:d:f011:2::f001   40     yes    31173
 🇫🇮    Finland         Helsinki            10.124.0.210  1080  fi-hel-wg-socks5-203.relays.mullvad.net  fi-hel-wg-203  185.65.133.165   2a03:1b20:d:f011:3::f001   40     yes    31173
 🇫🇷    France          Bordeaux            10.124.1.63   1080  fr-bod-wg-socks5-001.relays.mullvad.net  fr-bod-wg-001  45.134.79.67     2a06:3040:4:610::f001      10     no     HostRoyale
 🇫🇷    France          Bordeaux            10.124.1.64   1080  fr-bod-wg-socks5-002.relays.mullvad.net  fr-bod-wg-002  45.134.79.97     2a06:3040:4:610::f101      10     no     HostRoyale
@@ -117,7 +113,6 @@ flag  country         city                socks5        port  hostname          
 🇩🇪    Germany         Berlin              10.124.0.7    1080  de-ber-wg-socks5-001.relays.mullvad.net  de-ber-wg-001  193.32.248.66    2a03:1b20:b:f011::a01f     20     yes    31173
 🇩🇪    Germany         Berlin              10.124.0.8    1080  de-ber-wg-socks5-002.relays.mullvad.net  de-ber-wg-002  193.32.248.67    2a03:1b20:b:f011::a02f     20     yes    31173
 🇩🇪    Germany         Berlin              10.124.0.9    1080  de-ber-wg-socks5-003.relays.mullvad.net  de-ber-wg-003  193.32.248.68    2a03:1b20:b:f011::f201     20     yes    31173
-🇩🇪    Germany         Berlin              10.124.0.55   1080  de-ber-wg-socks5-004.relays.mullvad.net  de-ber-wg-004  193.32.248.69    2a03:1b20:b:f011::f301     20     yes    31173
 🇩🇪    Germany         Berlin              10.124.2.10   1080  de-ber-wg-socks5-101.relays.mullvad.net  de-ber-wg-101  152.233.51.3     2a02:6ea0:5e03:3::f001     50     no     DataPacket
 🇩🇪    Germany         Berlin              10.124.2.11   1080  de-ber-wg-socks5-102.relays.mullvad.net  de-ber-wg-102  152.233.51.33    2a02:6ea0:5e03:4::f001     50     no     DataPacket
 🇩🇪    Germany         Berlin              10.124.2.12   1080  de-ber-wg-socks5-103.relays.mullvad.net  de-ber-wg-103  152.233.51.63    2a02:6ea0:5e03:5::f001     50     no     DataPacket
@@ -205,7 +200,6 @@ flag  country         city                socks5        port  hostname          
 🇳🇴    Norway          Oslo                10.124.0.104  1080  no-osl-wg-socks5-103.relays.mullvad.net  no-osl-wg-103  141.98.253.165   2a03:1b20:c:f011:3::f001   10     yes    31173
 🇳🇴    Norway          Stavanger           10.124.2.38   1080  no-svg-wg-socks5-001.relays.mullvad.net  no-svg-wg-001  194.127.199.2    2a02:20c8:4120::a01f       10     yes    Blix
 🇳🇴    Norway          Stavanger           10.124.2.39   1080  no-svg-wg-socks5-002.relays.mullvad.net  no-svg-wg-002  194.127.199.31   2a02:20c8:4120::a02f       10     yes    Blix
-🇳🇴    Norway          Stavanger           10.124.2.40   1080  no-svg-wg-socks5-003.relays.mullvad.net  no-svg-wg-003  194.127.199.62   2a02:20c8:4120::a03f       10     yes    Blix
 🇳🇴    Norway          Stavanger           10.124.2.41   1080  no-svg-wg-socks5-004.relays.mullvad.net  no-svg-wg-004  194.127.199.93   2a02:20c8:4120::a04f       10     yes    Blix
 🇵🇪    Peru            Lima                10.124.1.81   1080  pe-lim-wg-socks5-001.relays.mullvad.net  pe-lim-wg-001  95.173.223.130   2a02:6ea0:5500:1::f001     10     no     DataPacket
 🇵🇪    Peru            Lima                10.124.1.82   1080  pe-lim-wg-socks5-002.relays.mullvad.net  pe-lim-wg-002  95.173.223.159   2a02:6ea0:5500:2::f001     10     no     DataPacket
@@ -251,7 +245,6 @@ flag  country         city                socks5        port  hostname          
 🇸🇪    Sweden          Gothenburg          10.124.0.49   1080  se-got-wg-socks5-002.relays.mullvad.net  se-got-wg-002  185.213.154.67   2a03:1b20:5:f011::a05f     20     yes    31173
 🇸🇪    Sweden          Gothenburg          10.124.0.152  1080  se-got-wg-socks5-003.relays.mullvad.net  se-got-wg-003  185.213.154.68   2a03:1b20:5:f011::a09f     20     yes    31173
 🇸🇪    Sweden          Gothenburg          10.124.0.65   1080  se-got-wg-socks5-004.relays.mullvad.net  se-got-wg-004  185.213.154.69   2a03:1b20:5:f011::a10f     20     yes    31173
-🇸🇪    Sweden          Gothenburg          10.124.1.22   1080  se-got-wg-socks5-005.relays.mullvad.net  se-got-wg-005  185.209.199.2    2a03:1b20:5:f011:5::f001   20     yes    31173
 🇸🇪    Sweden          Gothenburg          10.124.1.56   1080  se-got-wg-socks5-006.relays.mullvad.net  se-got-wg-006  185.209.199.7    2a03:1b20:5:f011:6::f001   20     yes    31173
 🇸🇪    Sweden          Gothenburg          10.124.1.60   1080  se-got-wg-socks5-007.relays.mullvad.net  se-got-wg-007  185.209.199.12   2a03:1b20:5:f011:7::f001   20     yes    31173
 🇸🇪    Sweden          Gothenburg          10.124.1.61   1080  se-got-wg-socks5-008.relays.mullvad.net  se-got-wg-008  185.209.199.17   2a03:1b20:5:f011:8::f001   20     yes    31173
@@ -271,7 +264,6 @@ flag  country         city                socks5        port  hostname          
 🇸🇪    Sweden          Stockholm           10.124.0.11   1080  se-sto-wg-socks5-002.relays.mullvad.net  se-sto-wg-002  185.65.135.67    2a03:1b20:4:f011::a02f     20     yes    31173
 🇸🇪    Sweden          Stockholm           10.124.2.48   1080  se-sto-wg-socks5-003.relays.mullvad.net  se-sto-wg-003  185.65.135.68    2a03:1b20:4:f011::f201     20     yes    31173
 🇸🇪    Sweden          Stockholm           10.124.0.172  1080  se-sto-wg-socks5-007.relays.mullvad.net  se-sto-wg-007  185.65.135.70    2a03:1b20:4:f011::b07f     20     yes    31173
-🇸🇪    Sweden          Stockholm           10.124.0.173  1080  se-sto-wg-socks5-008.relays.mullvad.net  se-sto-wg-008  185.65.135.71    2a03:1b20:4:f011::f701     20     yes    31173
 🇸🇪    Sweden          Stockholm           10.124.0.50   1080  se-sto-wg-socks5-009.relays.mullvad.net  se-sto-wg-009  185.195.233.69   2a03:1b20:4:f011::a09f     20     yes    31173
 🇸🇪    Sweden          Stockholm           10.124.0.61   1080  se-sto-wg-socks5-010.relays.mullvad.net  se-sto-wg-010  185.195.233.70   2a03:1b20:4:f011::a10f     20     yes    31173
 🇸🇪    Sweden          Stockholm           10.124.0.62   1080  se-sto-wg-socks5-011.relays.mullvad.net  se-sto-wg-011  185.195.233.71   2a03:1b20:4:f011::a11f     20     yes    31173
@@ -311,7 +303,6 @@ flag  country         city                socks5        port  hostname          
 🇬🇧    UK              London              10.124.1.18   1080  gb-lon-wg-socks5-005.relays.mullvad.net  gb-lon-wg-005  185.195.232.68   2a03:1b20:7:f011::a13f     20     yes    31173
 🇬🇧    UK              London              10.124.1.19   1080  gb-lon-wg-socks5-006.relays.mullvad.net  gb-lon-wg-006  185.195.232.69   2a03:1b20:7:f011::a14f     20     yes    31173
 🇬🇧    UK              London              10.124.1.28   1080  gb-lon-wg-socks5-007.relays.mullvad.net  gb-lon-wg-007  185.195.232.70   2a03:1b20:7:f011::a15f     20     yes    31173
-🇬🇧    UK              London              10.124.1.62   1080  gb-lon-wg-socks5-008.relays.mullvad.net  gb-lon-wg-008  141.98.252.138   2a03:1b20:7:f011::f801     20     yes    31173
 🇬🇧    UK              London              10.124.1.186  1080  gb-lon-wg-socks5-101.relays.mullvad.net  gb-lon-wg-101  45.66.219.3      2a07:d883:701:1::f001      100    yes    xtom
 🇬🇧    UK              London              10.124.1.187  1080  gb-lon-wg-socks5-102.relays.mullvad.net  gb-lon-wg-102  45.66.219.166    2a07:d883:701:2::f001      100    yes    xtom
 🇬🇧    UK              London              10.124.1.188  1080  gb-lon-wg-socks5-103.relays.mullvad.net  gb-lon-wg-103  45.66.219.209    2a07:d883:701:3::f001      100    yes    xtom
@@ -325,7 +316,6 @@ flag  country         city                socks5        port  hostname          
 🇬🇧    UK              Manchester          10.124.1.162  1080  gb-mnc-wg-socks5-201.relays.mullvad.net  gb-mnc-wg-201  167.160.13.3     2a03:ee40:3304::f001       10     no     Veloxserv
 🇬🇧    UK              Manchester          10.124.1.163  1080  gb-mnc-wg-socks5-202.relays.mullvad.net  gb-mnc-wg-202  167.160.13.127   2a03:ee40:3304::f101       10     no     Veloxserv
 🇺🇦    Ukraine         Kyiv                10.124.0.25   1080  ua-iev-wg-socks5-001.relays.mullvad.net  ua-iev-wg-001  149.102.240.79   2a02:6ea0:e109:2::a01f     10     no     DataPacket
-🇺🇦    Ukraine         Kyiv                10.124.0.195  1080  ua-iev-wg-socks5-002.relays.mullvad.net  ua-iev-wg-002  149.102.240.66   2a02:6ea0:e109:1::a02f     10     no     DataPacket
 🇺🇸    USA             Ashburn, VA         10.124.2.22   1080  us-qas-wg-socks5-101.relays.mullvad.net  us-qas-wg-101  185.156.46.130   2a02:6ea0:e206:1::a01f     10     no     DataPacket
 🇺🇸    USA             Ashburn, VA         10.124.2.23   1080  us-qas-wg-socks5-102.relays.mullvad.net  us-qas-wg-102  185.156.46.143   2a02:6ea0:e206:2::a02f     10     no     DataPacket
 🇺🇸    USA             Ashburn, VA         10.124.2.24   1080  us-qas-wg-socks5-103.relays.mullvad.net  us-qas-wg-103  185.156.46.156   2a02:6ea0:e206:3::a03f     10     no     DataPacket
@@ -352,7 +342,6 @@ flag  country         city                socks5        port  hostname          
 🇺🇸    USA             Atlanta, GA         10.124.1.137  1080  us-atl-wg-socks5-408.relays.mullvad.net  us-atl-wg-408  23.234.111.127   2607:9000:c00:38::f001     10     no     Tzulo
 🇺🇸    USA             Boston, MA          10.124.0.85   1080  us-bos-wg-socks5-001.relays.mullvad.net  us-bos-wg-001  43.225.189.131   2a06:3040:12:610::a01f     10     no     HostRoyale
 🇺🇸    USA             Boston, MA          10.124.0.127  1080  us-bos-wg-socks5-101.relays.mullvad.net  us-bos-wg-101  149.40.50.98     2a02:6ea0:f901::a01f       10     no     DataPacket
-🇺🇸    USA             Boston, MA          10.124.0.197  1080  us-bos-wg-socks5-102.relays.mullvad.net  us-bos-wg-102  149.40.50.112    2a02:6ea0:f901:1::a02f     10     no     DataPacket
 🇺🇸    USA             Chicago, IL         10.124.1.201  1080  us-chi-wg-socks5-201.relays.mullvad.net  us-chi-wg-201  87.249.134.1     2a02:6ea0:c61f::b63f       10     no     DataPacket
 🇺🇸    USA             Chicago, IL         10.124.1.202  1080  us-chi-wg-socks5-202.relays.mullvad.net  us-chi-wg-202  87.249.134.14    2a02:6ea0:c61f:1::b64f     10     no     DataPacket
 🇺🇸    USA             Chicago, IL         10.124.1.203  1080  us-chi-wg-socks5-203.relays.mullvad.net  us-chi-wg-203  87.249.134.27    2a02:6ea0:c61f:2::f001     10     no     DataPacket
@@ -392,7 +381,6 @@ flag  country         city                socks5        port  hostname          
 🇺🇸    USA             Dallas, TX          10.124.2.106  1080  us-dal-wg-socks5-708.relays.mullvad.net  us-dal-wg-708  23.234.107.127   2607:9000:b00:38::f001     20     no     Tzulo
 🇺🇸    USA             Denver, CO          10.124.1.196  1080  us-den-wg-socks5-101.relays.mullvad.net  us-den-wg-101  37.19.210.1      2a02:6ea0:d70a::b57f       10     no     DataPacket
 🇺🇸    USA             Denver, CO          10.124.1.197  1080  us-den-wg-socks5-102.relays.mullvad.net  us-den-wg-102  37.19.210.14     2a02:6ea0:d70a:1::b58f     10     no     DataPacket
-🇺🇸    USA             Denver, CO          10.124.1.198  1080  us-den-wg-socks5-103.relays.mullvad.net  us-den-wg-103  37.19.210.27     2a02:6ea0:d70a:2::b59f     10     no     DataPacket
 🇺🇸    USA             Denver, CO          10.124.0.147  1080  us-den-wg-socks5-201.relays.mullvad.net  us-den-wg-201  23.234.68.2      2607:9000:2000:41::f001    10     no     Tzulo
 🇺🇸    USA             Denver, CO          10.124.0.148  1080  us-den-wg-socks5-202.relays.mullvad.net  us-den-wg-202  23.234.68.127    2607:9000:2000:42::f001    10     no     Tzulo
 🇺🇸    USA             Denver, CO          10.124.0.149  1080  us-den-wg-socks5-203.relays.mullvad.net  us-den-wg-203  23.234.69.2      2607:9000:2000:43::f001    10     no     Tzulo
@@ -535,3 +523,20 @@ flag  country         city                socks5        port  hostname          
 🇺🇸    USA             Secaucus, NJ        10.124.0.169  1080  us-uyk-wg-socks5-202.relays.mullvad.net  us-uyk-wg-202  104.36.50.33     2a06:3040:22:620::f101     10     no     HostRoyale
 🇺🇸    USA             Washington DC       10.124.1.108  1080  us-was-wg-socks5-001.relays.mullvad.net  us-was-wg-001  185.213.193.3    2604:980:1002:11::f001     10     no     Zenlayer
 🇺🇸    USA             Washington DC       10.124.1.109  1080  us-was-wg-socks5-002.relays.mullvad.net  us-was-wg-002  185.213.193.127  2604:980:1002:11::f101     10     no     Zenlayer
+
+
+Not answering (12):
+
+flag  country  city        socks5        port  hostname                                 relay          ipv4_in         ipv6_in                   speed  owned  provider
+🇨🇦    Canada   Calgary     10.124.0.174  1080  ca-yyc-wg-socks5-201.relays.mullvad.net  ca-yyc-wg-201  38.240.225.36   2606:9580:438:32::f001    10     no     techfutures
+🇨🇦    Canada   Montreal    10.124.0.171  1080  ca-mtr-wg-socks5-202.relays.mullvad.net  ca-mtr-wg-202  62.93.167.160   2a02:6ea0:a03::f001       10     no     DataPacket
+🇫🇮    Finland  Helsinki    10.124.2.56   1080  fi-hel-wg-socks5-104.relays.mullvad.net  fi-hel-wg-104  193.138.7.197   2a02:ed04:3581:4::f001    10     yes    Blix
+🇫🇮    Finland  Helsinki    10.124.0.194  1080  fi-hel-wg-socks5-202.relays.mullvad.net  fi-hel-wg-202  185.65.133.85   2a03:1b20:d:f011:2::f001  40     yes    31173
+🇩🇪    Germany  Berlin      10.124.0.55   1080  de-ber-wg-socks5-004.relays.mullvad.net  de-ber-wg-004  193.32.248.69   2a03:1b20:b:f011::f301    20     yes    31173
+🇳🇴    Norway   Stavanger   10.124.2.40   1080  no-svg-wg-socks5-003.relays.mullvad.net  no-svg-wg-003  194.127.199.62  2a02:20c8:4120::a03f      10     yes    Blix
+🇸🇪    Sweden   Gothenburg  10.124.1.22   1080  se-got-wg-socks5-005.relays.mullvad.net  se-got-wg-005  185.209.199.2   2a03:1b20:5:f011:5::f001  20     yes    31173
+🇸🇪    Sweden   Stockholm   10.124.0.173  1080  se-sto-wg-socks5-008.relays.mullvad.net  se-sto-wg-008  185.65.135.71   2a03:1b20:4:f011::f701    20     yes    31173
+🇬🇧    UK       London      10.124.1.62   1080  gb-lon-wg-socks5-008.relays.mullvad.net  gb-lon-wg-008  141.98.252.138  2a03:1b20:7:f011::f801    20     yes    31173
+🇺🇦    Ukraine  Kyiv        10.124.0.195  1080  ua-iev-wg-socks5-002.relays.mullvad.net  ua-iev-wg-002  149.102.240.66  2a02:6ea0:e109:1::a02f    10     no     DataPacket
+🇺🇸    USA      Boston, MA  10.124.0.197  1080  us-bos-wg-socks5-102.relays.mullvad.net  us-bos-wg-102  149.40.50.112   2a02:6ea0:f901:1::a02f    10     no     DataPacket
+🇺🇸    USA      Denver, CO  10.124.1.198  1080  us-den-wg-socks5-103.relays.mullvad.net  us-den-wg-103  37.19.210.27    2a02:6ea0:d70a:2::b59f    10     no     DataPacket
