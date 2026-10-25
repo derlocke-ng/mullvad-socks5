@@ -131,6 +131,7 @@ socks5://10.124.1.241:1080?title=de-fra-wg-socks5-103&cc=DE&city=Frankfurt&color
 socks5://10.124.1.242:1080?title=de-fra-wg-socks5-104&cc=DE&city=Frankfurt&color=39d22d&proxyDNS=true
 socks5://10.124.1.189:1080?title=de-fra-wg-socks5-201&cc=DE&city=Frankfurt&color=39d22d&proxyDNS=true
 socks5://10.124.1.247:1080?title=de-fra-wg-socks5-202&cc=DE&city=Frankfurt&color=39d22d&proxyDNS=true
+socks5://10.124.1.248:1080?title=de-fra-wg-socks5-203&cc=DE&city=Frankfurt&color=39d22d&proxyDNS=true
 socks5://10.124.0.131:1080?title=de-fra-wg-socks5-404&cc=DE&city=Frankfurt&color=39d22d&proxyDNS=true
 socks5://10.124.1.49:1080?title=de-fra-wg-socks5-405&cc=DE&city=Frankfurt&color=39d22d&proxyDNS=true
 socks5://10.124.1.50:1080?title=de-fra-wg-socks5-406&cc=DE&city=Frankfurt&color=39d22d&proxyDNS=true

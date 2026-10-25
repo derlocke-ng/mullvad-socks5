@@ -1,4 +1,4 @@
-Mullvad SOCKS5 proxies: 532 (answered a SOCKS5 greeting)
+Mullvad SOCKS5 proxies: 533 (answered a SOCKS5 greeting)
 Reachable only through a Mullvad VPN connection.
 
 flag  country         city                socks5        port  hostname                                 relay          ipv4_in          ipv6_in                    speed  owned  provider
@@ -135,6 +135,7 @@ flag  country         city                socks5        port  hostname          
 🇩🇪    Germany         Frankfurt           10.124.1.242  1080  de-fra-wg-socks5-104.relays.mullvad.net  de-fra-wg-104  135.136.19.130   2001:ac8:20:272::f001      20     no     M247
 🇩🇪    Germany         Frankfurt           10.124.1.189  1080  de-fra-wg-socks5-201.relays.mullvad.net  de-fra-wg-201  147.78.240.3     2a07:d883:702:1::f001      100    yes    xtom
 🇩🇪    Germany         Frankfurt           10.124.1.247  1080  de-fra-wg-socks5-202.relays.mullvad.net  de-fra-wg-202  147.78.240.190   2a07:d883:702:2::f001      100    yes    xtom
+🇩🇪    Germany         Frankfurt           10.124.1.248  1080  de-fra-wg-socks5-203.relays.mullvad.net  de-fra-wg-203  176.119.150.3    2a07:d883:702:3::f001      100    yes    xtom
 🇩🇪    Germany         Frankfurt           10.124.0.131  1080  de-fra-wg-socks5-404.relays.mullvad.net  de-fra-wg-404  169.150.211.175  2a02:6ea0:1714:1::f001     50     no     DataPacket
 🇩🇪    Germany         Frankfurt           10.124.1.49   1080  de-fra-wg-socks5-405.relays.mullvad.net  de-fra-wg-405  169.150.211.174  2a02:6ea0:1714:2::f001     50     no     DataPacket
 🇩🇪    Germany         Frankfurt           10.124.1.50   1080  de-fra-wg-socks5-406.relays.mullvad.net  de-fra-wg-406  169.150.211.173  2a02:6ea0:1714::f001       50     no     DataPacket
@@ -534,9 +535,3 @@ flag  country         city                socks5        port  hostname          
 🇺🇸    USA             Secaucus, NJ        10.124.0.169  1080  us-uyk-wg-socks5-202.relays.mullvad.net  us-uyk-wg-202  104.36.50.33     2a06:3040:22:620::f101     10     no     HostRoyale
 🇺🇸    USA             Washington DC       10.124.1.108  1080  us-was-wg-socks5-001.relays.mullvad.net  us-was-wg-001  185.213.193.3    2604:980:1002:11::f001     10     no     Zenlayer
 🇺🇸    USA             Washington DC       10.124.1.109  1080  us-was-wg-socks5-002.relays.mullvad.net  us-was-wg-002  185.213.193.127  2604:980:1002:11::f101     10     no     Zenlayer
-
-
-Not answering (1):
-
-flag  country  city       socks5        port  hostname                                 relay          ipv4_in        ipv6_in                speed  owned  provider
-🇩🇪    Germany  Frankfurt  10.124.1.248  1080  de-fra-wg-socks5-203.relays.mullvad.net  de-fra-wg-203  176.119.150.3  2a07:d883:702:3::f001  100    yes    xtom

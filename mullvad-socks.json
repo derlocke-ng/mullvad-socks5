@@ -2394,6 +2394,24 @@
     "flag": "🇩🇪"
   },
   {
+    "relay": "de-fra-wg-203",
+    "socks_name": "de-fra-wg-socks5-203.relays.mullvad.net",
+    "socks_port": 1080,
+    "country_code": "DE",
+    "country_name": "Germany",
+    "city_code": "fra",
+    "city_name": "Frankfurt",
+    "ipv4_addr_in": "176.119.150.3",
+    "ipv6_addr_in": "2a07:d883:702:3::f001",
+    "provider": "xtom",
+    "owned": true,
+    "speed": 100,
+    "socks_ip": "10.124.1.248",
+    "alias": "de-fra-203.mullvad.home",
+    "reachable": true,
+    "flag": "🇩🇪"
+  },
+  {
     "relay": "de-fra-wg-404",
     "socks_name": "de-fra-wg-socks5-404.relays.mullvad.net",
     "socks_port": 1080,
