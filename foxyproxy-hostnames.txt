@@ -1,6 +1,5 @@
 socks5://al-tia-wg-socks5-001.relays.mullvad.net:1080?title=al-tia-wg-socks5-001&cc=AL&city=Tirana&color=b0d22d&proxyDNS=true
 socks5://al-tia-wg-socks5-002.relays.mullvad.net:1080?title=al-tia-wg-socks5-002&cc=AL&city=Tirana&color=b0d22d&proxyDNS=true
-socks5://al-tia-wg-socks5-003.relays.mullvad.net:1080?title=al-tia-wg-socks5-003&cc=AL&city=Tirana&color=b0d22d&proxyDNS=true
 socks5://al-tia-wg-socks5-004.relays.mullvad.net:1080?title=al-tia-wg-socks5-004&cc=AL&city=Tirana&color=b0d22d&proxyDNS=true
 socks5://ar-bue-wg-socks5-001.relays.mullvad.net:1080?title=ar-bue-wg-socks5-001&cc=AR&city=Buenos%20Aires&color=2dd2cc&proxyDNS=true
 socks5://ar-bue-wg-socks5-002.relays.mullvad.net:1080?title=ar-bue-wg-socks5-002&cc=AR&city=Buenos%20Aires&color=2dd2cc&proxyDNS=true
@@ -186,7 +185,6 @@ socks5://nl-ams-wg-socks5-203.relays.mullvad.net:1080?title=nl-ams-wg-socks5-203
 socks5://nl-ams-wg-socks5-301.relays.mullvad.net:1080?title=nl-ams-wg-socks5-301&cc=NL&city=Amsterdam&color=47d22d&proxyDNS=true
 socks5://nl-ams-wg-socks5-302.relays.mullvad.net:1080?title=nl-ams-wg-socks5-302&cc=NL&city=Amsterdam&color=47d22d&proxyDNS=true
 socks5://nl-ams-wg-socks5-303.relays.mullvad.net:1080?title=nl-ams-wg-socks5-303&cc=NL&city=Amsterdam&color=47d22d&proxyDNS=true
-socks5://nl-ams-wg-socks5-401.relays.mullvad.net:1080?title=nl-ams-wg-socks5-401&cc=NL&city=Amsterdam&color=47d22d&proxyDNS=true
 socks5://nl-ams-wg-socks5-402.relays.mullvad.net:1080?title=nl-ams-wg-socks5-402&cc=NL&city=Amsterdam&color=47d22d&proxyDNS=true
 socks5://nz-akl-wg-socks5-301.relays.mullvad.net:1080?title=nz-akl-wg-socks5-301&cc=NZ&city=Auckland&color=2d39d2&proxyDNS=true
 socks5://nz-akl-wg-socks5-302.relays.mullvad.net:1080?title=nz-akl-wg-socks5-302&cc=NZ&city=Auckland&color=2d39d2&proxyDNS=true

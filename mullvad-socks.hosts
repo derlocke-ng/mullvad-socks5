@@ -3,7 +3,6 @@
 # https://github.com/derlocke-ng/mullvad-socks5
 10.124.1.240 al-tia-wg-socks5-001.relays.mullvad.net
 10.124.0.93 al-tia-wg-socks5-002.relays.mullvad.net
-10.124.2.66 al-tia-wg-socks5-003.relays.mullvad.net
 10.124.2.67 al-tia-wg-socks5-004.relays.mullvad.net
 10.124.0.15 ar-bue-wg-socks5-001.relays.mullvad.net
 10.124.0.47 ar-bue-wg-socks5-002.relays.mullvad.net
@@ -125,6 +124,7 @@
 10.124.0.64 dk-cph-wg-socks5-001.relays.mullvad.net
 10.124.0.17 dk-cph-wg-socks5-002.relays.mullvad.net
 10.124.2.91 dk-cph-wg-socks5-102.relays.mullvad.net
+10.124.0.229 dk-cph-wg-socks5-401.relays.mullvad.net
 10.124.1.249 ee-tll-wg-socks5-101.relays.mullvad.net
 10.124.2.6 ee-tll-wg-socks5-102.relays.mullvad.net
 10.124.2.7 ee-tll-wg-socks5-103.relays.mullvad.net
@@ -536,7 +536,6 @@
 10.124.2.60 za-jnb-wg-socks5-002.relays.mullvad.net
 10.124.1.240 al-tia-001.mullvad.home
 10.124.0.93 al-tia-002.mullvad.home
-10.124.2.66 al-tia-003.mullvad.home
 10.124.2.67 al-tia-004.mullvad.home
 10.124.0.15 ar-bue-001.mullvad.home
 10.124.0.47 ar-bue-002.mullvad.home
@@ -658,6 +657,7 @@
 10.124.0.64 dk-cph-001.mullvad.home
 10.124.0.17 dk-cph-002.mullvad.home
 10.124.2.91 dk-cph-102.mullvad.home
+10.124.0.229 dk-cph-401.mullvad.home
 10.124.1.249 ee-tll-101.mullvad.home
 10.124.2.6 ee-tll-102.mullvad.home
 10.124.2.7 ee-tll-103.mullvad.home
