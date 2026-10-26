@@ -19,6 +19,7 @@ socks5://10.124.0.42:1080?title=au-syd-wg-socks5-003&cc=AU&city=Sydney&color=2d4
 socks5://10.124.0.214:1080?title=au-syd-wg-socks5-101&cc=AU&city=Sydney&color=2d48d2&proxyDNS=true
 socks5://10.124.0.215:1080?title=au-syd-wg-socks5-102&cc=AU&city=Sydney&color=2d48d2&proxyDNS=true
 socks5://10.124.0.141:1080?title=au-syd-wg-socks5-103&cc=AU&city=Sydney&color=2d48d2&proxyDNS=true
+socks5://10.124.0.211:1080?title=au-syd-wg-socks5-104&cc=AU&city=Sydney&color=2d48d2&proxyDNS=true
 socks5://10.124.2.70:1080?title=au-syd-wg-socks5-301&cc=AU&city=Sydney&color=2d48d2&proxyDNS=true
 socks5://10.124.2.71:1080?title=au-syd-wg-socks5-302&cc=AU&city=Sydney&color=2d48d2&proxyDNS=true
 socks5://10.124.2.72:1080?title=au-syd-wg-socks5-303&cc=AU&city=Sydney&color=2d48d2&proxyDNS=true
@@ -184,7 +185,6 @@ socks5://10.124.2.1:1080?title=nl-ams-wg-socks5-203&cc=NL&city=Amsterdam&color=4
 socks5://10.124.0.244:1080?title=nl-ams-wg-socks5-301&cc=NL&city=Amsterdam&color=47d22d&proxyDNS=true
 socks5://10.124.0.245:1080?title=nl-ams-wg-socks5-302&cc=NL&city=Amsterdam&color=47d22d&proxyDNS=true
 socks5://10.124.1.121:1080?title=nl-ams-wg-socks5-303&cc=NL&city=Amsterdam&color=47d22d&proxyDNS=true
-socks5://10.124.0.236:1080?title=nl-ams-wg-socks5-401&cc=NL&city=Amsterdam&color=47d22d&proxyDNS=true
 socks5://10.124.1.48:1080?title=nl-ams-wg-socks5-402&cc=NL&city=Amsterdam&color=47d22d&proxyDNS=true
 socks5://10.124.0.218:1080?title=nz-akl-wg-socks5-301&cc=NZ&city=Auckland&color=2d39d2&proxyDNS=true
 socks5://10.124.0.219:1080?title=nz-akl-wg-socks5-302&cc=NZ&city=Auckland&color=2d39d2&proxyDNS=true
