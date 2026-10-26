@@ -1,6 +1,6 @@
 # Mullvad SOCKS5 proxy lists
 
-Built 2026-10-26 07:02 UTC by [derlocke-ng/mullvad-socks5](https://github.com/derlocke-ng/mullvad-socks5) — **531 proxies** in 50 countries, each answered a SOCKS5 greeting through a Mullvad tunnel.
+Built 2026-10-26 14:11 UTC by [derlocke-ng/mullvad-socks5](https://github.com/derlocke-ng/mullvad-socks5) — **531 proxies** in 50 countries, each answered a SOCKS5 greeting through a Mullvad tunnel.
 
 The proxies are reachable only through a Mullvad VPN connection.
 
@@ -12,15 +12,15 @@ The proxies are reachable only through a Mullvad VPN connection.
 | [foxyproxy.txt](https://raw.githubusercontent.com/derlocke-ng/mullvad-socks5/list/foxyproxy.txt) | FoxyProxy: *Import Proxy List* (adds to your proxies) |
 | [foxyproxy-hostnames.json](https://raw.githubusercontent.com/derlocke-ng/mullvad-socks5/list/foxyproxy-hostnames.json) | as foxyproxy.json, with DNS names instead of addresses |
 | [foxyproxy-hostnames.txt](https://raw.githubusercontent.com/derlocke-ng/mullvad-socks5/list/foxyproxy-hostnames.txt) | as foxyproxy.txt, with DNS names instead of addresses |
-| [mullvad-socks.hosts](https://raw.githubusercontent.com/derlocke-ng/mullvad-socks5/list/mullvad-socks.hosts) | 1066 DNS records, hosts format: Pi-hole, dnsmasq, /etc/hosts |
+| [mullvad-socks.hosts](https://raw.githubusercontent.com/derlocke-ng/mullvad-socks5/list/mullvad-socks.hosts) | 1064 DNS records, hosts format: Pi-hole, dnsmasq, /etc/hosts |
 | [kiwi-extra-records.yaml](https://raw.githubusercontent.com/derlocke-ng/mullvad-socks5/list/kiwi-extra-records.yaml) | the same records as kiwi-server `dns.extra_records` |
 | [mullvad_proxies_proxy.txt](https://raw.githubusercontent.com/derlocke-ng/mullvad-socks5/list/mullvad_proxies_proxy.txt) | = foxyproxy.txt, the old file name |
 
 | | country | proxies |
 |---|---|---:|
-| 🇦🇱 | Albania | 3 |
+| 🇦🇱 | Albania | 2 |
 | 🇦🇷 | Argentina | 2 |
-| 🇦🇺 | Australia | 22 |
+| 🇦🇺 | Australia | 21 |
 | 🇦🇹 | Austria | 5 |
 | 🇧🇪 | Belgium | 3 |
 | 🇧🇷 | Brazil | 4 |
@@ -31,7 +31,7 @@ The proxies are reachable only through a Mullvad VPN connection.
 | 🇭🇷 | Croatia | 2 |
 | 🇨🇾 | Cyprus | 2 |
 | 🇨🇿 | Czech Republic | 4 |
-| 🇩🇰 | Denmark | 3 |
+| 🇩🇰 | Denmark | 5 |
 | 🇪🇪 | Estonia | 3 |
 | 🇫🇮 | Finland | 9 |
 | 🇫🇷 | France | 13 |
@@ -43,10 +43,10 @@ The proxies are reachable only through a Mullvad VPN connection.
 | 🇮🇪 | Ireland | 3 |
 | 🇮🇱 | Israel | 3 |
 | 🇮🇹 | Italy | 7 |
-| 🇯🇵 | Japan | 8 |
+| 🇯🇵 | Japan | 7 |
 | 🇲🇾 | Malaysia | 2 |
 | 🇲🇽 | Mexico | 4 |
-| 🇳🇱 | Netherlands | 12 |
+| 🇳🇱 | Netherlands | 13 |
 | 🇳🇿 | New Zealand | 3 |
 | 🇳🇬 | Nigeria | 2 |
 | 🇳🇴 | Norway | 10 |
