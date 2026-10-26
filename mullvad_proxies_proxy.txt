@@ -41,12 +41,14 @@ socks5://10.124.2.32:1080?title=br-sao-wg-socks5-202&cc=BR&city=Sao%20Paulo&colo
 socks5://10.124.0.225:1080?title=bg-sof-wg-socks5-001&cc=BG&city=Sofia&color=9ad22d&proxyDNS=true
 socks5://10.124.0.226:1080?title=bg-sof-wg-socks5-002&cc=BG&city=Sofia&color=9ad22d&proxyDNS=true
 socks5://10.124.0.100:1080?title=bg-sof-wg-socks5-003&cc=BG&city=Sofia&color=9ad22d&proxyDNS=true
+socks5://10.124.0.174:1080?title=ca-yyc-wg-socks5-201&cc=CA&city=Calgary&color=d22db6&proxyDNS=true
 socks5://10.124.0.178:1080?title=ca-yyc-wg-socks5-202&cc=CA&city=Calgary&color=d22db6&proxyDNS=true
 socks5://10.124.0.231:1080?title=ca-mtr-wg-socks5-001&cc=CA&city=Montreal&color=d22db6&proxyDNS=true
 socks5://10.124.0.232:1080?title=ca-mtr-wg-socks5-002&cc=CA&city=Montreal&color=d22db6&proxyDNS=true
 socks5://10.124.0.233:1080?title=ca-mtr-wg-socks5-003&cc=CA&city=Montreal&color=d22db6&proxyDNS=true
 socks5://10.124.0.234:1080?title=ca-mtr-wg-socks5-004&cc=CA&city=Montreal&color=d22db6&proxyDNS=true
 socks5://10.124.0.168:1080?title=ca-mtr-wg-socks5-201&cc=CA&city=Montreal&color=d22db6&proxyDNS=true
+socks5://10.124.0.171:1080?title=ca-mtr-wg-socks5-202&cc=CA&city=Montreal&color=d22db6&proxyDNS=true
 socks5://10.124.2.93:1080?title=ca-mtr-wg-socks5-301&cc=CA&city=Montreal&color=d22db6&proxyDNS=true
 socks5://10.124.2.94:1080?title=ca-mtr-wg-socks5-302&cc=CA&city=Montreal&color=d22db6&proxyDNS=true
 socks5://10.124.2.95:1080?title=ca-mtr-wg-socks5-303&cc=CA&city=Montreal&color=d22db6&proxyDNS=true
@@ -91,7 +93,9 @@ socks5://10.124.0.112:1080?title=fi-hel-wg-socks5-003&cc=FI&city=Helsinki&color=
 socks5://10.124.2.53:1080?title=fi-hel-wg-socks5-101&cc=FI&city=Helsinki&color=592dd2&proxyDNS=true
 socks5://10.124.2.54:1080?title=fi-hel-wg-socks5-102&cc=FI&city=Helsinki&color=592dd2&proxyDNS=true
 socks5://10.124.2.55:1080?title=fi-hel-wg-socks5-103&cc=FI&city=Helsinki&color=592dd2&proxyDNS=true
+socks5://10.124.2.56:1080?title=fi-hel-wg-socks5-104&cc=FI&city=Helsinki&color=592dd2&proxyDNS=true
 socks5://10.124.0.155:1080?title=fi-hel-wg-socks5-201&cc=FI&city=Helsinki&color=592dd2&proxyDNS=true
+socks5://10.124.0.194:1080?title=fi-hel-wg-socks5-202&cc=FI&city=Helsinki&color=592dd2&proxyDNS=true
 socks5://10.124.0.210:1080?title=fi-hel-wg-socks5-203&cc=FI&city=Helsinki&color=592dd2&proxyDNS=true
 socks5://10.124.1.63:1080?title=fr-bod-wg-socks5-001&cc=FR&city=Bordeaux&color=d2c12d&proxyDNS=true
 socks5://10.124.1.64:1080?title=fr-bod-wg-socks5-002&cc=FR&city=Bordeaux&color=d2c12d&proxyDNS=true
@@ -109,6 +113,7 @@ socks5://10.124.1.79:1080?title=fr-par-wg-socks5-302&cc=FR&city=Paris&color=d2c1
 socks5://10.124.0.7:1080?title=de-ber-wg-socks5-001&cc=DE&city=Berlin&color=39d22d&proxyDNS=true
 socks5://10.124.0.8:1080?title=de-ber-wg-socks5-002&cc=DE&city=Berlin&color=39d22d&proxyDNS=true
 socks5://10.124.0.9:1080?title=de-ber-wg-socks5-003&cc=DE&city=Berlin&color=39d22d&proxyDNS=true
+socks5://10.124.0.55:1080?title=de-ber-wg-socks5-004&cc=DE&city=Berlin&color=39d22d&proxyDNS=true
 socks5://10.124.2.10:1080?title=de-ber-wg-socks5-101&cc=DE&city=Berlin&color=39d22d&proxyDNS=true
 socks5://10.124.2.11:1080?title=de-ber-wg-socks5-102&cc=DE&city=Berlin&color=39d22d&proxyDNS=true
 socks5://10.124.2.12:1080?title=de-ber-wg-socks5-103&cc=DE&city=Berlin&color=39d22d&proxyDNS=true
@@ -196,6 +201,7 @@ socks5://10.124.0.103:1080?title=no-osl-wg-socks5-102&cc=NO&city=Oslo&color=2dd2
 socks5://10.124.0.104:1080?title=no-osl-wg-socks5-103&cc=NO&city=Oslo&color=2dd2a3&proxyDNS=true
 socks5://10.124.2.38:1080?title=no-svg-wg-socks5-001&cc=NO&city=Stavanger&color=2dd2a3&proxyDNS=true
 socks5://10.124.2.39:1080?title=no-svg-wg-socks5-002&cc=NO&city=Stavanger&color=2dd2a3&proxyDNS=true
+socks5://10.124.2.40:1080?title=no-svg-wg-socks5-003&cc=NO&city=Stavanger&color=2dd2a3&proxyDNS=true
 socks5://10.124.2.41:1080?title=no-svg-wg-socks5-004&cc=NO&city=Stavanger&color=2dd2a3&proxyDNS=true
 socks5://10.124.1.81:1080?title=pe-lim-wg-socks5-001&cc=PE&city=Lima&color=2dd2cd&proxyDNS=true
 socks5://10.124.1.82:1080?title=pe-lim-wg-socks5-002&cc=PE&city=Lima&color=2dd2cd&proxyDNS=true
@@ -241,6 +247,7 @@ socks5://10.124.0.20:1080?title=se-got-wg-socks5-001&cc=SE&city=Gothenburg&color
 socks5://10.124.0.49:1080?title=se-got-wg-socks5-002&cc=SE&city=Gothenburg&color=59d22d&proxyDNS=true
 socks5://10.124.0.152:1080?title=se-got-wg-socks5-003&cc=SE&city=Gothenburg&color=59d22d&proxyDNS=true
 socks5://10.124.0.65:1080?title=se-got-wg-socks5-004&cc=SE&city=Gothenburg&color=59d22d&proxyDNS=true
+socks5://10.124.1.22:1080?title=se-got-wg-socks5-005&cc=SE&city=Gothenburg&color=59d22d&proxyDNS=true
 socks5://10.124.1.56:1080?title=se-got-wg-socks5-006&cc=SE&city=Gothenburg&color=59d22d&proxyDNS=true
 socks5://10.124.1.60:1080?title=se-got-wg-socks5-007&cc=SE&city=Gothenburg&color=59d22d&proxyDNS=true
 socks5://10.124.1.61:1080?title=se-got-wg-socks5-008&cc=SE&city=Gothenburg&color=59d22d&proxyDNS=true
@@ -260,6 +267,7 @@ socks5://10.124.1.184:1080?title=se-sto-wg-socks5-001&cc=SE&city=Stockholm&color
 socks5://10.124.0.11:1080?title=se-sto-wg-socks5-002&cc=SE&city=Stockholm&color=59d22d&proxyDNS=true
 socks5://10.124.2.48:1080?title=se-sto-wg-socks5-003&cc=SE&city=Stockholm&color=59d22d&proxyDNS=true
 socks5://10.124.0.172:1080?title=se-sto-wg-socks5-007&cc=SE&city=Stockholm&color=59d22d&proxyDNS=true
+socks5://10.124.0.173:1080?title=se-sto-wg-socks5-008&cc=SE&city=Stockholm&color=59d22d&proxyDNS=true
 socks5://10.124.0.50:1080?title=se-sto-wg-socks5-009&cc=SE&city=Stockholm&color=59d22d&proxyDNS=true
 socks5://10.124.0.61:1080?title=se-sto-wg-socks5-010&cc=SE&city=Stockholm&color=59d22d&proxyDNS=true
 socks5://10.124.0.62:1080?title=se-sto-wg-socks5-011&cc=SE&city=Stockholm&color=59d22d&proxyDNS=true
@@ -299,6 +307,7 @@ socks5://10.124.1.17:1080?title=gb-lon-wg-socks5-004&cc=GB&city=London&color=d22
 socks5://10.124.1.18:1080?title=gb-lon-wg-socks5-005&cc=GB&city=London&color=d22d4c&proxyDNS=true
 socks5://10.124.1.19:1080?title=gb-lon-wg-socks5-006&cc=GB&city=London&color=d22d4c&proxyDNS=true
 socks5://10.124.1.28:1080?title=gb-lon-wg-socks5-007&cc=GB&city=London&color=d22d4c&proxyDNS=true
+socks5://10.124.1.62:1080?title=gb-lon-wg-socks5-008&cc=GB&city=London&color=d22d4c&proxyDNS=true
 socks5://10.124.1.186:1080?title=gb-lon-wg-socks5-101&cc=GB&city=London&color=d22d4c&proxyDNS=true
 socks5://10.124.1.187:1080?title=gb-lon-wg-socks5-102&cc=GB&city=London&color=d22d4c&proxyDNS=true
 socks5://10.124.1.188:1080?title=gb-lon-wg-socks5-103&cc=GB&city=London&color=d22d4c&proxyDNS=true
@@ -312,6 +321,7 @@ socks5://10.124.0.88:1080?title=gb-mnc-wg-socks5-004&cc=GB&city=Manchester&color
 socks5://10.124.1.162:1080?title=gb-mnc-wg-socks5-201&cc=GB&city=Manchester&color=d22d4c&proxyDNS=true
 socks5://10.124.1.163:1080?title=gb-mnc-wg-socks5-202&cc=GB&city=Manchester&color=d22d4c&proxyDNS=true
 socks5://10.124.0.25:1080?title=ua-iev-wg-socks5-001&cc=UA&city=Kyiv&color=2d58d2&proxyDNS=true
+socks5://10.124.0.195:1080?title=ua-iev-wg-socks5-002&cc=UA&city=Kyiv&color=2d58d2&proxyDNS=true
 socks5://10.124.2.22:1080?title=us-qas-wg-socks5-101&cc=US&city=Ashburn%2C%20VA&color=2dd2d0&proxyDNS=true
 socks5://10.124.2.23:1080?title=us-qas-wg-socks5-102&cc=US&city=Ashburn%2C%20VA&color=2dd2d0&proxyDNS=true
 socks5://10.124.2.24:1080?title=us-qas-wg-socks5-103&cc=US&city=Ashburn%2C%20VA&color=2dd2d0&proxyDNS=true
@@ -338,6 +348,7 @@ socks5://10.124.1.136:1080?title=us-atl-wg-socks5-407&cc=US&city=Atlanta%2C%20GA
 socks5://10.124.1.137:1080?title=us-atl-wg-socks5-408&cc=US&city=Atlanta%2C%20GA&color=2dd2d0&proxyDNS=true
 socks5://10.124.0.85:1080?title=us-bos-wg-socks5-001&cc=US&city=Boston%2C%20MA&color=2dd2d0&proxyDNS=true
 socks5://10.124.0.127:1080?title=us-bos-wg-socks5-101&cc=US&city=Boston%2C%20MA&color=2dd2d0&proxyDNS=true
+socks5://10.124.0.197:1080?title=us-bos-wg-socks5-102&cc=US&city=Boston%2C%20MA&color=2dd2d0&proxyDNS=true
 socks5://10.124.1.201:1080?title=us-chi-wg-socks5-201&cc=US&city=Chicago%2C%20IL&color=2dd2d0&proxyDNS=true
 socks5://10.124.1.202:1080?title=us-chi-wg-socks5-202&cc=US&city=Chicago%2C%20IL&color=2dd2d0&proxyDNS=true
 socks5://10.124.1.203:1080?title=us-chi-wg-socks5-203&cc=US&city=Chicago%2C%20IL&color=2dd2d0&proxyDNS=true
@@ -377,6 +388,7 @@ socks5://10.124.2.104:1080?title=us-dal-wg-socks5-707&cc=US&city=Dallas%2C%20TX&
 socks5://10.124.2.106:1080?title=us-dal-wg-socks5-708&cc=US&city=Dallas%2C%20TX&color=2dd2d0&proxyDNS=true
 socks5://10.124.1.196:1080?title=us-den-wg-socks5-101&cc=US&city=Denver%2C%20CO&color=2dd2d0&proxyDNS=true
 socks5://10.124.1.197:1080?title=us-den-wg-socks5-102&cc=US&city=Denver%2C%20CO&color=2dd2d0&proxyDNS=true
+socks5://10.124.1.198:1080?title=us-den-wg-socks5-103&cc=US&city=Denver%2C%20CO&color=2dd2d0&proxyDNS=true
 socks5://10.124.0.147:1080?title=us-den-wg-socks5-201&cc=US&city=Denver%2C%20CO&color=2dd2d0&proxyDNS=true
 socks5://10.124.0.148:1080?title=us-den-wg-socks5-202&cc=US&city=Denver%2C%20CO&color=2dd2d0&proxyDNS=true
 socks5://10.124.0.149:1080?title=us-den-wg-socks5-203&cc=US&city=Denver%2C%20CO&color=2dd2d0&proxyDNS=true
