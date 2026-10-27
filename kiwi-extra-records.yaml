@@ -6,6 +6,7 @@
 extra_records:
   al-tia-wg-socks5-001.relays.mullvad.net: "10.124.1.240"
   al-tia-wg-socks5-002.relays.mullvad.net: "10.124.0.93"
+  al-tia-wg-socks5-003.relays.mullvad.net: "10.124.2.66"
   ar-bue-wg-socks5-001.relays.mullvad.net: "10.124.0.15"
   ar-bue-wg-socks5-002.relays.mullvad.net: "10.124.0.47"
   at-vie-wg-socks5-001.relays.mullvad.net: "10.124.0.182"
@@ -537,6 +538,7 @@ extra_records:
   za-jnb-wg-socks5-002.relays.mullvad.net: "10.124.2.60"
   al-tia-001.mullvad.home: "10.124.1.240"
   al-tia-002.mullvad.home: "10.124.0.93"
+  al-tia-003.mullvad.home: "10.124.2.66"
   ar-bue-001.mullvad.home: "10.124.0.15"
   ar-bue-002.mullvad.home: "10.124.0.47"
   at-vie-001.mullvad.home: "10.124.0.182"
