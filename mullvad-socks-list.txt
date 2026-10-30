@@ -1,4 +1,4 @@
-Mullvad SOCKS5 proxies: 532 (answered a SOCKS5 greeting)
+Mullvad SOCKS5 proxies: 532 (active relays, resolved names)
 Reachable only through a Mullvad VPN connection.
 
 flag  country         city                socks5        port  hostname                                 relay          ipv4_in          ipv6_in                    speed  owned  provider

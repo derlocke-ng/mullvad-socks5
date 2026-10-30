@@ -14,7 +14,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.240",
     "alias": "al-tia-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇦🇱"
   },
   {
@@ -32,7 +32,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.93",
     "alias": "al-tia-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇦🇱"
   },
   {
@@ -50,7 +50,7 @@
     "speed": 10,
     "socks_ip": "10.124.2.66",
     "alias": "al-tia-003.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇦🇱"
   },
   {
@@ -68,7 +68,7 @@
     "speed": 10,
     "socks_ip": "10.124.2.67",
     "alias": "al-tia-004.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇦🇱"
   },
   {
@@ -86,7 +86,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.15",
     "alias": "ar-bue-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇦🇷"
   },
   {
@@ -104,7 +104,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.47",
     "alias": "ar-bue-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇦🇷"
   },
   {
@@ -122,7 +122,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.99",
     "alias": "au-adl-301.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇦🇺"
   },
   {
@@ -140,7 +140,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.156",
     "alias": "au-adl-302.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇦🇺"
   },
   {
@@ -158,7 +158,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.3",
     "alias": "au-adl-303.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇦🇺"
   },
   {
@@ -176,7 +176,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.220",
     "alias": "au-bne-301.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇦🇺"
   },
   {
@@ -194,7 +194,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.221",
     "alias": "au-bne-302.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇦🇺"
   },
   {
@@ -212,7 +212,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.69",
     "alias": "au-bne-303.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇦🇺"
   },
   {
@@ -230,7 +230,7 @@
     "speed": 20,
     "socks_ip": "10.124.1.53",
     "alias": "au-mel-401.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇦🇺"
   },
   {
@@ -248,7 +248,7 @@
     "speed": 20,
     "socks_ip": "10.124.1.59",
     "alias": "au-mel-402.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇦🇺"
   },
   {
@@ -266,7 +266,7 @@
     "speed": 20,
     "socks_ip": "10.124.2.107",
     "alias": "au-mel-403.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇦🇺"
   },
   {
@@ -284,7 +284,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.55",
     "alias": "au-per-301.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇦🇺"
   },
   {
@@ -302,7 +302,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.57",
     "alias": "au-per-302.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇦🇺"
   },
   {
@@ -320,7 +320,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.36",
     "alias": "au-syd-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇦🇺"
   },
   {
@@ -338,7 +338,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.37",
     "alias": "au-syd-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇦🇺"
   },
   {
@@ -356,7 +356,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.42",
     "alias": "au-syd-003.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇦🇺"
   },
   {
@@ -374,7 +374,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.214",
     "alias": "au-syd-101.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇦🇺"
   },
   {
@@ -392,7 +392,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.215",
     "alias": "au-syd-102.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇦🇺"
   },
   {
@@ -410,7 +410,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.141",
     "alias": "au-syd-103.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇦🇺"
   },
   {
@@ -428,7 +428,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.211",
     "alias": "au-syd-104.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇦🇺"
   },
   {
@@ -446,7 +446,7 @@
     "speed": 10,
     "socks_ip": "10.124.2.70",
     "alias": "au-syd-301.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇦🇺"
   },
   {
@@ -464,7 +464,7 @@
     "speed": 10,
     "socks_ip": "10.124.2.71",
     "alias": "au-syd-302.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇦🇺"
   },
   {
@@ -482,7 +482,7 @@
     "speed": 10,
     "socks_ip": "10.124.2.72",
     "alias": "au-syd-303.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇦🇺"
   },
   {
@@ -500,7 +500,7 @@
     "speed": 10,
     "socks_ip": "10.124.2.73",
     "alias": "au-syd-304.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇦🇺"
   },
   {
@@ -518,7 +518,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.182",
     "alias": "at-vie-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇦🇹"
   },
   {
@@ -536,7 +536,7 @@
     "speed": 20,
     "socks_ip": "10.124.1.9",
     "alias": "at-vie-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇦🇹"
   },
   {
@@ -554,7 +554,7 @@
     "speed": 20,
     "socks_ip": "10.124.1.10",
     "alias": "at-vie-003.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇦🇹"
   },
   {
@@ -572,7 +572,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.73",
     "alias": "at-vie-101.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇦🇹"
   },
   {
@@ -590,7 +590,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.74",
     "alias": "at-vie-102.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇦🇹"
   },
   {
@@ -608,7 +608,7 @@
     "speed": 10,
     "socks_ip": "10.124.2.42",
     "alias": "be-bru-101.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇧🇪"
   },
   {
@@ -626,7 +626,7 @@
     "speed": 10,
     "socks_ip": "10.124.2.43",
     "alias": "be-bru-102.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇧🇪"
   },
   {
@@ -644,7 +644,7 @@
     "speed": 10,
     "socks_ip": "10.124.2.44",
     "alias": "be-bru-103.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇧🇪"
   },
   {
@@ -662,7 +662,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.10",
     "alias": "br-for-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇧🇷"
   },
   {
@@ -680,7 +680,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.12",
     "alias": "br-for-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇧🇷"
   },
   {
@@ -698,7 +698,7 @@
     "speed": 10,
     "socks_ip": "10.124.2.31",
     "alias": "br-sao-201.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇧🇷"
   },
   {
@@ -716,7 +716,7 @@
     "speed": 10,
     "socks_ip": "10.124.2.32",
     "alias": "br-sao-202.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇧🇷"
   },
   {
@@ -734,7 +734,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.225",
     "alias": "bg-sof-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇧🇬"
   },
   {
@@ -752,7 +752,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.226",
     "alias": "bg-sof-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇧🇬"
   },
   {
@@ -770,7 +770,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.100",
     "alias": "bg-sof-003.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇧🇬"
   },
   {
@@ -788,7 +788,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.174",
     "alias": "ca-yyc-201.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇨🇦"
   },
   {
@@ -806,7 +806,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.178",
     "alias": "ca-yyc-202.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇨🇦"
   },
   {
@@ -824,7 +824,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.231",
     "alias": "ca-mtr-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇨🇦"
   },
   {
@@ -842,7 +842,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.232",
     "alias": "ca-mtr-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇨🇦"
   },
   {
@@ -860,7 +860,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.233",
     "alias": "ca-mtr-003.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇨🇦"
   },
   {
@@ -878,7 +878,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.234",
     "alias": "ca-mtr-004.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇨🇦"
   },
   {
@@ -896,7 +896,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.168",
     "alias": "ca-mtr-201.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇨🇦"
   },
   {
@@ -914,7 +914,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.171",
     "alias": "ca-mtr-202.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇨🇦"
   },
   {
@@ -932,7 +932,7 @@
     "speed": 20,
     "socks_ip": "10.124.2.93",
     "alias": "ca-mtr-301.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇨🇦"
   },
   {
@@ -950,7 +950,7 @@
     "speed": 20,
     "socks_ip": "10.124.2.94",
     "alias": "ca-mtr-302.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇨🇦"
   },
   {
@@ -968,7 +968,7 @@
     "speed": 20,
     "socks_ip": "10.124.2.95",
     "alias": "ca-mtr-303.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇨🇦"
   },
   {
@@ -986,7 +986,7 @@
     "speed": 20,
     "socks_ip": "10.124.2.96",
     "alias": "ca-mtr-304.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇨🇦"
   },
   {
@@ -1004,7 +1004,7 @@
     "speed": 20,
     "socks_ip": "10.124.2.97",
     "alias": "ca-mtr-305.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇨🇦"
   },
   {
@@ -1022,7 +1022,7 @@
     "speed": 20,
     "socks_ip": "10.124.2.98",
     "alias": "ca-mtr-306.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇨🇦"
   },
   {
@@ -1040,7 +1040,7 @@
     "speed": 20,
     "socks_ip": "10.124.2.99",
     "alias": "ca-mtr-307.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇨🇦"
   },
   {
@@ -1058,7 +1058,7 @@
     "speed": 20,
     "socks_ip": "10.124.2.100",
     "alias": "ca-mtr-308.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇨🇦"
   },
   {
@@ -1076,7 +1076,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.235",
     "alias": "ca-tor-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇨🇦"
   },
   {
@@ -1094,7 +1094,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.236",
     "alias": "ca-tor-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇨🇦"
   },
   {
@@ -1112,7 +1112,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.81",
     "alias": "ca-tor-201.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇨🇦"
   },
   {
@@ -1130,7 +1130,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.110",
     "alias": "ca-tor-202.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇨🇦"
   },
   {
@@ -1148,7 +1148,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.111",
     "alias": "ca-tor-203.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇨🇦"
   },
   {
@@ -1166,7 +1166,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.112",
     "alias": "ca-tor-204.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇨🇦"
   },
   {
@@ -1184,7 +1184,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.113",
     "alias": "ca-tor-205.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇨🇦"
   },
   {
@@ -1202,7 +1202,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.114",
     "alias": "ca-tor-206.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇨🇦"
   },
   {
@@ -1220,7 +1220,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.115",
     "alias": "ca-tor-207.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇨🇦"
   },
   {
@@ -1238,7 +1238,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.13",
     "alias": "ca-van-201.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇨🇦"
   },
   {
@@ -1256,7 +1256,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.71",
     "alias": "ca-van-202.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇨🇦"
   },
   {
@@ -1274,7 +1274,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.65",
     "alias": "ca-van-301.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇨🇦"
   },
   {
@@ -1292,7 +1292,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.66",
     "alias": "ca-van-302.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇨🇦"
   },
   {
@@ -1310,7 +1310,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.20",
     "alias": "cl-scl-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇨🇱"
   },
   {
@@ -1328,7 +1328,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.21",
     "alias": "cl-scl-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇨🇱"
   },
   {
@@ -1346,7 +1346,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.216",
     "alias": "co-bog-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇨🇴"
   },
   {
@@ -1364,7 +1364,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.217",
     "alias": "co-bog-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇨🇴"
   },
   {
@@ -1382,7 +1382,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.35",
     "alias": "hr-zag-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇭🇷"
   },
   {
@@ -1400,7 +1400,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.74",
     "alias": "hr-zag-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇭🇷"
   },
   {
@@ -1418,7 +1418,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.83",
     "alias": "cy-nic-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇨🇾"
   },
   {
@@ -1436,7 +1436,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.84",
     "alias": "cy-nic-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇨🇾"
   },
   {
@@ -1454,7 +1454,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.77",
     "alias": "cz-prg-101.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇨🇿"
   },
   {
@@ -1472,7 +1472,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.48",
     "alias": "cz-prg-103.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇨🇿"
   },
   {
@@ -1490,7 +1490,7 @@
     "speed": 10,
     "socks_ip": "10.124.2.57",
     "alias": "cz-prg-201.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇨🇿"
   },
   {
@@ -1508,7 +1508,7 @@
     "speed": 10,
     "socks_ip": "10.124.2.58",
     "alias": "cz-prg-202.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇨🇿"
   },
   {
@@ -1526,7 +1526,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.64",
     "alias": "dk-cph-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇩🇰"
   },
   {
@@ -1544,7 +1544,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.17",
     "alias": "dk-cph-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇩🇰"
   },
   {
@@ -1562,7 +1562,7 @@
     "speed": 100,
     "socks_ip": "10.124.2.91",
     "alias": "dk-cph-102.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇩🇰"
   },
   {
@@ -1580,7 +1580,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.19",
     "alias": "dk-cph-401.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇩🇰"
   },
   {
@@ -1598,7 +1598,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.30",
     "alias": "dk-cph-402.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇩🇰"
   },
   {
@@ -1616,7 +1616,7 @@
     "speed": 100,
     "socks_ip": "10.124.1.249",
     "alias": "ee-tll-101.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇪🇪"
   },
   {
@@ -1634,7 +1634,7 @@
     "speed": 100,
     "socks_ip": "10.124.2.6",
     "alias": "ee-tll-102.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇪🇪"
   },
   {
@@ -1652,7 +1652,7 @@
     "speed": 100,
     "socks_ip": "10.124.2.7",
     "alias": "ee-tll-103.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇪🇪"
   },
   {
@@ -1670,7 +1670,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.111",
     "alias": "fi-hel-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇫🇮"
   },
   {
@@ -1688,7 +1688,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.112",
     "alias": "fi-hel-003.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇫🇮"
   },
   {
@@ -1706,7 +1706,7 @@
     "speed": 10,
     "socks_ip": "10.124.2.53",
     "alias": "fi-hel-101.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇫🇮"
   },
   {
@@ -1724,7 +1724,7 @@
     "speed": 10,
     "socks_ip": "10.124.2.54",
     "alias": "fi-hel-102.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇫🇮"
   },
   {
@@ -1742,7 +1742,7 @@
     "speed": 10,
     "socks_ip": "10.124.2.55",
     "alias": "fi-hel-103.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇫🇮"
   },
   {
@@ -1760,7 +1760,7 @@
     "speed": 10,
     "socks_ip": "10.124.2.56",
     "alias": "fi-hel-104.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇫🇮"
   },
   {
@@ -1778,7 +1778,7 @@
     "speed": 40,
     "socks_ip": "10.124.0.155",
     "alias": "fi-hel-201.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇫🇮"
   },
   {
@@ -1796,7 +1796,7 @@
     "speed": 40,
     "socks_ip": "10.124.0.194",
     "alias": "fi-hel-202.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇫🇮"
   },
   {
@@ -1814,7 +1814,7 @@
     "speed": 40,
     "socks_ip": "10.124.0.210",
     "alias": "fi-hel-203.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇫🇮"
   },
   {
@@ -1832,7 +1832,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.63",
     "alias": "fr-bod-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇫🇷"
   },
   {
@@ -1850,7 +1850,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.64",
     "alias": "fr-bod-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇫🇷"
   },
   {
@@ -1868,7 +1868,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.45",
     "alias": "fr-mrs-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇫🇷"
   },
   {
@@ -1886,7 +1886,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.183",
     "alias": "fr-mrs-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇫🇷"
   },
   {
@@ -1904,7 +1904,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.116",
     "alias": "fr-par-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇫🇷"
   },
   {
@@ -1922,7 +1922,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.117",
     "alias": "fr-par-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇫🇷"
   },
   {
@@ -1940,7 +1940,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.118",
     "alias": "fr-par-003.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇫🇷"
   },
   {
@@ -1958,7 +1958,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.119",
     "alias": "fr-par-004.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇫🇷"
   },
   {
@@ -1976,7 +1976,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.223",
     "alias": "fr-par-101.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇫🇷"
   },
   {
@@ -1994,7 +1994,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.224",
     "alias": "fr-par-102.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇫🇷"
   },
   {
@@ -2012,7 +2012,7 @@
     "speed": 20,
     "socks_ip": "10.124.1.11",
     "alias": "fr-par-103.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇫🇷"
   },
   {
@@ -2030,7 +2030,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.78",
     "alias": "fr-par-301.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇫🇷"
   },
   {
@@ -2048,7 +2048,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.79",
     "alias": "fr-par-302.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇫🇷"
   },
   {
@@ -2066,7 +2066,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.7",
     "alias": "de-ber-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇩🇪"
   },
   {
@@ -2084,7 +2084,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.8",
     "alias": "de-ber-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇩🇪"
   },
   {
@@ -2102,7 +2102,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.9",
     "alias": "de-ber-003.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇩🇪"
   },
   {
@@ -2120,7 +2120,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.55",
     "alias": "de-ber-004.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇩🇪"
   },
   {
@@ -2138,7 +2138,7 @@
     "speed": 50,
     "socks_ip": "10.124.2.10",
     "alias": "de-ber-101.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇩🇪"
   },
   {
@@ -2156,7 +2156,7 @@
     "speed": 50,
     "socks_ip": "10.124.2.11",
     "alias": "de-ber-102.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇩🇪"
   },
   {
@@ -2174,7 +2174,7 @@
     "speed": 50,
     "socks_ip": "10.124.2.12",
     "alias": "de-ber-103.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇩🇪"
   },
   {
@@ -2192,7 +2192,7 @@
     "speed": 100,
     "socks_ip": "10.124.1.122",
     "alias": "de-dus-101.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇩🇪"
   },
   {
@@ -2210,7 +2210,7 @@
     "speed": 100,
     "socks_ip": "10.124.1.126",
     "alias": "de-dus-102.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇩🇪"
   },
   {
@@ -2228,7 +2228,7 @@
     "speed": 100,
     "socks_ip": "10.124.1.127",
     "alias": "de-dus-103.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇩🇪"
   },
   {
@@ -2246,7 +2246,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.53",
     "alias": "de-fra-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇩🇪"
   },
   {
@@ -2264,7 +2264,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.54",
     "alias": "de-fra-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇩🇪"
   },
   {
@@ -2282,7 +2282,7 @@
     "speed": 20,
     "socks_ip": "10.124.1.23",
     "alias": "de-fra-003.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇩🇪"
   },
   {
@@ -2300,7 +2300,7 @@
     "speed": 20,
     "socks_ip": "10.124.1.26",
     "alias": "de-fra-004.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇩🇪"
   },
   {
@@ -2318,7 +2318,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.240",
     "alias": "de-fra-005.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇩🇪"
   },
   {
@@ -2336,7 +2336,7 @@
     "speed": 20,
     "socks_ip": "10.124.1.238",
     "alias": "de-fra-101.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇩🇪"
   },
   {
@@ -2354,7 +2354,7 @@
     "speed": 20,
     "socks_ip": "10.124.1.239",
     "alias": "de-fra-102.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇩🇪"
   },
   {
@@ -2372,7 +2372,7 @@
     "speed": 20,
     "socks_ip": "10.124.1.241",
     "alias": "de-fra-103.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇩🇪"
   },
   {
@@ -2390,7 +2390,7 @@
     "speed": 20,
     "socks_ip": "10.124.1.242",
     "alias": "de-fra-104.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇩🇪"
   },
   {
@@ -2408,7 +2408,7 @@
     "speed": 100,
     "socks_ip": "10.124.1.189",
     "alias": "de-fra-201.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇩🇪"
   },
   {
@@ -2426,7 +2426,7 @@
     "speed": 100,
     "socks_ip": "10.124.1.247",
     "alias": "de-fra-202.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇩🇪"
   },
   {
@@ -2444,7 +2444,7 @@
     "speed": 100,
     "socks_ip": "10.124.1.248",
     "alias": "de-fra-203.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇩🇪"
   },
   {
@@ -2462,7 +2462,7 @@
     "speed": 50,
     "socks_ip": "10.124.0.131",
     "alias": "de-fra-404.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇩🇪"
   },
   {
@@ -2480,7 +2480,7 @@
     "speed": 50,
     "socks_ip": "10.124.1.49",
     "alias": "de-fra-405.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇩🇪"
   },
   {
@@ -2498,7 +2498,7 @@
     "speed": 50,
     "socks_ip": "10.124.1.50",
     "alias": "de-fra-406.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇩🇪"
   },
   {
@@ -2516,7 +2516,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.159",
     "alias": "gr-ath-101.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇬🇷"
   },
   {
@@ -2534,7 +2534,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.166",
     "alias": "gr-ath-102.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇬🇷"
   },
   {
@@ -2552,7 +2552,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.237",
     "alias": "hk-hkg-201.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇭🇰"
   },
   {
@@ -2570,7 +2570,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.181",
     "alias": "hk-hkg-203.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇭🇰"
   },
   {
@@ -2588,7 +2588,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.202",
     "alias": "hk-hkg-301.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇭🇰"
   },
   {
@@ -2606,7 +2606,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.203",
     "alias": "hk-hkg-302.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇭🇰"
   },
   {
@@ -2624,7 +2624,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.51",
     "alias": "hk-hkg-303.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇭🇰"
   },
   {
@@ -2642,7 +2642,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.227",
     "alias": "hu-bud-101.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇭🇺"
   },
   {
@@ -2660,7 +2660,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.228",
     "alias": "hu-bud-102.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇭🇺"
   },
   {
@@ -2678,7 +2678,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.135",
     "alias": "hu-bud-201.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇭🇺"
   },
   {
@@ -2696,7 +2696,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.137",
     "alias": "hu-bud-202.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇭🇺"
   },
   {
@@ -2714,7 +2714,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.254",
     "alias": "id-jpu-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇮🇩"
   },
   {
@@ -2732,7 +2732,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.1",
     "alias": "id-jpu-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇮🇩"
   },
   {
@@ -2750,7 +2750,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.70",
     "alias": "ie-dub-101.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇮🇪"
   },
   {
@@ -2768,7 +2768,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.78",
     "alias": "ie-dub-102.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇮🇪"
   },
   {
@@ -2786,7 +2786,7 @@
     "speed": 20,
     "socks_ip": "10.124.1.58",
     "alias": "ie-dub-103.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇮🇪"
   },
   {
@@ -2804,7 +2804,7 @@
     "speed": 10,
     "socks_ip": "10.124.2.5",
     "alias": "il-tlv-101.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇮🇱"
   },
   {
@@ -2822,7 +2822,7 @@
     "speed": 10,
     "socks_ip": "10.124.2.25",
     "alias": "il-tlv-102.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇮🇱"
   },
   {
@@ -2840,7 +2840,7 @@
     "speed": 10,
     "socks_ip": "10.124.2.26",
     "alias": "il-tlv-103.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇮🇱"
   },
   {
@@ -2858,7 +2858,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.206",
     "alias": "it-mil-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇮🇹"
   },
   {
@@ -2876,7 +2876,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.207",
     "alias": "it-mil-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇮🇹"
   },
   {
@@ -2894,7 +2894,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.208",
     "alias": "it-mil-003.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇮🇹"
   },
   {
@@ -2912,7 +2912,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.200",
     "alias": "it-mil-201.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇮🇹"
   },
   {
@@ -2930,7 +2930,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.201",
     "alias": "it-mil-202.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇮🇹"
   },
   {
@@ -2948,7 +2948,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.67",
     "alias": "it-pmo-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇮🇹"
   },
   {
@@ -2966,7 +2966,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.68",
     "alias": "it-pmo-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇮🇹"
   },
   {
@@ -2984,7 +2984,7 @@
     "speed": 100,
     "socks_ip": "10.124.0.56",
     "alias": "jp-osa-101.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇯🇵"
   },
   {
@@ -3002,7 +3002,7 @@
     "speed": 100,
     "socks_ip": "10.124.0.136",
     "alias": "jp-osa-102.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇯🇵"
   },
   {
@@ -3020,7 +3020,7 @@
     "speed": 100,
     "socks_ip": "10.124.0.237",
     "alias": "jp-osa-103.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇯🇵"
   },
   {
@@ -3038,7 +3038,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.218",
     "alias": "jp-tyo-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇯🇵"
   },
   {
@@ -3056,7 +3056,7 @@
     "speed": 20,
     "socks_ip": "10.124.1.118",
     "alias": "jp-tyo-201.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇯🇵"
   },
   {
@@ -3074,7 +3074,7 @@
     "speed": 20,
     "socks_ip": "10.124.1.119",
     "alias": "jp-tyo-202.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇯🇵"
   },
   {
@@ -3092,7 +3092,7 @@
     "speed": 20,
     "socks_ip": "10.124.1.120",
     "alias": "jp-tyo-203.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇯🇵"
   },
   {
@@ -3110,7 +3110,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.39",
     "alias": "my-kul-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇲🇾"
   },
   {
@@ -3128,7 +3128,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.40",
     "alias": "my-kul-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇲🇾"
   },
   {
@@ -3146,7 +3146,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.154",
     "alias": "mx-qro-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇲🇽"
   },
   {
@@ -3164,7 +3164,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.204",
     "alias": "mx-qro-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇲🇽"
   },
   {
@@ -3182,7 +3182,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.205",
     "alias": "mx-qro-003.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇲🇽"
   },
   {
@@ -3200,7 +3200,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.206",
     "alias": "mx-qro-004.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇲🇽"
   },
   {
@@ -3218,7 +3218,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.113",
     "alias": "nl-ams-004.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇳🇱"
   },
   {
@@ -3236,7 +3236,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.114",
     "alias": "nl-ams-005.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇳🇱"
   },
   {
@@ -3254,7 +3254,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.94",
     "alias": "nl-ams-006.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇳🇱"
   },
   {
@@ -3272,7 +3272,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.243",
     "alias": "nl-ams-007.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇳🇱"
   },
   {
@@ -3290,7 +3290,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.96",
     "alias": "nl-ams-008.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇳🇱"
   },
   {
@@ -3308,7 +3308,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.253",
     "alias": "nl-ams-201.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇳🇱"
   },
   {
@@ -3326,7 +3326,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.254",
     "alias": "nl-ams-202.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇳🇱"
   },
   {
@@ -3344,7 +3344,7 @@
     "speed": 10,
     "socks_ip": "10.124.2.1",
     "alias": "nl-ams-203.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇳🇱"
   },
   {
@@ -3362,7 +3362,7 @@
     "speed": 100,
     "socks_ip": "10.124.0.244",
     "alias": "nl-ams-301.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇳🇱"
   },
   {
@@ -3380,7 +3380,7 @@
     "speed": 100,
     "socks_ip": "10.124.0.245",
     "alias": "nl-ams-302.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇳🇱"
   },
   {
@@ -3398,7 +3398,7 @@
     "speed": 100,
     "socks_ip": "10.124.1.121",
     "alias": "nl-ams-303.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇳🇱"
   },
   {
@@ -3416,7 +3416,7 @@
     "speed": 100,
     "socks_ip": "10.124.1.48",
     "alias": "nl-ams-402.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇳🇱"
   },
   {
@@ -3434,7 +3434,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.218",
     "alias": "nz-akl-301.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇳🇿"
   },
   {
@@ -3452,7 +3452,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.219",
     "alias": "nz-akl-302.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇳🇿"
   },
   {
@@ -3470,7 +3470,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.5",
     "alias": "nz-akl-303.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇳🇿"
   },
   {
@@ -3488,7 +3488,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.97",
     "alias": "ng-los-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇳🇬"
   },
   {
@@ -3506,7 +3506,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.98",
     "alias": "ng-los-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇳🇬"
   },
   {
@@ -3524,7 +3524,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.6",
     "alias": "no-osl-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇳🇴"
   },
   {
@@ -3542,7 +3542,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.108",
     "alias": "no-osl-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇳🇴"
   },
   {
@@ -3560,7 +3560,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.109",
     "alias": "no-osl-003.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇳🇴"
   },
   {
@@ -3578,7 +3578,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.67",
     "alias": "no-osl-101.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇳🇴"
   },
   {
@@ -3596,7 +3596,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.103",
     "alias": "no-osl-102.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇳🇴"
   },
   {
@@ -3614,7 +3614,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.104",
     "alias": "no-osl-103.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇳🇴"
   },
   {
@@ -3632,7 +3632,7 @@
     "speed": 10,
     "socks_ip": "10.124.2.38",
     "alias": "no-svg-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇳🇴"
   },
   {
@@ -3650,7 +3650,7 @@
     "speed": 10,
     "socks_ip": "10.124.2.39",
     "alias": "no-svg-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇳🇴"
   },
   {
@@ -3668,7 +3668,7 @@
     "speed": 10,
     "socks_ip": "10.124.2.40",
     "alias": "no-svg-003.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇳🇴"
   },
   {
@@ -3686,7 +3686,7 @@
     "speed": 10,
     "socks_ip": "10.124.2.41",
     "alias": "no-svg-004.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇳🇴"
   },
   {
@@ -3704,7 +3704,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.81",
     "alias": "pe-lim-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇵🇪"
   },
   {
@@ -3722,7 +3722,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.82",
     "alias": "pe-lim-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇵🇪"
   },
   {
@@ -3740,7 +3740,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.145",
     "alias": "ph-mnl-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇵🇭"
   },
   {
@@ -3758,7 +3758,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.146",
     "alias": "ph-mnl-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇵🇭"
   },
   {
@@ -3776,7 +3776,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.219",
     "alias": "pl-waw-101.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇵🇱"
   },
   {
@@ -3794,7 +3794,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.220",
     "alias": "pl-waw-102.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇵🇱"
   },
   {
@@ -3812,7 +3812,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.221",
     "alias": "pl-waw-103.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇵🇱"
   },
   {
@@ -3830,7 +3830,7 @@
     "speed": 10,
     "socks_ip": "10.124.2.45",
     "alias": "pl-waw-201.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇵🇱"
   },
   {
@@ -3848,7 +3848,7 @@
     "speed": 10,
     "socks_ip": "10.124.2.46",
     "alias": "pl-waw-202.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇵🇱"
   },
   {
@@ -3866,7 +3866,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.198",
     "alias": "pt-lis-201.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇵🇹"
   },
   {
@@ -3884,7 +3884,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.199",
     "alias": "pt-lis-202.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇵🇹"
   },
   {
@@ -3902,7 +3902,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.75",
     "alias": "pt-lis-301.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇵🇹"
   },
   {
@@ -3920,7 +3920,7 @@
     "speed": 20,
     "socks_ip": "10.124.1.25",
     "alias": "ro-buh-011.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇷🇴"
   },
   {
@@ -3938,7 +3938,7 @@
     "speed": 20,
     "socks_ip": "10.124.1.27",
     "alias": "ro-buh-012.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇷🇴"
   },
   {
@@ -3956,7 +3956,7 @@
     "speed": 20,
     "socks_ip": "10.124.2.9",
     "alias": "ro-buh-013.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇷🇴"
   },
   {
@@ -3974,7 +3974,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.33",
     "alias": "rs-beg-101.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇷🇸"
   },
   {
@@ -3992,7 +3992,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.73",
     "alias": "rs-beg-102.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇷🇸"
   },
   {
@@ -4010,7 +4010,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.244",
     "alias": "sg-sin-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇸🇬"
   },
   {
@@ -4028,7 +4028,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.245",
     "alias": "sg-sin-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇸🇬"
   },
   {
@@ -4046,7 +4046,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.246",
     "alias": "sg-sin-003.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇸🇬"
   },
   {
@@ -4064,7 +4064,7 @@
     "speed": 20,
     "socks_ip": "10.124.1.51",
     "alias": "sg-sin-101.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇸🇬"
   },
   {
@@ -4082,7 +4082,7 @@
     "speed": 20,
     "socks_ip": "10.124.1.52",
     "alias": "sg-sin-102.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇸🇬"
   },
   {
@@ -4100,7 +4100,7 @@
     "speed": 20,
     "socks_ip": "10.124.1.54",
     "alias": "sg-sin-103.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇸🇬"
   },
   {
@@ -4118,7 +4118,7 @@
     "speed": 10,
     "socks_ip": "10.124.2.3",
     "alias": "sk-bts-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇸🇰"
   },
   {
@@ -4136,7 +4136,7 @@
     "speed": 10,
     "socks_ip": "10.124.2.4",
     "alias": "sk-bts-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇸🇰"
   },
   {
@@ -4154,7 +4154,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.248",
     "alias": "si-lju-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇸🇮"
   },
   {
@@ -4172,7 +4172,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.249",
     "alias": "si-lju-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇸🇮"
   },
   {
@@ -4190,7 +4190,7 @@
     "speed": 10,
     "socks_ip": "10.124.2.59",
     "alias": "za-jnb-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇿🇦"
   },
   {
@@ -4208,7 +4208,7 @@
     "speed": 10,
     "socks_ip": "10.124.2.60",
     "alias": "za-jnb-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇿🇦"
   },
   {
@@ -4226,7 +4226,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.252",
     "alias": "es-bcn-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇪🇸"
   },
   {
@@ -4244,7 +4244,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.253",
     "alias": "es-bcn-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇪🇸"
   },
   {
@@ -4262,7 +4262,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.69",
     "alias": "es-bcn-101.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇪🇸"
   },
   {
@@ -4280,7 +4280,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.70",
     "alias": "es-bcn-102.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇪🇸"
   },
   {
@@ -4298,7 +4298,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.223",
     "alias": "es-mad-101.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇪🇸"
   },
   {
@@ -4316,7 +4316,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.222",
     "alias": "es-mad-102.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇪🇸"
   },
   {
@@ -4334,7 +4334,7 @@
     "speed": 20,
     "socks_ip": "10.124.2.8",
     "alias": "es-mad-203.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇪🇸"
   },
   {
@@ -4352,7 +4352,7 @@
     "speed": 20,
     "socks_ip": "10.124.1.12",
     "alias": "es-mad-204.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇪🇸"
   },
   {
@@ -4370,7 +4370,7 @@
     "speed": 20,
     "socks_ip": "10.124.1.13",
     "alias": "es-mad-205.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇪🇸"
   },
   {
@@ -4388,7 +4388,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.2",
     "alias": "es-vlc-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇪🇸"
   },
   {
@@ -4406,7 +4406,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.3",
     "alias": "es-vlc-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇪🇸"
   },
   {
@@ -4424,7 +4424,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.20",
     "alias": "se-got-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇸🇪"
   },
   {
@@ -4442,7 +4442,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.49",
     "alias": "se-got-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇸🇪"
   },
   {
@@ -4460,7 +4460,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.152",
     "alias": "se-got-003.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇸🇪"
   },
   {
@@ -4478,7 +4478,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.65",
     "alias": "se-got-004.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇸🇪"
   },
   {
@@ -4496,7 +4496,7 @@
     "speed": 20,
     "socks_ip": "10.124.1.22",
     "alias": "se-got-005.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇸🇪"
   },
   {
@@ -4514,7 +4514,7 @@
     "speed": 20,
     "socks_ip": "10.124.1.56",
     "alias": "se-got-006.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇸🇪"
   },
   {
@@ -4532,7 +4532,7 @@
     "speed": 20,
     "socks_ip": "10.124.1.60",
     "alias": "se-got-007.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇸🇪"
   },
   {
@@ -4550,7 +4550,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.185",
     "alias": "se-got-101.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇸🇪"
   },
   {
@@ -4568,7 +4568,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.2",
     "alias": "se-mma-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇸🇪"
   },
   {
@@ -4586,7 +4586,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.183",
     "alias": "se-mma-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇸🇪"
   },
   {
@@ -4604,7 +4604,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.186",
     "alias": "se-mma-003.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇸🇪"
   },
   {
@@ -4622,7 +4622,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.28",
     "alias": "se-mma-004.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇸🇪"
   },
   {
@@ -4640,7 +4640,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.185",
     "alias": "se-mma-005.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇸🇪"
   },
   {
@@ -4658,7 +4658,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.18",
     "alias": "se-mma-011.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇸🇪"
   },
   {
@@ -4676,7 +4676,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.38",
     "alias": "se-mma-012.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇸🇪"
   },
   {
@@ -4694,7 +4694,7 @@
     "speed": 200,
     "socks_ip": "10.124.0.190",
     "alias": "se-mma-102.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇸🇪"
   },
   {
@@ -4712,7 +4712,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.191",
     "alias": "se-mma-103.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇸🇪"
   },
   {
@@ -4730,7 +4730,7 @@
     "speed": 40,
     "socks_ip": "10.124.1.80",
     "alias": "se-mma-111.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇸🇪"
   },
   {
@@ -4748,7 +4748,7 @@
     "speed": 40,
     "socks_ip": "10.124.1.77",
     "alias": "se-mma-112.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇸🇪"
   },
   {
@@ -4766,7 +4766,7 @@
     "speed": 20,
     "socks_ip": "10.124.1.184",
     "alias": "se-sto-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇸🇪"
   },
   {
@@ -4784,7 +4784,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.11",
     "alias": "se-sto-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇸🇪"
   },
   {
@@ -4802,7 +4802,7 @@
     "speed": 20,
     "socks_ip": "10.124.2.48",
     "alias": "se-sto-003.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇸🇪"
   },
   {
@@ -4820,7 +4820,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.172",
     "alias": "se-sto-007.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇸🇪"
   },
   {
@@ -4838,7 +4838,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.173",
     "alias": "se-sto-008.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇸🇪"
   },
   {
@@ -4856,7 +4856,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.50",
     "alias": "se-sto-009.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇸🇪"
   },
   {
@@ -4874,7 +4874,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.61",
     "alias": "se-sto-010.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇸🇪"
   },
   {
@@ -4892,7 +4892,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.62",
     "alias": "se-sto-011.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇸🇪"
   },
   {
@@ -4910,7 +4910,7 @@
     "speed": 40,
     "socks_ip": "10.124.0.46",
     "alias": "se-sto-201.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇸🇪"
   },
   {
@@ -4928,7 +4928,7 @@
     "speed": 40,
     "socks_ip": "10.124.0.52",
     "alias": "se-sto-202.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇸🇪"
   },
   {
@@ -4946,7 +4946,7 @@
     "speed": 40,
     "socks_ip": "10.124.0.57",
     "alias": "se-sto-203.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇸🇪"
   },
   {
@@ -4964,7 +4964,7 @@
     "speed": 40,
     "socks_ip": "10.124.0.58",
     "alias": "se-sto-204.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇸🇪"
   },
   {
@@ -4982,7 +4982,7 @@
     "speed": 40,
     "socks_ip": "10.124.0.79",
     "alias": "se-sto-205.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇸🇪"
   },
   {
@@ -5000,7 +5000,7 @@
     "speed": 40,
     "socks_ip": "10.124.0.115",
     "alias": "se-sto-206.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇸🇪"
   },
   {
@@ -5018,7 +5018,7 @@
     "speed": 40,
     "socks_ip": "10.124.0.128",
     "alias": "se-sto-207.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇸🇪"
   },
   {
@@ -5036,7 +5036,7 @@
     "speed": 40,
     "socks_ip": "10.124.0.129",
     "alias": "se-sto-208.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇸🇪"
   },
   {
@@ -5054,7 +5054,7 @@
     "speed": 40,
     "socks_ip": "10.124.0.130",
     "alias": "se-sto-209.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇸🇪"
   },
   {
@@ -5072,7 +5072,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.241",
     "alias": "ch-zrh-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇨🇭"
   },
   {
@@ -5090,7 +5090,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.125",
     "alias": "ch-zrh-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇨🇭"
   },
   {
@@ -5108,7 +5108,7 @@
     "speed": 20,
     "socks_ip": "10.124.1.123",
     "alias": "ch-zrh-003.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇨🇭"
   },
   {
@@ -5126,7 +5126,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.124",
     "alias": "ch-zrh-004.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇨🇭"
   },
   {
@@ -5144,7 +5144,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.105",
     "alias": "ch-zrh-201.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇨🇭"
   },
   {
@@ -5162,7 +5162,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.106",
     "alias": "ch-zrh-202.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇨🇭"
   },
   {
@@ -5180,7 +5180,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.213",
     "alias": "ch-zrh-401.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇨🇭"
   },
   {
@@ -5198,7 +5198,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.214",
     "alias": "ch-zrh-402.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇨🇭"
   },
   {
@@ -5216,7 +5216,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.215",
     "alias": "ch-zrh-403.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇨🇭"
   },
   {
@@ -5234,7 +5234,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.216",
     "alias": "ch-zrh-404.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇨🇭"
   },
   {
@@ -5252,7 +5252,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.175",
     "alias": "ch-zrh-501.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇨🇭"
   },
   {
@@ -5270,7 +5270,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.176",
     "alias": "ch-zrh-502.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇨🇭"
   },
   {
@@ -5288,7 +5288,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.177",
     "alias": "ch-zrh-503.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇨🇭"
   },
   {
@@ -5306,7 +5306,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.180",
     "alias": "ch-zrh-504.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇨🇭"
   },
   {
@@ -5324,7 +5324,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.4",
     "alias": "th-bkk-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇹🇭"
   },
   {
@@ -5342,7 +5342,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.5",
     "alias": "th-bkk-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇹🇭"
   },
   {
@@ -5360,7 +5360,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.71",
     "alias": "tr-ist-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇹🇷"
   },
   {
@@ -5378,7 +5378,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.72",
     "alias": "tr-ist-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇹🇷"
   },
   {
@@ -5396,7 +5396,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.246",
     "alias": "gb-glw-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇬🇧"
   },
   {
@@ -5414,7 +5414,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.247",
     "alias": "gb-glw-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇬🇧"
   },
   {
@@ -5432,7 +5432,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.59",
     "alias": "gb-lon-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇬🇧"
   },
   {
@@ -5450,7 +5450,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.60",
     "alias": "gb-lon-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇬🇧"
   },
   {
@@ -5468,7 +5468,7 @@
     "speed": 20,
     "socks_ip": "10.124.1.16",
     "alias": "gb-lon-003.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇬🇧"
   },
   {
@@ -5486,7 +5486,7 @@
     "speed": 20,
     "socks_ip": "10.124.1.17",
     "alias": "gb-lon-004.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇬🇧"
   },
   {
@@ -5504,7 +5504,7 @@
     "speed": 20,
     "socks_ip": "10.124.1.18",
     "alias": "gb-lon-005.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇬🇧"
   },
   {
@@ -5522,7 +5522,7 @@
     "speed": 20,
     "socks_ip": "10.124.1.19",
     "alias": "gb-lon-006.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇬🇧"
   },
   {
@@ -5540,7 +5540,7 @@
     "speed": 20,
     "socks_ip": "10.124.1.28",
     "alias": "gb-lon-007.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇬🇧"
   },
   {
@@ -5558,7 +5558,7 @@
     "speed": 20,
     "socks_ip": "10.124.1.62",
     "alias": "gb-lon-008.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇬🇧"
   },
   {
@@ -5576,7 +5576,7 @@
     "speed": 100,
     "socks_ip": "10.124.1.186",
     "alias": "gb-lon-101.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇬🇧"
   },
   {
@@ -5594,7 +5594,7 @@
     "speed": 100,
     "socks_ip": "10.124.1.187",
     "alias": "gb-lon-102.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇬🇧"
   },
   {
@@ -5612,7 +5612,7 @@
     "speed": 100,
     "socks_ip": "10.124.1.188",
     "alias": "gb-lon-103.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇬🇧"
   },
   {
@@ -5630,7 +5630,7 @@
     "speed": 20,
     "socks_ip": "10.124.1.85",
     "alias": "gb-lon-305.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇬🇧"
   },
   {
@@ -5648,7 +5648,7 @@
     "speed": 20,
     "socks_ip": "10.124.1.86",
     "alias": "gb-lon-306.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇬🇧"
   },
   {
@@ -5666,7 +5666,7 @@
     "speed": 29,
     "socks_ip": "10.124.1.117",
     "alias": "gb-lon-308.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇬🇧"
   },
   {
@@ -5684,7 +5684,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.31",
     "alias": "gb-mnc-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇬🇧"
   },
   {
@@ -5702,7 +5702,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.32",
     "alias": "gb-mnc-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇬🇧"
   },
   {
@@ -5720,7 +5720,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.34",
     "alias": "gb-mnc-003.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇬🇧"
   },
   {
@@ -5738,7 +5738,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.88",
     "alias": "gb-mnc-004.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇬🇧"
   },
   {
@@ -5756,7 +5756,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.162",
     "alias": "gb-mnc-201.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇬🇧"
   },
   {
@@ -5774,7 +5774,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.163",
     "alias": "gb-mnc-202.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇬🇧"
   },
   {
@@ -5792,7 +5792,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.25",
     "alias": "ua-iev-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇦"
   },
   {
@@ -5810,7 +5810,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.195",
     "alias": "ua-iev-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇦"
   },
   {
@@ -5828,7 +5828,7 @@
     "speed": 10,
     "socks_ip": "10.124.2.22",
     "alias": "us-qas-101.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -5846,7 +5846,7 @@
     "speed": 10,
     "socks_ip": "10.124.2.23",
     "alias": "us-qas-102.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -5864,7 +5864,7 @@
     "speed": 10,
     "socks_ip": "10.124.2.24",
     "alias": "us-qas-103.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -5882,7 +5882,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.167",
     "alias": "us-qas-201.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -5900,7 +5900,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.169",
     "alias": "us-qas-203.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -5918,7 +5918,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.170",
     "alias": "us-qas-204.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -5936,7 +5936,7 @@
     "speed": 20,
     "socks_ip": "10.124.2.80",
     "alias": "us-qas-301.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -5954,7 +5954,7 @@
     "speed": 20,
     "socks_ip": "10.124.2.81",
     "alias": "us-qas-302.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -5972,7 +5972,7 @@
     "speed": 20,
     "socks_ip": "10.124.2.82",
     "alias": "us-qas-303.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -5990,7 +5990,7 @@
     "speed": 20,
     "socks_ip": "10.124.2.83",
     "alias": "us-qas-304.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6008,7 +6008,7 @@
     "speed": 20,
     "socks_ip": "10.124.2.84",
     "alias": "us-qas-305.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6026,7 +6026,7 @@
     "speed": 20,
     "socks_ip": "10.124.2.85",
     "alias": "us-qas-306.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6044,7 +6044,7 @@
     "speed": 20,
     "socks_ip": "10.124.2.86",
     "alias": "us-qas-307.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6062,7 +6062,7 @@
     "speed": 20,
     "socks_ip": "10.124.2.87",
     "alias": "us-qas-308.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6080,7 +6080,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.233",
     "alias": "us-atl-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6098,7 +6098,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.234",
     "alias": "us-atl-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6116,7 +6116,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.130",
     "alias": "us-atl-401.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6134,7 +6134,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.131",
     "alias": "us-atl-402.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6152,7 +6152,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.132",
     "alias": "us-atl-403.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6170,7 +6170,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.133",
     "alias": "us-atl-404.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6188,7 +6188,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.134",
     "alias": "us-atl-405.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6206,7 +6206,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.135",
     "alias": "us-atl-406.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6224,7 +6224,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.136",
     "alias": "us-atl-407.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6242,7 +6242,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.137",
     "alias": "us-atl-408.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6260,7 +6260,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.85",
     "alias": "us-bos-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6278,7 +6278,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.127",
     "alias": "us-bos-101.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6296,7 +6296,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.197",
     "alias": "us-bos-102.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6314,7 +6314,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.201",
     "alias": "us-chi-201.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6332,7 +6332,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.202",
     "alias": "us-chi-202.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6350,7 +6350,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.203",
     "alias": "us-chi-203.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6368,7 +6368,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.87",
     "alias": "us-chi-301.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6386,7 +6386,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.88",
     "alias": "us-chi-302.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6404,7 +6404,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.89",
     "alias": "us-chi-303.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6422,7 +6422,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.90",
     "alias": "us-chi-304.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6440,7 +6440,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.92",
     "alias": "us-chi-305.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6458,7 +6458,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.93",
     "alias": "us-chi-306.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6476,7 +6476,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.94",
     "alias": "us-chi-307.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6494,7 +6494,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.95",
     "alias": "us-chi-308.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6512,7 +6512,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.212",
     "alias": "us-chi-309.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6530,7 +6530,7 @@
     "speed": 20,
     "socks_ip": "10.124.1.230",
     "alias": "us-chi-310.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6548,7 +6548,7 @@
     "speed": 20,
     "socks_ip": "10.124.1.231",
     "alias": "us-chi-311.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6566,7 +6566,7 @@
     "speed": 20,
     "socks_ip": "10.124.1.232",
     "alias": "us-chi-312.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6584,7 +6584,7 @@
     "speed": 20,
     "socks_ip": "10.124.2.76",
     "alias": "us-chi-313.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6602,7 +6602,7 @@
     "speed": 20,
     "socks_ip": "10.124.2.77",
     "alias": "us-chi-314.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6620,7 +6620,7 @@
     "speed": 20,
     "socks_ip": "10.124.2.78",
     "alias": "us-chi-315.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6638,7 +6638,7 @@
     "speed": 20,
     "socks_ip": "10.124.2.79",
     "alias": "us-chi-316.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6656,7 +6656,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.27",
     "alias": "us-dal-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6674,7 +6674,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.43",
     "alias": "us-dal-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6692,7 +6692,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.44",
     "alias": "us-dal-003.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6710,7 +6710,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.226",
     "alias": "us-dal-401.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6728,7 +6728,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.225",
     "alias": "us-dal-402.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6746,7 +6746,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.224",
     "alias": "us-dal-403.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6764,7 +6764,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.171",
     "alias": "us-dal-601.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6782,7 +6782,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.172",
     "alias": "us-dal-602.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6800,7 +6800,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.173",
     "alias": "us-dal-603.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6818,7 +6818,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.174",
     "alias": "us-dal-604.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6836,7 +6836,7 @@
     "speed": 20,
     "socks_ip": "10.124.2.88",
     "alias": "us-dal-701.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6854,7 +6854,7 @@
     "speed": 20,
     "socks_ip": "10.124.2.89",
     "alias": "us-dal-702.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6872,7 +6872,7 @@
     "speed": 20,
     "socks_ip": "10.124.2.101",
     "alias": "us-dal-703.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6890,7 +6890,7 @@
     "speed": 20,
     "socks_ip": "10.124.2.102",
     "alias": "us-dal-704.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6908,7 +6908,7 @@
     "speed": 20,
     "socks_ip": "10.124.2.103",
     "alias": "us-dal-705.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6926,7 +6926,7 @@
     "speed": 20,
     "socks_ip": "10.124.2.105",
     "alias": "us-dal-706.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6944,7 +6944,7 @@
     "speed": 20,
     "socks_ip": "10.124.2.104",
     "alias": "us-dal-707.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6962,7 +6962,7 @@
     "speed": 20,
     "socks_ip": "10.124.2.106",
     "alias": "us-dal-708.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6980,7 +6980,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.196",
     "alias": "us-den-101.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -6998,7 +6998,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.197",
     "alias": "us-den-102.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7016,7 +7016,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.198",
     "alias": "us-den-103.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7034,7 +7034,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.147",
     "alias": "us-den-201.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7052,7 +7052,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.148",
     "alias": "us-den-202.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7070,7 +7070,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.149",
     "alias": "us-den-203.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7088,7 +7088,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.150",
     "alias": "us-den-204.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7106,7 +7106,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.151",
     "alias": "us-den-205.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7124,7 +7124,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.36",
     "alias": "us-den-206.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7142,7 +7142,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.37",
     "alias": "us-den-207.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7160,7 +7160,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.38",
     "alias": "us-den-208.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7178,7 +7178,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.16",
     "alias": "us-det-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7196,7 +7196,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.23",
     "alias": "us-det-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7214,7 +7214,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.205",
     "alias": "us-hou-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7232,7 +7232,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.193",
     "alias": "us-hou-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7250,7 +7250,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.194",
     "alias": "us-hou-003.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7268,7 +7268,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.195",
     "alias": "us-hou-004.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7286,7 +7286,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.86",
     "alias": "us-mkc-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7304,7 +7304,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.153",
     "alias": "us-mkc-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7322,7 +7322,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.157",
     "alias": "us-mkc-003.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7340,7 +7340,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.158",
     "alias": "us-mkc-004.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7358,7 +7358,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.162",
     "alias": "us-mkc-005.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7376,7 +7376,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.163",
     "alias": "us-mkc-006.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7394,7 +7394,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.164",
     "alias": "us-mkc-007.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7412,7 +7412,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.165",
     "alias": "us-mkc-008.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7430,7 +7430,7 @@
     "speed": 10,
     "socks_ip": "10.124.2.61",
     "alias": "us-mkc-101.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7448,7 +7448,7 @@
     "speed": 10,
     "socks_ip": "10.124.2.62",
     "alias": "us-mkc-102.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7466,7 +7466,7 @@
     "speed": 10,
     "socks_ip": "10.124.2.63",
     "alias": "us-mkc-103.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7484,7 +7484,7 @@
     "speed": 10,
     "socks_ip": "10.124.2.64",
     "alias": "us-mkc-104.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7502,7 +7502,7 @@
     "speed": 10,
     "socks_ip": "10.124.2.65",
     "alias": "us-mkc-105.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7520,7 +7520,7 @@
     "speed": 20,
     "socks_ip": "10.124.1.243",
     "alias": "us-lax-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7538,7 +7538,7 @@
     "speed": 20,
     "socks_ip": "10.124.2.108",
     "alias": "us-lax-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7556,7 +7556,7 @@
     "speed": 20,
     "socks_ip": "10.124.2.109",
     "alias": "us-lax-003.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7574,7 +7574,7 @@
     "speed": 20,
     "socks_ip": "10.124.2.110",
     "alias": "us-lax-004.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7592,7 +7592,7 @@
     "speed": 20,
     "socks_ip": "10.124.2.111",
     "alias": "us-lax-005.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7610,7 +7610,7 @@
     "speed": 20,
     "socks_ip": "10.124.2.112",
     "alias": "us-lax-006.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7628,7 +7628,7 @@
     "speed": 20,
     "socks_ip": "10.124.2.113",
     "alias": "us-lax-007.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7646,7 +7646,7 @@
     "speed": 20,
     "socks_ip": "10.124.2.114",
     "alias": "us-lax-008.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7664,7 +7664,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.83",
     "alias": "us-lax-201.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7682,7 +7682,7 @@
     "speed": 10,
     "socks_ip": "10.124.2.29",
     "alias": "us-lax-202.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7700,7 +7700,7 @@
     "speed": 10,
     "socks_ip": "10.124.2.30",
     "alias": "us-lax-203.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7718,7 +7718,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.101",
     "alias": "us-lax-401.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7736,7 +7736,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.179",
     "alias": "us-lax-402.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7754,7 +7754,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.196",
     "alias": "us-lax-403.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7772,7 +7772,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.222",
     "alias": "us-lax-404.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7790,7 +7790,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.239",
     "alias": "us-lax-405.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7808,7 +7808,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.24",
     "alias": "us-lax-406.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7826,7 +7826,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.22",
     "alias": "us-lax-601.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7844,7 +7844,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.24",
     "alias": "us-lax-602.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7862,7 +7862,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.26",
     "alias": "us-lax-603.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7880,7 +7880,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.207",
     "alias": "us-lax-604.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7898,7 +7898,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.208",
     "alias": "us-lax-605.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7916,7 +7916,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.209",
     "alias": "us-lax-606.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7934,7 +7934,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.128",
     "alias": "us-lax-607.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7952,7 +7952,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.129",
     "alias": "us-lax-608.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7970,7 +7970,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.175",
     "alias": "us-lax-701.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -7988,7 +7988,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.181",
     "alias": "us-lax-702.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8006,7 +8006,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.176",
     "alias": "us-lax-703.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8024,7 +8024,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.182",
     "alias": "us-lax-704.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8042,7 +8042,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.250",
     "alias": "us-txc-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8060,7 +8060,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.251",
     "alias": "us-txc-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8078,7 +8078,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.204",
     "alias": "us-mia-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8096,7 +8096,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.200",
     "alias": "us-mia-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8114,7 +8114,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.199",
     "alias": "us-mia-003.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8132,7 +8132,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.14",
     "alias": "us-mia-101.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8150,7 +8150,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.82",
     "alias": "us-mia-102.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8168,7 +8168,7 @@
     "speed": 20,
     "socks_ip": "10.124.0.89",
     "alias": "us-mia-103.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8186,7 +8186,7 @@
     "speed": 100,
     "socks_ip": "10.124.0.132",
     "alias": "us-nyc-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8204,7 +8204,7 @@
     "speed": 100,
     "socks_ip": "10.124.0.133",
     "alias": "us-nyc-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8222,7 +8222,7 @@
     "speed": 100,
     "socks_ip": "10.124.0.134",
     "alias": "us-nyc-003.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8240,7 +8240,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.190",
     "alias": "us-nyc-301.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8258,7 +8258,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.191",
     "alias": "us-nyc-302.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8276,7 +8276,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.192",
     "alias": "us-nyc-303.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8294,7 +8294,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.72",
     "alias": "us-nyc-501.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8312,7 +8312,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.75",
     "alias": "us-nyc-502.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8330,7 +8330,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.87",
     "alias": "us-nyc-504.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8348,7 +8348,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.90",
     "alias": "us-nyc-505.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8366,7 +8366,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.213",
     "alias": "us-nyc-506.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8384,7 +8384,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.167",
     "alias": "us-nyc-601.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8402,7 +8402,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.187",
     "alias": "us-nyc-602.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8420,7 +8420,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.45",
     "alias": "us-nyc-603.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8438,7 +8438,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.46",
     "alias": "us-nyc-604.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8456,7 +8456,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.47",
     "alias": "us-nyc-605.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8474,7 +8474,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.235",
     "alias": "us-nyc-606.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8492,7 +8492,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.170",
     "alias": "us-nyc-801.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8510,7 +8510,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.184",
     "alias": "us-nyc-802.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8528,7 +8528,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.188",
     "alias": "us-nyc-803.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8546,7 +8546,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.193",
     "alias": "us-nyc-804.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8564,7 +8564,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.242",
     "alias": "us-nyc-805.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8582,7 +8582,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.29",
     "alias": "us-nyc-806.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8600,7 +8600,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.165",
     "alias": "us-nyc-807.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8618,7 +8618,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.166",
     "alias": "us-nyc-808.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8636,7 +8636,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.146",
     "alias": "us-phx-201.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8654,7 +8654,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.147",
     "alias": "us-phx-202.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8672,7 +8672,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.148",
     "alias": "us-phx-203.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8690,7 +8690,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.149",
     "alias": "us-phx-204.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8708,7 +8708,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.150",
     "alias": "us-phx-205.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8726,7 +8726,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.151",
     "alias": "us-phx-206.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8744,7 +8744,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.152",
     "alias": "us-phx-207.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8762,7 +8762,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.153",
     "alias": "us-phx-208.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8780,7 +8780,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.41",
     "alias": "us-rag-201.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8798,7 +8798,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.42",
     "alias": "us-rag-202.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8816,7 +8816,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.43",
     "alias": "us-rag-203.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8834,7 +8834,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.44",
     "alias": "us-rag-204.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8852,7 +8852,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.96",
     "alias": "us-rag-205.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8870,7 +8870,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.97",
     "alias": "us-rag-206.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8888,7 +8888,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.98",
     "alias": "us-rag-207.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8906,7 +8906,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.138",
     "alias": "us-slc-301.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8924,7 +8924,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.139",
     "alias": "us-slc-302.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8942,7 +8942,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.140",
     "alias": "us-slc-303.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8960,7 +8960,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.141",
     "alias": "us-slc-304.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8978,7 +8978,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.142",
     "alias": "us-slc-305.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -8996,7 +8996,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.143",
     "alias": "us-slc-306.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -9014,7 +9014,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.144",
     "alias": "us-slc-307.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -9032,7 +9032,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.145",
     "alias": "us-slc-308.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -9050,7 +9050,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.14",
     "alias": "us-sfo-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -9068,7 +9068,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.15",
     "alias": "us-sfo-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -9086,7 +9086,7 @@
     "speed": 100,
     "socks_ip": "10.124.0.107",
     "alias": "us-sjc-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -9104,7 +9104,7 @@
     "speed": 100,
     "socks_ip": "10.124.0.160",
     "alias": "us-sjc-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -9122,7 +9122,7 @@
     "speed": 100,
     "socks_ip": "10.124.0.161",
     "alias": "us-sjc-003.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -9140,7 +9140,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.6",
     "alias": "us-sjc-401.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -9158,7 +9158,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.7",
     "alias": "us-sjc-402.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -9176,7 +9176,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.154",
     "alias": "us-sjc-501.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -9194,7 +9194,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.155",
     "alias": "us-sjc-502.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -9212,7 +9212,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.156",
     "alias": "us-sjc-503.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -9230,7 +9230,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.157",
     "alias": "us-sjc-504.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -9248,7 +9248,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.158",
     "alias": "us-sjc-505.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -9266,7 +9266,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.159",
     "alias": "us-sjc-506.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -9284,7 +9284,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.160",
     "alias": "us-sjc-507.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -9302,7 +9302,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.161",
     "alias": "us-sjc-508.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -9320,7 +9320,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.229",
     "alias": "us-sea-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -9338,7 +9338,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.228",
     "alias": "us-sea-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -9356,7 +9356,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.227",
     "alias": "us-sea-003.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -9374,7 +9374,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.100",
     "alias": "us-sea-401.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -9392,7 +9392,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.101",
     "alias": "us-sea-402.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -9410,7 +9410,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.102",
     "alias": "us-sea-403.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -9428,7 +9428,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.103",
     "alias": "us-sea-404.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -9446,7 +9446,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.104",
     "alias": "us-sea-405.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -9464,7 +9464,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.105",
     "alias": "us-sea-406.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -9482,7 +9482,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.106",
     "alias": "us-sea-407.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -9500,7 +9500,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.107",
     "alias": "us-sea-408.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -9518,7 +9518,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.29",
     "alias": "us-uyk-201.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -9536,7 +9536,7 @@
     "speed": 10,
     "socks_ip": "10.124.0.169",
     "alias": "us-uyk-202.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -9554,7 +9554,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.108",
     "alias": "us-was-001.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   },
   {
@@ -9572,7 +9572,7 @@
     "speed": 10,
     "socks_ip": "10.124.1.109",
     "alias": "us-was-002.mullvad.home",
-    "reachable": true,
+    "reachable": null,
     "flag": "🇺🇸"
   }
 ]

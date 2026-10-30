@@ -1,6 +1,6 @@
 # Mullvad SOCKS5 proxy lists
 
-Built 2026-10-28 12:33 UTC by [derlocke-ng/mullvad-socks5](https://github.com/derlocke-ng/mullvad-socks5) — **532 proxies** in 50 countries, each answered a SOCKS5 greeting through a Mullvad tunnel.
+Built 2026-10-30 12:34 UTC by [derlocke-ng/mullvad-socks5](https://github.com/derlocke-ng/mullvad-socks5) — **532 proxies** in 50 countries, taken from Mullvad's active relays (reachability not checked).
 
 The proxies are reachable only through a Mullvad VPN connection.
 
