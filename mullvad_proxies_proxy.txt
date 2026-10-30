@@ -253,7 +253,6 @@ socks5://10.124.1.60:1080?title=se-got-wg-socks5-007&cc=SE&city=Gothenburg&color
 socks5://10.124.1.185:1080?title=se-got-wg-socks5-101&cc=SE&city=Gothenburg&color=59d22d&proxyDNS=true
 socks5://10.124.0.2:1080?title=se-mma-wg-socks5-001&cc=SE&city=Malm%C3%B6&color=59d22d&proxyDNS=true
 socks5://10.124.0.183:1080?title=se-mma-wg-socks5-002&cc=SE&city=Malm%C3%B6&color=59d22d&proxyDNS=true
-socks5://10.124.0.186:1080?title=se-mma-wg-socks5-003&cc=SE&city=Malm%C3%B6&color=59d22d&proxyDNS=true
 socks5://10.124.0.28:1080?title=se-mma-wg-socks5-004&cc=SE&city=Malm%C3%B6&color=59d22d&proxyDNS=true
 socks5://10.124.0.185:1080?title=se-mma-wg-socks5-005&cc=SE&city=Malm%C3%B6&color=59d22d&proxyDNS=true
 socks5://10.124.0.18:1080?title=se-mma-wg-socks5-011&cc=SE&city=Malm%C3%B6&color=59d22d&proxyDNS=true
@@ -265,7 +264,6 @@ socks5://10.124.1.77:1080?title=se-mma-wg-socks5-112&cc=SE&city=Malm%C3%B6&color
 socks5://10.124.1.184:1080?title=se-sto-wg-socks5-001&cc=SE&city=Stockholm&color=59d22d&proxyDNS=true
 socks5://10.124.0.11:1080?title=se-sto-wg-socks5-002&cc=SE&city=Stockholm&color=59d22d&proxyDNS=true
 socks5://10.124.2.48:1080?title=se-sto-wg-socks5-003&cc=SE&city=Stockholm&color=59d22d&proxyDNS=true
-socks5://10.124.0.172:1080?title=se-sto-wg-socks5-007&cc=SE&city=Stockholm&color=59d22d&proxyDNS=true
 socks5://10.124.0.173:1080?title=se-sto-wg-socks5-008&cc=SE&city=Stockholm&color=59d22d&proxyDNS=true
 socks5://10.124.0.50:1080?title=se-sto-wg-socks5-009&cc=SE&city=Stockholm&color=59d22d&proxyDNS=true
 socks5://10.124.0.61:1080?title=se-sto-wg-socks5-010&cc=SE&city=Stockholm&color=59d22d&proxyDNS=true

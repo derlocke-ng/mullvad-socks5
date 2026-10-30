@@ -1,4 +1,4 @@
-Mullvad SOCKS5 proxies: 532 (active relays, resolved names)
+Mullvad SOCKS5 proxies: 530 (active relays, resolved names)
 Reachable only through a Mullvad VPN connection.
 
 flag  country         city                socks5        port  hostname                                 relay          ipv4_in          ipv6_in                    speed  owned  provider
@@ -257,7 +257,6 @@ flag  country         city                socks5        port  hostname          
 🇸🇪    Sweden          Gothenburg          10.124.1.185  1080  se-got-wg-socks5-101.relays.mullvad.net  se-got-wg-101  185.213.154.70   2a03:1b20:5:f011::aaaf     10     yes    31173
 🇸🇪    Sweden          Malmö               10.124.0.2    1080  se-mma-wg-socks5-001.relays.mullvad.net  se-mma-wg-001  193.138.218.220  2a03:1b20:1:f410::fa01     20     yes    31173
 🇸🇪    Sweden          Malmö               10.124.0.183  1080  se-mma-wg-socks5-002.relays.mullvad.net  se-mma-wg-002  193.138.218.80   2a03:1b20:1:f410::a15f     10     yes    31173
-🇸🇪    Sweden          Malmö               10.124.0.186  1080  se-mma-wg-socks5-003.relays.mullvad.net  se-mma-wg-003  193.138.218.83   2a03:1b20:1:f410::a18f     10     yes    31173
 🇸🇪    Sweden          Malmö               10.124.0.28   1080  se-mma-wg-socks5-004.relays.mullvad.net  se-mma-wg-004  193.138.218.130  2a03:1b20:1:f410:40::a04f  20     yes    31173
 🇸🇪    Sweden          Malmö               10.124.0.185  1080  se-mma-wg-socks5-005.relays.mullvad.net  se-mma-wg-005  193.138.218.82   2a03:1b20:1:f410::a17f     10     yes    31173
 🇸🇪    Sweden          Malmö               10.124.0.18   1080  se-mma-wg-socks5-011.relays.mullvad.net  se-mma-wg-011  141.98.255.94    2a03:1b20:1:f410::f101     10     yes    31173
@@ -269,7 +268,6 @@ flag  country         city                socks5        port  hostname          
 🇸🇪    Sweden          Stockholm           10.124.1.184  1080  se-sto-wg-socks5-001.relays.mullvad.net  se-sto-wg-001  185.195.233.76   2a03:1b20:4:f011::999f     20     yes    31173
 🇸🇪    Sweden          Stockholm           10.124.0.11   1080  se-sto-wg-socks5-002.relays.mullvad.net  se-sto-wg-002  185.65.135.67    2a03:1b20:4:f011::a02f     20     yes    31173
 🇸🇪    Sweden          Stockholm           10.124.2.48   1080  se-sto-wg-socks5-003.relays.mullvad.net  se-sto-wg-003  185.65.135.68    2a03:1b20:4:f011::f201     20     yes    31173
-🇸🇪    Sweden          Stockholm           10.124.0.172  1080  se-sto-wg-socks5-007.relays.mullvad.net  se-sto-wg-007  185.65.135.70    2a03:1b20:4:f011::b07f     20     yes    31173
 🇸🇪    Sweden          Stockholm           10.124.0.173  1080  se-sto-wg-socks5-008.relays.mullvad.net  se-sto-wg-008  185.65.135.71    2a03:1b20:4:f011::f701     20     yes    31173
 🇸🇪    Sweden          Stockholm           10.124.0.50   1080  se-sto-wg-socks5-009.relays.mullvad.net  se-sto-wg-009  185.195.233.69   2a03:1b20:4:f011::a09f     20     yes    31173
 🇸🇪    Sweden          Stockholm           10.124.0.61   1080  se-sto-wg-socks5-010.relays.mullvad.net  se-sto-wg-010  185.195.233.70   2a03:1b20:4:f011::a10f     20     yes    31173
