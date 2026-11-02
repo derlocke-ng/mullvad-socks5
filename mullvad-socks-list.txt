@@ -1,4 +1,4 @@
-Mullvad SOCKS5 proxies: 524 (active relays, resolved names)
+Mullvad SOCKS5 proxies: 523 (active relays, resolved names)
 Reachable only through a Mullvad VPN connection.
 
 flag  country         city                socks5        port  hostname                                 relay          ipv4_in          ipv6_in                    speed  owned  provider
@@ -189,7 +189,6 @@ flag  country         city                socks5        port  hostname          
 🇳🇱    Netherlands     Amsterdam           10.124.0.244  1080  nl-ams-wg-socks5-301.relays.mullvad.net  nl-ams-wg-301  185.184.222.3    2a07:d883:700:1::f001      100    yes    xtom
 🇳🇱    Netherlands     Amsterdam           10.124.0.245  1080  nl-ams-wg-socks5-302.relays.mullvad.net  nl-ams-wg-302  185.184.222.166  2a07:d883:700:2::f001      100    yes    xtom
 🇳🇱    Netherlands     Amsterdam           10.124.1.121  1080  nl-ams-wg-socks5-303.relays.mullvad.net  nl-ams-wg-303  185.184.222.209  2a07:d883:700:3::f001      100    yes    xtom
-🇳🇱    Netherlands     Amsterdam           10.124.1.48   1080  nl-ams-wg-socks5-402.relays.mullvad.net  nl-ams-wg-402  62.101.160.3     2a06:3040:31:601::f101     100    no     HostRoyale
 🇳🇿    New Zealand     Auckland            10.124.0.218  1080  nz-akl-wg-socks5-301.relays.mullvad.net  nz-akl-wg-301  103.75.11.50     2404:f780:5:deb::f001      10     no     hostuniversal
 🇳🇿    New Zealand     Auckland            10.124.0.219  1080  nz-akl-wg-socks5-302.relays.mullvad.net  nz-akl-wg-302  103.75.11.66     2404:f780:5:dec::c02f      10     no     hostuniversal
 🇳🇿    New Zealand     Auckland            10.124.0.5    1080  nz-akl-wg-socks5-303.relays.mullvad.net  nz-akl-wg-303  103.75.11.98     2404:f780:5:def::f201      10     no     hostuniversal

@@ -3366,24 +3366,6 @@
     "flag": "🇳🇱"
   },
   {
-    "relay": "nl-ams-wg-402",
-    "socks_name": "nl-ams-wg-socks5-402.relays.mullvad.net",
-    "socks_port": 1080,
-    "country_code": "NL",
-    "country_name": "Netherlands",
-    "city_code": "ams",
-    "city_name": "Amsterdam",
-    "ipv4_addr_in": "62.101.160.3",
-    "ipv6_addr_in": "2a06:3040:31:601::f101",
-    "provider": "HostRoyale",
-    "owned": false,
-    "speed": 100,
-    "socks_ip": "10.124.1.48",
-    "alias": "nl-ams-402.mullvad.home",
-    "reachable": null,
-    "flag": "🇳🇱"
-  },
-  {
     "relay": "nz-akl-wg-301",
     "socks_name": "nz-akl-wg-socks5-301.relays.mullvad.net",
     "socks_port": 1080,
