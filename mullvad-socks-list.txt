@@ -1,4 +1,4 @@
-Mullvad SOCKS5 proxies: 526 (active relays, resolved names)
+Mullvad SOCKS5 proxies: 524 (active relays, resolved names)
 Reachable only through a Mullvad VPN connection.
 
 flag  country         city                socks5        port  hostname                                 relay          ipv4_in          ipv6_in                    speed  owned  provider
@@ -216,7 +216,6 @@ flag  country         city                socks5        port  hostname          
 🇵🇱    Poland          Warsaw              10.124.2.46   1080  pl-waw-wg-socks5-202.relays.mullvad.net  pl-waw-wg-202  146.70.144.34    2a0d:5600:13:c47::a02f     10     no     M247
 🇵🇹    Portugal        Lisbon              10.124.0.198  1080  pt-lis-wg-socks5-201.relays.mullvad.net  pt-lis-wg-201  149.88.20.206    2a02:6ea0:fb01:1::f001     10     no     DataPacket
 🇵🇹    Portugal        Lisbon              10.124.0.199  1080  pt-lis-wg-socks5-202.relays.mullvad.net  pt-lis-wg-202  149.88.20.193    2a02:6ea0:fb01:2::f002     10     no     DataPacket
-🇵🇹    Portugal        Lisbon              10.124.1.75   1080  pt-lis-wg-socks5-301.relays.mullvad.net  pt-lis-wg-301  185.92.210.195   2a06:3040:0:1410::f001     10     no     HostRoyale
 🇷🇴    Romania         Bucharest           10.124.1.25   1080  ro-buh-wg-socks5-011.relays.mullvad.net  ro-buh-wg-011  37.120.246.130   2a04:9dc0:0:136::f001      20     no     M247
 🇷🇴    Romania         Bucharest           10.124.1.27   1080  ro-buh-wg-socks5-012.relays.mullvad.net  ro-buh-wg-012  135.136.63.2     2a04:9dc0:0:135::f001      20     no     M247
 🇷🇴    Romania         Bucharest           10.124.2.9    1080  ro-buh-wg-socks5-013.relays.mullvad.net  ro-buh-wg-013  135.136.63.130   2a04:9dc0:0:134::f001      20     no     M247
@@ -461,7 +460,6 @@ flag  country         city                socks5        port  hostname          
 🇺🇸    USA             New York, NY        10.124.0.87   1080  us-nyc-wg-socks5-504.relays.mullvad.net  us-nyc-wg-504  146.70.166.130   2a0d:5600:24:2c2::f001     10     no     M247
 🇺🇸    USA             New York, NY        10.124.0.90   1080  us-nyc-wg-socks5-505.relays.mullvad.net  us-nyc-wg-505  146.70.166.194   2a0d:5600:24:2c3::f001     10     no     M247
 🇺🇸    USA             New York, NY        10.124.0.213  1080  us-nyc-wg-socks5-506.relays.mullvad.net  us-nyc-wg-506  146.70.165.66    2a0d:5600:24:2b7::f001     10     no     M247
-🇺🇸    USA             New York, NY        10.124.0.167  1080  us-nyc-wg-socks5-601.relays.mullvad.net  us-nyc-wg-601  146.70.185.2     2a0d:5600:24:136a::f001    10     no     M247
 🇺🇸    USA             New York, NY        10.124.0.187  1080  us-nyc-wg-socks5-602.relays.mullvad.net  us-nyc-wg-602  146.70.168.130   2a0d:5600:24:1378::f001    10     no     M247
 🇺🇸    USA             New York, NY        10.124.1.45   1080  us-nyc-wg-socks5-603.relays.mullvad.net  us-nyc-wg-603  146.70.168.66    2a0d:5600:24:1377::f001    10     no     M247
 🇺🇸    USA             New York, NY        10.124.1.46   1080  us-nyc-wg-socks5-604.relays.mullvad.net  us-nyc-wg-604  146.70.171.66    2a0d:5600:24:1372::f001    10     no     M247
