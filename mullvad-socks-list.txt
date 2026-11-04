@@ -1,4 +1,4 @@
-Mullvad SOCKS5 proxies: 523 (active relays, resolved names)
+Mullvad SOCKS5 proxies: 528 (active relays, resolved names)
 Reachable only through a Mullvad VPN connection.
 
 flag  country         city                socks5        port  hostname                                 relay          ipv4_in          ipv6_in                    speed  owned  provider
@@ -81,6 +81,7 @@ flag  country         city                socks5        port  hostname          
 🇭🇷    Croatia         Zagreb              10.124.0.35   1080  hr-zag-wg-socks5-001.relays.mullvad.net  hr-zag-wg-001  154.47.29.2      2a02:6ea0:f401:1::a01f     10     no     DataPacket
 🇭🇷    Croatia         Zagreb              10.124.0.74   1080  hr-zag-wg-socks5-002.relays.mullvad.net  hr-zag-wg-002  154.47.29.15     2a02:6ea0:f401:2::a01f     10     no     DataPacket
 🇨🇾    Cyprus          Nicosia             10.124.1.83   1080  cy-nic-wg-socks5-001.relays.mullvad.net  cy-nic-wg-001  195.47.194.131   2a06:3040:f:601::f001      10     no     HostRoyale
+🇨🇾    Cyprus          Nicosia             10.124.1.84   1080  cy-nic-wg-socks5-002.relays.mullvad.net  cy-nic-wg-002  195.47.194.161   2a06:3040:f:601::f101      10     no     HostRoyale
 🇨🇿    Czech Republic  Prague              10.124.0.77   1080  cz-prg-wg-socks5-101.relays.mullvad.net  cz-prg-wg-101  135.136.123.130  2001:ac8:33:e::f001        20     no     M247
 🇨🇿    Czech Republic  Prague              10.124.0.48   1080  cz-prg-wg-socks5-103.relays.mullvad.net  cz-prg-wg-103  135.136.123.2    2001:ac8:33:d::f001        20     no     M247
 🇨🇿    Czech Republic  Prague              10.124.2.57   1080  cz-prg-wg-socks5-201.relays.mullvad.net  cz-prg-wg-201  178.249.209.162  2a02:6ea0:c201:1::f001     10     no     DataPacket
@@ -93,6 +94,7 @@ flag  country         city                socks5        port  hostname          
 🇪🇪    Estonia         Tallinn             10.124.1.249  1080  ee-tll-wg-socks5-101.relays.mullvad.net  ee-tll-wg-101  213.232.112.3    2a07:d883:704:1::f001      100    yes    xtom
 🇪🇪    Estonia         Tallinn             10.124.2.6    1080  ee-tll-wg-socks5-102.relays.mullvad.net  ee-tll-wg-102  213.232.112.166  2a07:d883:704:2::f001      100    yes    xtom
 🇪🇪    Estonia         Tallinn             10.124.2.7    1080  ee-tll-wg-socks5-103.relays.mullvad.net  ee-tll-wg-103  213.232.112.209  2a07:d883:704:3::f001      100    yes    xtom
+🇫🇮    Finland         Helsinki            10.124.0.21   1080  fi-hel-wg-socks5-001.relays.mullvad.net  fi-hel-wg-001  185.204.1.203    2a0c:f040:0:2790::a01f     10     yes    Creanova
 🇫🇮    Finland         Helsinki            10.124.0.111  1080  fi-hel-wg-socks5-002.relays.mullvad.net  fi-hel-wg-002  185.204.1.211    2a0c:f040:0:2790::a02f     10     yes    Creanova
 🇫🇮    Finland         Helsinki            10.124.0.112  1080  fi-hel-wg-socks5-003.relays.mullvad.net  fi-hel-wg-003  185.204.1.219    2a0c:f040:0:2790::a03f     10     yes    Creanova
 🇫🇮    Finland         Helsinki            10.124.2.53   1080  fi-hel-wg-socks5-101.relays.mullvad.net  fi-hel-wg-101  193.138.7.137    2a02:ed04:3581:1::f001     10     yes    Blix
@@ -189,6 +191,7 @@ flag  country         city                socks5        port  hostname          
 🇳🇱    Netherlands     Amsterdam           10.124.0.244  1080  nl-ams-wg-socks5-301.relays.mullvad.net  nl-ams-wg-301  185.184.222.3    2a07:d883:700:1::f001      100    yes    xtom
 🇳🇱    Netherlands     Amsterdam           10.124.0.245  1080  nl-ams-wg-socks5-302.relays.mullvad.net  nl-ams-wg-302  185.184.222.166  2a07:d883:700:2::f001      100    yes    xtom
 🇳🇱    Netherlands     Amsterdam           10.124.1.121  1080  nl-ams-wg-socks5-303.relays.mullvad.net  nl-ams-wg-303  185.184.222.209  2a07:d883:700:3::f001      100    yes    xtom
+🇳🇱    Netherlands     Amsterdam           10.124.1.48   1080  nl-ams-wg-socks5-402.relays.mullvad.net  nl-ams-wg-402  62.101.160.3     2a06:3040:31:601::f101     100    no     HostRoyale
 🇳🇿    New Zealand     Auckland            10.124.0.218  1080  nz-akl-wg-socks5-301.relays.mullvad.net  nz-akl-wg-301  103.75.11.50     2404:f780:5:deb::f001      10     no     hostuniversal
 🇳🇿    New Zealand     Auckland            10.124.0.219  1080  nz-akl-wg-socks5-302.relays.mullvad.net  nz-akl-wg-302  103.75.11.66     2404:f780:5:dec::c02f      10     no     hostuniversal
 🇳🇿    New Zealand     Auckland            10.124.0.5    1080  nz-akl-wg-socks5-303.relays.mullvad.net  nz-akl-wg-303  103.75.11.98     2404:f780:5:def::f201      10     no     hostuniversal
@@ -215,6 +218,7 @@ flag  country         city                socks5        port  hostname          
 🇵🇱    Poland          Warsaw              10.124.2.46   1080  pl-waw-wg-socks5-202.relays.mullvad.net  pl-waw-wg-202  146.70.144.34    2a0d:5600:13:c47::a02f     10     no     M247
 🇵🇹    Portugal        Lisbon              10.124.0.198  1080  pt-lis-wg-socks5-201.relays.mullvad.net  pt-lis-wg-201  149.88.20.206    2a02:6ea0:fb01:1::f001     10     no     DataPacket
 🇵🇹    Portugal        Lisbon              10.124.0.199  1080  pt-lis-wg-socks5-202.relays.mullvad.net  pt-lis-wg-202  149.88.20.193    2a02:6ea0:fb01:2::f002     10     no     DataPacket
+🇵🇹    Portugal        Lisbon              10.124.1.75   1080  pt-lis-wg-socks5-301.relays.mullvad.net  pt-lis-wg-301  185.92.210.195   2a06:3040:0:1410::f001     10     no     HostRoyale
 🇷🇴    Romania         Bucharest           10.124.1.25   1080  ro-buh-wg-socks5-011.relays.mullvad.net  ro-buh-wg-011  37.120.246.130   2a04:9dc0:0:136::f001      20     no     M247
 🇷🇴    Romania         Bucharest           10.124.1.27   1080  ro-buh-wg-socks5-012.relays.mullvad.net  ro-buh-wg-012  135.136.63.2     2a04:9dc0:0:135::f001      20     no     M247
 🇷🇴    Romania         Bucharest           10.124.2.9    1080  ro-buh-wg-socks5-013.relays.mullvad.net  ro-buh-wg-013  135.136.63.130   2a04:9dc0:0:134::f001      20     no     M247
@@ -234,6 +238,7 @@ flag  country         city                socks5        port  hostname          
 🇿🇦    South Africa    Johannesburg        10.124.2.60   1080  za-jnb-wg-socks5-002.relays.mullvad.net  za-jnb-wg-002  154.47.30.143    2a02:6ea0:f207::f001       10     no     DataPacket
 🇪🇸    Spain           Barcelona           10.124.0.252  1080  es-bcn-wg-socks5-001.relays.mullvad.net  es-bcn-wg-001  185.188.61.195   2a06:3040:2:210::f001      10     no     HostRoyale
 🇪🇸    Spain           Barcelona           10.124.0.253  1080  es-bcn-wg-socks5-002.relays.mullvad.net  es-bcn-wg-002  185.188.61.225   2a06:3040:2:210::f101      10     no     HostRoyale
+🇪🇸    Spain           Barcelona           10.124.1.69   1080  es-bcn-wg-socks5-101.relays.mullvad.net  es-bcn-wg-101  185.253.99.30    2001:ac8:17:20::f001       10     no     M247
 🇪🇸    Spain           Barcelona           10.124.1.70   1080  es-bcn-wg-socks5-102.relays.mullvad.net  es-bcn-wg-102  185.253.99.98    2001:ac8:17:20::f101       10     no     M247
 🇪🇸    Spain           Madrid              10.124.1.223  1080  es-mad-wg-socks5-101.relays.mullvad.net  es-mad-wg-101  45.134.213.194   2a02:6ea0:c318:1::a06f     10     no     DataPacket
 🇪🇸    Spain           Madrid              10.124.1.222  1080  es-mad-wg-socks5-102.relays.mullvad.net  es-mad-wg-102  45.134.213.207   2a02:6ea0:c318:2::a07f     10     no     DataPacket

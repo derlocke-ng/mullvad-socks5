@@ -77,6 +77,7 @@ socks5://co-bog-wg-socks5-002.relays.mullvad.net:1080?title=co-bog-wg-socks5-002
 socks5://hr-zag-wg-socks5-001.relays.mullvad.net:1080?title=hr-zag-wg-socks5-001&cc=HR&city=Zagreb&color=d2382d&proxyDNS=true
 socks5://hr-zag-wg-socks5-002.relays.mullvad.net:1080?title=hr-zag-wg-socks5-002&cc=HR&city=Zagreb&color=d2382d&proxyDNS=true
 socks5://cy-nic-wg-socks5-001.relays.mullvad.net:1080?title=cy-nic-wg-socks5-001&cc=CY&city=Nicosia&color=d24a2d&proxyDNS=true
+socks5://cy-nic-wg-socks5-002.relays.mullvad.net:1080?title=cy-nic-wg-socks5-002&cc=CY&city=Nicosia&color=d24a2d&proxyDNS=true
 socks5://cz-prg-wg-socks5-101.relays.mullvad.net:1080?title=cz-prg-wg-socks5-101&cc=CZ&city=Prague&color=2dd27a&proxyDNS=true
 socks5://cz-prg-wg-socks5-103.relays.mullvad.net:1080?title=cz-prg-wg-socks5-103&cc=CZ&city=Prague&color=2dd27a&proxyDNS=true
 socks5://cz-prg-wg-socks5-201.relays.mullvad.net:1080?title=cz-prg-wg-socks5-201&cc=CZ&city=Prague&color=2dd27a&proxyDNS=true
@@ -89,6 +90,7 @@ socks5://dk-cph-wg-socks5-402.relays.mullvad.net:1080?title=dk-cph-wg-socks5-402
 socks5://ee-tll-wg-socks5-101.relays.mullvad.net:1080?title=ee-tll-wg-socks5-101&cc=EE&city=Tallinn&color=7dd22d&proxyDNS=true
 socks5://ee-tll-wg-socks5-102.relays.mullvad.net:1080?title=ee-tll-wg-socks5-102&cc=EE&city=Tallinn&color=7dd22d&proxyDNS=true
 socks5://ee-tll-wg-socks5-103.relays.mullvad.net:1080?title=ee-tll-wg-socks5-103&cc=EE&city=Tallinn&color=7dd22d&proxyDNS=true
+socks5://fi-hel-wg-socks5-001.relays.mullvad.net:1080?title=fi-hel-wg-socks5-001&cc=FI&city=Helsinki&color=592dd2&proxyDNS=true
 socks5://fi-hel-wg-socks5-002.relays.mullvad.net:1080?title=fi-hel-wg-socks5-002&cc=FI&city=Helsinki&color=592dd2&proxyDNS=true
 socks5://fi-hel-wg-socks5-003.relays.mullvad.net:1080?title=fi-hel-wg-socks5-003&cc=FI&city=Helsinki&color=592dd2&proxyDNS=true
 socks5://fi-hel-wg-socks5-101.relays.mullvad.net:1080?title=fi-hel-wg-socks5-101&cc=FI&city=Helsinki&color=592dd2&proxyDNS=true
@@ -185,6 +187,7 @@ socks5://nl-ams-wg-socks5-203.relays.mullvad.net:1080?title=nl-ams-wg-socks5-203
 socks5://nl-ams-wg-socks5-301.relays.mullvad.net:1080?title=nl-ams-wg-socks5-301&cc=NL&city=Amsterdam&color=47d22d&proxyDNS=true
 socks5://nl-ams-wg-socks5-302.relays.mullvad.net:1080?title=nl-ams-wg-socks5-302&cc=NL&city=Amsterdam&color=47d22d&proxyDNS=true
 socks5://nl-ams-wg-socks5-303.relays.mullvad.net:1080?title=nl-ams-wg-socks5-303&cc=NL&city=Amsterdam&color=47d22d&proxyDNS=true
+socks5://nl-ams-wg-socks5-402.relays.mullvad.net:1080?title=nl-ams-wg-socks5-402&cc=NL&city=Amsterdam&color=47d22d&proxyDNS=true
 socks5://nz-akl-wg-socks5-301.relays.mullvad.net:1080?title=nz-akl-wg-socks5-301&cc=NZ&city=Auckland&color=2d39d2&proxyDNS=true
 socks5://nz-akl-wg-socks5-302.relays.mullvad.net:1080?title=nz-akl-wg-socks5-302&cc=NZ&city=Auckland&color=2d39d2&proxyDNS=true
 socks5://nz-akl-wg-socks5-303.relays.mullvad.net:1080?title=nz-akl-wg-socks5-303&cc=NZ&city=Auckland&color=2d39d2&proxyDNS=true
@@ -211,6 +214,7 @@ socks5://pl-waw-wg-socks5-201.relays.mullvad.net:1080?title=pl-waw-wg-socks5-201
 socks5://pl-waw-wg-socks5-202.relays.mullvad.net:1080?title=pl-waw-wg-socks5-202&cc=PL&city=Warsaw&color=d0d22d&proxyDNS=true
 socks5://pt-lis-wg-socks5-201.relays.mullvad.net:1080?title=pt-lis-wg-socks5-201&cc=PT&city=Lisbon&color=99d22d&proxyDNS=true
 socks5://pt-lis-wg-socks5-202.relays.mullvad.net:1080?title=pt-lis-wg-socks5-202&cc=PT&city=Lisbon&color=99d22d&proxyDNS=true
+socks5://pt-lis-wg-socks5-301.relays.mullvad.net:1080?title=pt-lis-wg-socks5-301&cc=PT&city=Lisbon&color=99d22d&proxyDNS=true
 socks5://ro-buh-wg-socks5-011.relays.mullvad.net:1080?title=ro-buh-wg-socks5-011&cc=RO&city=Bucharest&color=c8d22d&proxyDNS=true
 socks5://ro-buh-wg-socks5-012.relays.mullvad.net:1080?title=ro-buh-wg-socks5-012&cc=RO&city=Bucharest&color=c8d22d&proxyDNS=true
 socks5://ro-buh-wg-socks5-013.relays.mullvad.net:1080?title=ro-buh-wg-socks5-013&cc=RO&city=Bucharest&color=c8d22d&proxyDNS=true
@@ -230,6 +234,7 @@ socks5://za-jnb-wg-socks5-001.relays.mullvad.net:1080?title=za-jnb-wg-socks5-001
 socks5://za-jnb-wg-socks5-002.relays.mullvad.net:1080?title=za-jnb-wg-socks5-002&cc=ZA&city=Johannesburg&color=63d22d&proxyDNS=true
 socks5://es-bcn-wg-socks5-001.relays.mullvad.net:1080?title=es-bcn-wg-socks5-001&cc=ES&city=Barcelona&color=2d6fd2&proxyDNS=true
 socks5://es-bcn-wg-socks5-002.relays.mullvad.net:1080?title=es-bcn-wg-socks5-002&cc=ES&city=Barcelona&color=2d6fd2&proxyDNS=true
+socks5://es-bcn-wg-socks5-101.relays.mullvad.net:1080?title=es-bcn-wg-socks5-101&cc=ES&city=Barcelona&color=2d6fd2&proxyDNS=true
 socks5://es-bcn-wg-socks5-102.relays.mullvad.net:1080?title=es-bcn-wg-socks5-102&cc=ES&city=Barcelona&color=2d6fd2&proxyDNS=true
 socks5://es-mad-wg-socks5-101.relays.mullvad.net:1080?title=es-mad-wg-socks5-101&cc=ES&city=Madrid&color=2d6fd2&proxyDNS=true
 socks5://es-mad-wg-socks5-102.relays.mullvad.net:1080?title=es-mad-wg-socks5-102&cc=ES&city=Madrid&color=2d6fd2&proxyDNS=true

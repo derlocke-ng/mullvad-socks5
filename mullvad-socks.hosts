@@ -92,6 +92,7 @@
 10.124.0.216 co-bog-wg-socks5-001.relays.mullvad.net
 10.124.0.217 co-bog-wg-socks5-002.relays.mullvad.net
 10.124.1.83 cy-nic-wg-socks5-001.relays.mullvad.net
+10.124.1.84 cy-nic-wg-socks5-002.relays.mullvad.net
 10.124.0.77 cz-prg-wg-socks5-101.relays.mullvad.net
 10.124.0.48 cz-prg-wg-socks5-103.relays.mullvad.net
 10.124.2.57 cz-prg-wg-socks5-201.relays.mullvad.net
@@ -130,6 +131,7 @@
 10.124.2.7 ee-tll-wg-socks5-103.relays.mullvad.net
 10.124.0.252 es-bcn-wg-socks5-001.relays.mullvad.net
 10.124.0.253 es-bcn-wg-socks5-002.relays.mullvad.net
+10.124.1.69 es-bcn-wg-socks5-101.relays.mullvad.net
 10.124.1.70 es-bcn-wg-socks5-102.relays.mullvad.net
 10.124.1.223 es-mad-wg-socks5-101.relays.mullvad.net
 10.124.1.222 es-mad-wg-socks5-102.relays.mullvad.net
@@ -138,6 +140,7 @@
 10.124.1.13 es-mad-wg-socks5-205.relays.mullvad.net
 10.124.1.2 es-vlc-wg-socks5-001.relays.mullvad.net
 10.124.1.3 es-vlc-wg-socks5-002.relays.mullvad.net
+10.124.0.21 fi-hel-wg-socks5-001.relays.mullvad.net
 10.124.0.111 fi-hel-wg-socks5-002.relays.mullvad.net
 10.124.0.112 fi-hel-wg-socks5-003.relays.mullvad.net
 10.124.2.53 fi-hel-wg-socks5-101.relays.mullvad.net
@@ -235,6 +238,7 @@
 10.124.0.244 nl-ams-wg-socks5-301.relays.mullvad.net
 10.124.0.245 nl-ams-wg-socks5-302.relays.mullvad.net
 10.124.1.121 nl-ams-wg-socks5-303.relays.mullvad.net
+10.124.1.48 nl-ams-wg-socks5-402.relays.mullvad.net
 10.124.0.6 no-osl-wg-socks5-001.relays.mullvad.net
 10.124.0.108 no-osl-wg-socks5-002.relays.mullvad.net
 10.124.0.109 no-osl-wg-socks5-003.relays.mullvad.net
@@ -259,6 +263,7 @@
 10.124.2.46 pl-waw-wg-socks5-202.relays.mullvad.net
 10.124.0.198 pt-lis-wg-socks5-201.relays.mullvad.net
 10.124.0.199 pt-lis-wg-socks5-202.relays.mullvad.net
+10.124.1.75 pt-lis-wg-socks5-301.relays.mullvad.net
 10.124.1.25 ro-buh-wg-socks5-011.relays.mullvad.net
 10.124.1.27 ro-buh-wg-socks5-012.relays.mullvad.net
 10.124.2.9 ro-buh-wg-socks5-013.relays.mullvad.net
@@ -615,6 +620,7 @@
 10.124.0.216 co-bog-001.mullvad.home
 10.124.0.217 co-bog-002.mullvad.home
 10.124.1.83 cy-nic-001.mullvad.home
+10.124.1.84 cy-nic-002.mullvad.home
 10.124.0.77 cz-prg-101.mullvad.home
 10.124.0.48 cz-prg-103.mullvad.home
 10.124.2.57 cz-prg-201.mullvad.home
@@ -653,6 +659,7 @@
 10.124.2.7 ee-tll-103.mullvad.home
 10.124.0.252 es-bcn-001.mullvad.home
 10.124.0.253 es-bcn-002.mullvad.home
+10.124.1.69 es-bcn-101.mullvad.home
 10.124.1.70 es-bcn-102.mullvad.home
 10.124.1.223 es-mad-101.mullvad.home
 10.124.1.222 es-mad-102.mullvad.home
@@ -661,6 +668,7 @@
 10.124.1.13 es-mad-205.mullvad.home
 10.124.1.2 es-vlc-001.mullvad.home
 10.124.1.3 es-vlc-002.mullvad.home
+10.124.0.21 fi-hel-001.mullvad.home
 10.124.0.111 fi-hel-002.mullvad.home
 10.124.0.112 fi-hel-003.mullvad.home
 10.124.2.53 fi-hel-101.mullvad.home
@@ -758,6 +766,7 @@
 10.124.0.244 nl-ams-301.mullvad.home
 10.124.0.245 nl-ams-302.mullvad.home
 10.124.1.121 nl-ams-303.mullvad.home
+10.124.1.48 nl-ams-402.mullvad.home
 10.124.0.6 no-osl-001.mullvad.home
 10.124.0.108 no-osl-002.mullvad.home
 10.124.0.109 no-osl-003.mullvad.home
@@ -782,6 +791,7 @@
 10.124.2.46 pl-waw-202.mullvad.home
 10.124.0.198 pt-lis-201.mullvad.home
 10.124.0.199 pt-lis-202.mullvad.home
+10.124.1.75 pt-lis-301.mullvad.home
 10.124.1.25 ro-buh-011.mullvad.home
 10.124.1.27 ro-buh-012.mullvad.home
 10.124.2.9 ro-buh-013.mullvad.home
