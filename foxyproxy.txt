@@ -348,6 +348,9 @@ socks5://10.124.1.137:1080?title=us-atl-wg-socks5-408&cc=US&city=Atlanta%2C%20GA
 socks5://10.124.0.85:1080?title=us-bos-wg-socks5-001&cc=US&city=Boston%2C%20MA&color=2dd2d0&proxyDNS=true
 socks5://10.124.0.127:1080?title=us-bos-wg-socks5-101&cc=US&city=Boston%2C%20MA&color=2dd2d0&proxyDNS=true
 socks5://10.124.0.197:1080?title=us-bos-wg-socks5-102&cc=US&city=Boston%2C%20MA&color=2dd2d0&proxyDNS=true
+socks5://10.124.0.80:1080?title=us-chi-wg-socks5-101&cc=US&city=Chicago%2C%20IL&color=2dd2d0&proxyDNS=true
+socks5://10.124.0.91:1080?title=us-chi-wg-socks5-102&cc=US&city=Chicago%2C%20IL&color=2dd2d0&proxyDNS=true
+socks5://10.124.0.92:1080?title=us-chi-wg-socks5-103&cc=US&city=Chicago%2C%20IL&color=2dd2d0&proxyDNS=true
 socks5://10.124.1.201:1080?title=us-chi-wg-socks5-201&cc=US&city=Chicago%2C%20IL&color=2dd2d0&proxyDNS=true
 socks5://10.124.1.202:1080?title=us-chi-wg-socks5-202&cc=US&city=Chicago%2C%20IL&color=2dd2d0&proxyDNS=true
 socks5://10.124.1.203:1080?title=us-chi-wg-socks5-203&cc=US&city=Chicago%2C%20IL&color=2dd2d0&proxyDNS=true

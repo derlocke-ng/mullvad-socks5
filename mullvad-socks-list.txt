@@ -1,4 +1,4 @@
-Mullvad SOCKS5 proxies: 531 (active relays, resolved names)
+Mullvad SOCKS5 proxies: 534 (active relays, resolved names)
 Reachable only through a Mullvad VPN connection.
 
 flag  country         city                socks5        port  hostname                                 relay          ipv4_in          ipv6_in                    speed  owned  provider
@@ -352,6 +352,9 @@ flag  country         city                socks5        port  hostname          
 🇺🇸    USA             Boston, MA          10.124.0.85   1080  us-bos-wg-socks5-001.relays.mullvad.net  us-bos-wg-001  43.225.189.131   2a06:3040:12:610::a01f     10     no     HostRoyale
 🇺🇸    USA             Boston, MA          10.124.0.127  1080  us-bos-wg-socks5-101.relays.mullvad.net  us-bos-wg-101  149.40.50.98     2a02:6ea0:f901::a01f       10     no     DataPacket
 🇺🇸    USA             Boston, MA          10.124.0.197  1080  us-bos-wg-socks5-102.relays.mullvad.net  us-bos-wg-102  149.40.50.112    2a02:6ea0:f901:1::a02f     10     no     DataPacket
+🇺🇸    USA             Chicago, IL         10.124.0.80   1080  us-chi-wg-socks5-101.relays.mullvad.net  us-chi-wg-101  135.136.54.2     2a0d:5600:144:30::f001     20     no     M247
+🇺🇸    USA             Chicago, IL         10.124.0.91   1080  us-chi-wg-socks5-102.relays.mullvad.net  us-chi-wg-102  135.136.54.130   2a0d:5600:144:31::f001     20     no     M247
+🇺🇸    USA             Chicago, IL         10.124.0.92   1080  us-chi-wg-socks5-103.relays.mullvad.net  us-chi-wg-103  66.234.159.130   2a0d:5600:144:32::f001     20     no     M247
 🇺🇸    USA             Chicago, IL         10.124.1.201  1080  us-chi-wg-socks5-201.relays.mullvad.net  us-chi-wg-201  87.249.134.1     2a02:6ea0:c61f::b63f       10     no     DataPacket
 🇺🇸    USA             Chicago, IL         10.124.1.202  1080  us-chi-wg-socks5-202.relays.mullvad.net  us-chi-wg-202  87.249.134.14    2a02:6ea0:c61f:1::b64f     10     no     DataPacket
 🇺🇸    USA             Chicago, IL         10.124.1.203  1080  us-chi-wg-socks5-203.relays.mullvad.net  us-chi-wg-203  87.249.134.27    2a02:6ea0:c61f:2::f001     10     no     DataPacket
