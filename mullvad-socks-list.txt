@@ -1,4 +1,4 @@
-Mullvad SOCKS5 proxies: 534 (active relays, resolved names)
+Mullvad SOCKS5 proxies: 535 (active relays, resolved names)
 Reachable only through a Mullvad VPN connection.
 
 flag  country         city                socks5        port  hostname                                 relay          ipv4_in          ipv6_in                    speed  owned  provider
@@ -45,6 +45,7 @@ flag  country         city                socks5        port  hostname          
 🇧🇷    Brazil          Fortaleza           10.124.0.12   1080  br-for-wg-socks5-002.relays.mullvad.net  br-for-wg-002  98.98.12.182     2604:980:e007:100::f101    10     no     Zenlayer
 🇧🇷    Brazil          Sao Paulo           10.124.2.31   1080  br-sao-wg-socks5-201.relays.mullvad.net  br-sao-wg-201  169.150.198.66   2a02:6ea0:d00e:1::a01f     10     no     DataPacket
 🇧🇷    Brazil          Sao Paulo           10.124.2.32   1080  br-sao-wg-socks5-202.relays.mullvad.net  br-sao-wg-202  169.150.198.79   2a02:6ea0:d00e:2::a02f     10     no     DataPacket
+🇧🇷    Brazil          Sao Paulo           10.124.1.212  1080  br-sao-wg-socks5-301.relays.mullvad.net  br-sao-wg-301  103.139.178.3    2a06:3040:10:610::f001     10     no     HostRoyale
 🇧🇬    Bulgaria        Sofia               10.124.0.225  1080  bg-sof-wg-socks5-001.relays.mullvad.net  bg-sof-wg-001  146.70.188.130   2001:ac8:30:55::f001       20     no     M247
 🇧🇬    Bulgaria        Sofia               10.124.0.226  1080  bg-sof-wg-socks5-002.relays.mullvad.net  bg-sof-wg-002  135.136.38.2     2001:ac8:30:56::f001       20     no     M247
 🇧🇬    Bulgaria        Sofia               10.124.0.100  1080  bg-sof-wg-socks5-003.relays.mullvad.net  bg-sof-wg-003  146.70.188.2     2001:ac8:30:54::f001       20     no     M247

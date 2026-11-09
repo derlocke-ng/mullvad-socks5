@@ -41,6 +41,7 @@ socks5://br-for-wg-socks5-001.relays.mullvad.net:1080?title=br-for-wg-socks5-001
 socks5://br-for-wg-socks5-002.relays.mullvad.net:1080?title=br-for-wg-socks5-002&cc=BR&city=Fortaleza&color=2dd287&proxyDNS=true
 socks5://br-sao-wg-socks5-201.relays.mullvad.net:1080?title=br-sao-wg-socks5-201&cc=BR&city=Sao%20Paulo&color=2dd287&proxyDNS=true
 socks5://br-sao-wg-socks5-202.relays.mullvad.net:1080?title=br-sao-wg-socks5-202&cc=BR&city=Sao%20Paulo&color=2dd287&proxyDNS=true
+socks5://br-sao-wg-socks5-301.relays.mullvad.net:1080?title=br-sao-wg-socks5-301&cc=BR&city=Sao%20Paulo&color=2dd287&proxyDNS=true
 socks5://bg-sof-wg-socks5-001.relays.mullvad.net:1080?title=bg-sof-wg-socks5-001&cc=BG&city=Sofia&color=9ad22d&proxyDNS=true
 socks5://bg-sof-wg-socks5-002.relays.mullvad.net:1080?title=bg-sof-wg-socks5-002&cc=BG&city=Sofia&color=9ad22d&proxyDNS=true
 socks5://bg-sof-wg-socks5-003.relays.mullvad.net:1080?title=bg-sof-wg-socks5-003&cc=BG&city=Sofia&color=9ad22d&proxyDNS=true
