@@ -792,6 +792,24 @@
     "flag": "🇧🇷"
   },
   {
+    "relay": "br-sao-wg-302",
+    "socks_name": "br-sao-wg-socks5-302.relays.mullvad.net",
+    "socks_port": 1080,
+    "country_code": "BR",
+    "country_name": "Brazil",
+    "city_code": "sao",
+    "city_name": "Sao Paulo",
+    "ipv4_addr_in": "103.139.178.63",
+    "ipv6_addr_in": "2a06:3040:10:610::f101",
+    "provider": "HostRoyale",
+    "owned": false,
+    "speed": 10,
+    "socks_ip": "10.124.2.2",
+    "alias": "br-sao-302.mullvad.home",
+    "reachable": null,
+    "flag": "🇧🇷"
+  },
+  {
     "relay": "bg-sof-wg-001",
     "socks_name": "bg-sof-wg-socks5-001.relays.mullvad.net",
     "socks_port": 1080,
