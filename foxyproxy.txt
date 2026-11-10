@@ -221,6 +221,8 @@ socks5://10.124.1.75:1080?title=pt-lis-wg-socks5-301&cc=PT&city=Lisbon&color=99d
 socks5://10.124.1.25:1080?title=ro-buh-wg-socks5-011&cc=RO&city=Bucharest&color=c8d22d&proxyDNS=true
 socks5://10.124.1.27:1080?title=ro-buh-wg-socks5-012&cc=RO&city=Bucharest&color=c8d22d&proxyDNS=true
 socks5://10.124.2.9:1080?title=ro-buh-wg-socks5-013&cc=RO&city=Bucharest&color=c8d22d&proxyDNS=true
+socks5://10.124.0.121:1080?title=rs-beg-wg-socks5-101&cc=RS&city=Belgrade&color=522dd2&proxyDNS=true
+socks5://10.124.0.122:1080?title=rs-beg-wg-socks5-102&cc=RS&city=Belgrade&color=522dd2&proxyDNS=true
 socks5://10.124.1.244:1080?title=sg-sin-wg-socks5-001&cc=SG&city=Singapore&color=d2612d&proxyDNS=true
 socks5://10.124.1.245:1080?title=sg-sin-wg-socks5-002&cc=SG&city=Singapore&color=d2612d&proxyDNS=true
 socks5://10.124.1.246:1080?title=sg-sin-wg-socks5-003&cc=SG&city=Singapore&color=d2612d&proxyDNS=true

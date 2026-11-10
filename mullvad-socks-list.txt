@@ -1,4 +1,4 @@
-Mullvad SOCKS5 proxies: 532 (active relays, resolved names)
+Mullvad SOCKS5 proxies: 534 (active relays, resolved names)
 Reachable only through a Mullvad VPN connection.
 
 flag  country         city                socks5        port  hostname                                 relay          ipv4_in          ipv6_in                    speed  owned  provider
@@ -225,6 +225,8 @@ flag  country         city                socks5        port  hostname          
 🇷🇴    Romania         Bucharest           10.124.1.25   1080  ro-buh-wg-socks5-011.relays.mullvad.net  ro-buh-wg-011  37.120.246.130   2a04:9dc0:0:136::f001      20     no     M247
 🇷🇴    Romania         Bucharest           10.124.1.27   1080  ro-buh-wg-socks5-012.relays.mullvad.net  ro-buh-wg-012  135.136.63.2     2a04:9dc0:0:135::f001      20     no     M247
 🇷🇴    Romania         Bucharest           10.124.2.9    1080  ro-buh-wg-socks5-013.relays.mullvad.net  ro-buh-wg-013  135.136.63.130   2a04:9dc0:0:134::f001      20     no     M247
+🇷🇸    Serbia          Belgrade            10.124.0.121  1080  rs-beg-wg-socks5-101.relays.mullvad.net  rs-beg-wg-101  146.70.193.2     2001:ac8:7d:37::f001       20     no     M247
+🇷🇸    Serbia          Belgrade            10.124.0.122  1080  rs-beg-wg-socks5-102.relays.mullvad.net  rs-beg-wg-102  146.70.193.130   2001:ac8:7d:38::f001       10     no     M247
 🇸🇬    Singapore       Singapore           10.124.1.244  1080  sg-sin-wg-socks5-001.relays.mullvad.net  sg-sin-wg-001  138.199.60.2     2a02:6ea0:d13e:1::a09f     10     no     DataPacket
 🇸🇬    Singapore       Singapore           10.124.1.245  1080  sg-sin-wg-socks5-002.relays.mullvad.net  sg-sin-wg-002  138.199.60.15    2a02:6ea0:d13e:2::a10f     10     no     DataPacket
 🇸🇬    Singapore       Singapore           10.124.1.246  1080  sg-sin-wg-socks5-003.relays.mullvad.net  sg-sin-wg-003  138.199.60.28    2a02:6ea0:d13e:3::a11f     10     no     DataPacket
