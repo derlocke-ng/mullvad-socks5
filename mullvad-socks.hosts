@@ -24,8 +24,6 @@
 10.124.0.95 au-per-wg-socks5-001.relays.mullvad.net
 10.124.0.102 au-per-wg-socks5-002.relays.mullvad.net
 10.124.0.120 au-per-wg-socks5-003.relays.mullvad.net
-10.124.1.55 au-per-wg-socks5-301.relays.mullvad.net
-10.124.1.57 au-per-wg-socks5-302.relays.mullvad.net
 10.124.0.36 au-syd-wg-socks5-001.relays.mullvad.net
 10.124.0.37 au-syd-wg-socks5-002.relays.mullvad.net
 10.124.0.42 au-syd-wg-socks5-003.relays.mullvad.net
@@ -272,8 +270,6 @@
 10.124.1.25 ro-buh-wg-socks5-011.relays.mullvad.net
 10.124.1.27 ro-buh-wg-socks5-012.relays.mullvad.net
 10.124.2.9 ro-buh-wg-socks5-013.relays.mullvad.net
-10.124.0.33 rs-beg-wg-socks5-101.relays.mullvad.net
-10.124.0.73 rs-beg-wg-socks5-102.relays.mullvad.net
 10.124.0.20 se-got-wg-socks5-001.relays.mullvad.net
 10.124.0.49 se-got-wg-socks5-002.relays.mullvad.net
 10.124.0.152 se-got-wg-socks5-003.relays.mullvad.net
@@ -560,8 +556,6 @@
 10.124.0.95 au-per-001.mullvad.home
 10.124.0.102 au-per-002.mullvad.home
 10.124.0.120 au-per-003.mullvad.home
-10.124.1.55 au-per-301.mullvad.home
-10.124.1.57 au-per-302.mullvad.home
 10.124.0.36 au-syd-001.mullvad.home
 10.124.0.37 au-syd-002.mullvad.home
 10.124.0.42 au-syd-003.mullvad.home
@@ -808,8 +802,6 @@
 10.124.1.25 ro-buh-011.mullvad.home
 10.124.1.27 ro-buh-012.mullvad.home
 10.124.2.9 ro-buh-013.mullvad.home
-10.124.0.33 rs-beg-101.mullvad.home
-10.124.0.73 rs-beg-102.mullvad.home
 10.124.0.20 se-got-001.mullvad.home
 10.124.0.49 se-got-002.mullvad.home
 10.124.0.152 se-got-003.mullvad.home

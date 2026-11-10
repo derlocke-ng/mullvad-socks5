@@ -16,8 +16,6 @@ socks5://10.124.2.107:1080?title=au-mel-wg-socks5-403&cc=AU&city=Melbourne&color
 socks5://10.124.0.95:1080?title=au-per-wg-socks5-001&cc=AU&city=Perth&color=2d48d2&proxyDNS=true
 socks5://10.124.0.102:1080?title=au-per-wg-socks5-002&cc=AU&city=Perth&color=2d48d2&proxyDNS=true
 socks5://10.124.0.120:1080?title=au-per-wg-socks5-003&cc=AU&city=Perth&color=2d48d2&proxyDNS=true
-socks5://10.124.1.55:1080?title=au-per-wg-socks5-301&cc=AU&city=Perth&color=2d48d2&proxyDNS=true
-socks5://10.124.1.57:1080?title=au-per-wg-socks5-302&cc=AU&city=Perth&color=2d48d2&proxyDNS=true
 socks5://10.124.0.36:1080?title=au-syd-wg-socks5-001&cc=AU&city=Sydney&color=2d48d2&proxyDNS=true
 socks5://10.124.0.37:1080?title=au-syd-wg-socks5-002&cc=AU&city=Sydney&color=2d48d2&proxyDNS=true
 socks5://10.124.0.42:1080?title=au-syd-wg-socks5-003&cc=AU&city=Sydney&color=2d48d2&proxyDNS=true
@@ -223,8 +221,6 @@ socks5://10.124.1.75:1080?title=pt-lis-wg-socks5-301&cc=PT&city=Lisbon&color=99d
 socks5://10.124.1.25:1080?title=ro-buh-wg-socks5-011&cc=RO&city=Bucharest&color=c8d22d&proxyDNS=true
 socks5://10.124.1.27:1080?title=ro-buh-wg-socks5-012&cc=RO&city=Bucharest&color=c8d22d&proxyDNS=true
 socks5://10.124.2.9:1080?title=ro-buh-wg-socks5-013&cc=RO&city=Bucharest&color=c8d22d&proxyDNS=true
-socks5://10.124.0.33:1080?title=rs-beg-wg-socks5-101&cc=RS&city=Belgrade&color=522dd2&proxyDNS=true
-socks5://10.124.0.73:1080?title=rs-beg-wg-socks5-102&cc=RS&city=Belgrade&color=522dd2&proxyDNS=true
 socks5://10.124.1.244:1080?title=sg-sin-wg-socks5-001&cc=SG&city=Singapore&color=d2612d&proxyDNS=true
 socks5://10.124.1.245:1080?title=sg-sin-wg-socks5-002&cc=SG&city=Singapore&color=d2612d&proxyDNS=true
 socks5://10.124.1.246:1080?title=sg-sin-wg-socks5-003&cc=SG&city=Singapore&color=d2612d&proxyDNS=true
