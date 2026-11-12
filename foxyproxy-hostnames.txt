@@ -425,7 +425,6 @@ socks5://us-lax-wg-socks5-005.relays.mullvad.net:1080?title=us-lax-wg-socks5-005
 socks5://us-lax-wg-socks5-006.relays.mullvad.net:1080?title=us-lax-wg-socks5-006&cc=US&city=Los%20Angeles%2C%20CA&color=2dd2d0&proxyDNS=true
 socks5://us-lax-wg-socks5-007.relays.mullvad.net:1080?title=us-lax-wg-socks5-007&cc=US&city=Los%20Angeles%2C%20CA&color=2dd2d0&proxyDNS=true
 socks5://us-lax-wg-socks5-008.relays.mullvad.net:1080?title=us-lax-wg-socks5-008&cc=US&city=Los%20Angeles%2C%20CA&color=2dd2d0&proxyDNS=true
-socks5://us-lax-wg-socks5-201.relays.mullvad.net:1080?title=us-lax-wg-socks5-201&cc=US&city=Los%20Angeles%2C%20CA&color=2dd2d0&proxyDNS=true
 socks5://us-lax-wg-socks5-202.relays.mullvad.net:1080?title=us-lax-wg-socks5-202&cc=US&city=Los%20Angeles%2C%20CA&color=2dd2d0&proxyDNS=true
 socks5://us-lax-wg-socks5-203.relays.mullvad.net:1080?title=us-lax-wg-socks5-203&cc=US&city=Los%20Angeles%2C%20CA&color=2dd2d0&proxyDNS=true
 socks5://us-lax-wg-socks5-401.relays.mullvad.net:1080?title=us-lax-wg-socks5-401&cc=US&city=Los%20Angeles%2C%20CA&color=2dd2d0&proxyDNS=true

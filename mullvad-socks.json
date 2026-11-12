@@ -7686,24 +7686,6 @@
     "flag": "🇺🇸"
   },
   {
-    "relay": "us-lax-wg-201",
-    "socks_name": "us-lax-wg-socks5-201.relays.mullvad.net",
-    "socks_port": 1080,
-    "country_code": "US",
-    "country_name": "USA",
-    "city_code": "lax",
-    "city_name": "Los Angeles, CA",
-    "ipv4_addr_in": "169.150.203.2",
-    "ipv6_addr_in": "2a02:6ea0:c859:1::a01f",
-    "provider": "DataPacket",
-    "owned": false,
-    "speed": 10,
-    "socks_ip": "10.124.0.83",
-    "alias": "us-lax-201.mullvad.home",
-    "reachable": null,
-    "flag": "🇺🇸"
-  },
-  {
     "relay": "us-lax-wg-202",
     "socks_name": "us-lax-wg-socks5-202.relays.mullvad.net",
     "socks_port": 1080,

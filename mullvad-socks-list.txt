@@ -1,4 +1,4 @@
-Mullvad SOCKS5 proxies: 533 (active relays, resolved names)
+Mullvad SOCKS5 proxies: 532 (active relays, resolved names)
 Reachable only through a Mullvad VPN connection.
 
 flag  country         city                socks5        port  hostname                                 relay          ipv4_in          ipv6_in                    speed  owned  provider
@@ -429,7 +429,6 @@ flag  country         city                socks5        port  hostname          
 🇺🇸    USA             Los Angeles, CA     10.124.2.112  1080  us-lax-wg-socks5-006.relays.mullvad.net  us-lax-wg-006  23.234.74.127    2607:9000:300:36::f001     20     no     Tzulo
 🇺🇸    USA             Los Angeles, CA     10.124.2.113  1080  us-lax-wg-socks5-007.relays.mullvad.net  us-lax-wg-007  23.234.75.2      2607:9000:300:37::f001     20     no     Tzulo
 🇺🇸    USA             Los Angeles, CA     10.124.2.114  1080  us-lax-wg-socks5-008.relays.mullvad.net  us-lax-wg-008  23.234.75.127    2607:9000:300:38::f001     20     no     Tzulo
-🇺🇸    USA             Los Angeles, CA     10.124.0.83   1080  us-lax-wg-socks5-201.relays.mullvad.net  us-lax-wg-201  169.150.203.2    2a02:6ea0:c859:1::a01f     10     no     DataPacket
 🇺🇸    USA             Los Angeles, CA     10.124.2.29   1080  us-lax-wg-socks5-202.relays.mullvad.net  us-lax-wg-202  169.150.203.15   2a02:6ea0:c859:2::a02f     10     no     DataPacket
 🇺🇸    USA             Los Angeles, CA     10.124.2.30   1080  us-lax-wg-socks5-203.relays.mullvad.net  us-lax-wg-203  169.150.203.28   2a02:6ea0:c859:3::a03f     10     no     DataPacket
 🇺🇸    USA             Los Angeles, CA     10.124.0.101  1080  us-lax-wg-socks5-401.relays.mullvad.net  us-lax-wg-401  146.70.173.2     2a0d:5600:8:4::f001        20     no     M247
