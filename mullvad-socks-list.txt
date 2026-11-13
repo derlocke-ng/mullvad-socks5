@@ -1,4 +1,4 @@
-Mullvad SOCKS5 proxies: 532 (active relays, resolved names)
+Mullvad SOCKS5 proxies: 530 (active relays, resolved names)
 Reachable only through a Mullvad VPN connection.
 
 flag  country         city                socks5        port  hostname                                 relay          ipv4_in          ipv6_in                    speed  owned  provider
@@ -319,8 +319,6 @@ flag  country         city                socks5        port  hostname          
 🇬🇧    UK              London              10.124.1.117  1080  gb-lon-wg-socks5-308.relays.mullvad.net  gb-lon-wg-308  135.136.58.130   2a04:9dc0:18:73::f001      29     no     M247
 🇬🇧    UK              Manchester          10.124.0.31   1080  gb-mnc-wg-socks5-001.relays.mullvad.net  gb-mnc-wg-001  146.70.132.2     2001:ac8:8b:104::f001      20     no     M247
 🇬🇧    UK              Manchester          10.124.0.32   1080  gb-mnc-wg-socks5-002.relays.mullvad.net  gb-mnc-wg-002  135.136.22.2     2001:ac8:8b:105::f001      20     no     M247
-🇬🇧    UK              Manchester          10.124.0.34   1080  gb-mnc-wg-socks5-003.relays.mullvad.net  gb-mnc-wg-003  135.136.22.130   2001:ac8:8b:106::f001      20     no     M247
-🇬🇧    UK              Manchester          10.124.0.88   1080  gb-mnc-wg-socks5-004.relays.mullvad.net  gb-mnc-wg-004  135.136.21.2     2001:ac8:8b:107::f001      20     no     M247
 🇬🇧    UK              Manchester          10.124.1.163  1080  gb-mnc-wg-socks5-202.relays.mullvad.net  gb-mnc-wg-202  167.160.13.127   2a03:ee40:3304::f101       10     no     Veloxserv
 🇺🇦    Ukraine         Kyiv                10.124.0.25   1080  ua-iev-wg-socks5-001.relays.mullvad.net  ua-iev-wg-001  149.102.240.79   2a02:6ea0:e109:2::a01f     10     no     DataPacket
 🇺🇦    Ukraine         Kyiv                10.124.0.195  1080  ua-iev-wg-socks5-002.relays.mullvad.net  ua-iev-wg-002  149.102.240.66   2a02:6ea0:e109:1::a02f     10     no     DataPacket

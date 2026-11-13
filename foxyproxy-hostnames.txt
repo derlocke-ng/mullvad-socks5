@@ -315,8 +315,6 @@ socks5://gb-lon-wg-socks5-306.relays.mullvad.net:1080?title=gb-lon-wg-socks5-306
 socks5://gb-lon-wg-socks5-308.relays.mullvad.net:1080?title=gb-lon-wg-socks5-308&cc=GB&city=London&color=d22d4c&proxyDNS=true
 socks5://gb-mnc-wg-socks5-001.relays.mullvad.net:1080?title=gb-mnc-wg-socks5-001&cc=GB&city=Manchester&color=d22d4c&proxyDNS=true
 socks5://gb-mnc-wg-socks5-002.relays.mullvad.net:1080?title=gb-mnc-wg-socks5-002&cc=GB&city=Manchester&color=d22d4c&proxyDNS=true
-socks5://gb-mnc-wg-socks5-003.relays.mullvad.net:1080?title=gb-mnc-wg-socks5-003&cc=GB&city=Manchester&color=d22d4c&proxyDNS=true
-socks5://gb-mnc-wg-socks5-004.relays.mullvad.net:1080?title=gb-mnc-wg-socks5-004&cc=GB&city=Manchester&color=d22d4c&proxyDNS=true
 socks5://gb-mnc-wg-socks5-202.relays.mullvad.net:1080?title=gb-mnc-wg-socks5-202&cc=GB&city=Manchester&color=d22d4c&proxyDNS=true
 socks5://ua-iev-wg-socks5-001.relays.mullvad.net:1080?title=ua-iev-wg-socks5-001&cc=UA&city=Kyiv&color=2d58d2&proxyDNS=true
 socks5://ua-iev-wg-socks5-002.relays.mullvad.net:1080?title=ua-iev-wg-socks5-002&cc=UA&city=Kyiv&color=2d58d2&proxyDNS=true
