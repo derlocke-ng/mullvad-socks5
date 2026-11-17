@@ -4500,24 +4500,6 @@
     "flag": "🇸🇪"
   },
   {
-    "relay": "se-got-wg-006",
-    "socks_name": "se-got-wg-socks5-006.relays.mullvad.net",
-    "socks_port": 1080,
-    "country_code": "SE",
-    "country_name": "Sweden",
-    "city_code": "got",
-    "city_name": "Gothenburg",
-    "ipv4_addr_in": "185.209.199.7",
-    "ipv6_addr_in": "2a03:1b20:5:f011:6::f001",
-    "provider": "31173",
-    "owned": true,
-    "speed": 20,
-    "socks_ip": "10.124.1.56",
-    "alias": "se-got-006.mullvad.home",
-    "reachable": null,
-    "flag": "🇸🇪"
-  },
-  {
     "relay": "se-got-wg-007",
     "socks_name": "se-got-wg-socks5-007.relays.mullvad.net",
     "socks_port": 1080,
