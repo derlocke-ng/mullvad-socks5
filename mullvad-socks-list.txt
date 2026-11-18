@@ -1,4 +1,4 @@
-Mullvad SOCKS5 proxies: 525 (active relays, resolved names)
+Mullvad SOCKS5 proxies: 528 (active relays, resolved names)
 Reachable only through a Mullvad VPN connection.
 
 flag  country         city                socks5        port  hostname                                 relay          ipv4_in          ipv6_in                    speed  owned  provider
@@ -238,6 +238,9 @@ flag  country         city                socks5        port  hostname          
 🇿🇦    South Africa    Johannesburg        10.124.2.60   1080  za-jnb-wg-socks5-002.relays.mullvad.net  za-jnb-wg-002  154.47.30.143    2a02:6ea0:f207::f001       10     no     DataPacket
 🇪🇸    Spain           Barcelona           10.124.0.252  1080  es-bcn-wg-socks5-001.relays.mullvad.net  es-bcn-wg-001  185.188.61.195   2a06:3040:2:210::f001      10     no     HostRoyale
 🇪🇸    Spain           Barcelona           10.124.0.253  1080  es-bcn-wg-socks5-002.relays.mullvad.net  es-bcn-wg-002  185.188.61.225   2a06:3040:2:210::f101      10     no     HostRoyale
+🇪🇸    Spain           Barcelona           10.124.0.33   1080  es-bcn-wg-socks5-101.relays.mullvad.net  es-bcn-wg-101  146.70.22.130    2001:ac8:35:1::f001        20     no     M247
+🇪🇸    Spain           Barcelona           10.124.0.73   1080  es-bcn-wg-socks5-102.relays.mullvad.net  es-bcn-wg-102  135.136.126.2    2001:ac8:17:20::f001       20     no     M247
+🇪🇸    Spain           Barcelona           10.124.0.123  1080  es-bcn-wg-socks5-103.relays.mullvad.net  es-bcn-wg-103  135.136.126.130  2001:ac8:17:30::f001       20     no     M247
 🇪🇸    Spain           Madrid              10.124.1.223  1080  es-mad-wg-socks5-101.relays.mullvad.net  es-mad-wg-101  45.134.213.194   2a02:6ea0:c318:1::a06f     10     no     DataPacket
 🇪🇸    Spain           Madrid              10.124.1.222  1080  es-mad-wg-socks5-102.relays.mullvad.net  es-mad-wg-102  45.134.213.207   2a02:6ea0:c318:2::a07f     10     no     DataPacket
 🇪🇸    Spain           Madrid              10.124.2.8    1080  es-mad-wg-socks5-203.relays.mullvad.net  es-mad-wg-203  146.70.74.98     2001:ac8:23:84::f001       20     no     M247
