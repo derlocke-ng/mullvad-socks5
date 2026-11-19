@@ -161,6 +161,9 @@ socks5://il-tlv-wg-socks5-103.relays.mullvad.net:1080?title=il-tlv-wg-socks5-103
 socks5://it-mil-wg-socks5-001.relays.mullvad.net:1080?title=it-mil-wg-socks5-001&cc=IT&city=Milan&color=542dd2&proxyDNS=true
 socks5://it-mil-wg-socks5-002.relays.mullvad.net:1080?title=it-mil-wg-socks5-002&cc=IT&city=Milan&color=542dd2&proxyDNS=true
 socks5://it-mil-wg-socks5-003.relays.mullvad.net:1080?title=it-mil-wg-socks5-003&cc=IT&city=Milan&color=542dd2&proxyDNS=true
+socks5://it-mil-wg-socks5-201.relays.mullvad.net:1080?title=it-mil-wg-socks5-201&cc=IT&city=Milan&color=542dd2&proxyDNS=true
+socks5://it-mil-wg-socks5-202.relays.mullvad.net:1080?title=it-mil-wg-socks5-202&cc=IT&city=Milan&color=542dd2&proxyDNS=true
+socks5://it-mil-wg-socks5-203.relays.mullvad.net:1080?title=it-mil-wg-socks5-203&cc=IT&city=Milan&color=542dd2&proxyDNS=true
 socks5://it-pmo-wg-socks5-001.relays.mullvad.net:1080?title=it-pmo-wg-socks5-001&cc=IT&city=Palermo&color=542dd2&proxyDNS=true
 socks5://it-pmo-wg-socks5-002.relays.mullvad.net:1080?title=it-pmo-wg-socks5-002&cc=IT&city=Palermo&color=542dd2&proxyDNS=true
 socks5://jp-osa-wg-socks5-101.relays.mullvad.net:1080?title=jp-osa-wg-socks5-101&cc=JP&city=Osaka&color=d29a2d&proxyDNS=true

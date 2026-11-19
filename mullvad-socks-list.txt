@@ -1,4 +1,4 @@
-Mullvad SOCKS5 proxies: 528 (active relays, resolved names)
+Mullvad SOCKS5 proxies: 531 (active relays, resolved names)
 Reachable only through a Mullvad VPN connection.
 
 flag  country         city                socks5        port  hostname                                 relay          ipv4_in          ipv6_in                    speed  owned  provider
@@ -165,6 +165,9 @@ flag  country         city                socks5        port  hostname          
 🇮🇹    Italy           Milan               10.124.1.206  1080  it-mil-wg-socks5-001.relays.mullvad.net  it-mil-wg-001  178.249.211.66   2a02:6ea0:d509:1::a09f     10     no     DataPacket
 🇮🇹    Italy           Milan               10.124.1.207  1080  it-mil-wg-socks5-002.relays.mullvad.net  it-mil-wg-002  178.249.211.79   2a02:6ea0:d509:2::a10f     10     no     DataPacket
 🇮🇹    Italy           Milan               10.124.1.208  1080  it-mil-wg-socks5-003.relays.mullvad.net  it-mil-wg-003  178.249.211.92   2a02:6ea0:d509:3::a11f     10     no     DataPacket
+🇮🇹    Italy           Milan               10.124.0.138  1080  it-mil-wg-socks5-201.relays.mullvad.net  it-mil-wg-201  146.70.225.2     2001:ac8:24:17::f001       20     no     M247
+🇮🇹    Italy           Milan               10.124.0.139  1080  it-mil-wg-socks5-202.relays.mullvad.net  it-mil-wg-202  146.70.225.130   2001:ac8:24:19::f001       20     no     M247
+🇮🇹    Italy           Milan               10.124.0.140  1080  it-mil-wg-socks5-203.relays.mullvad.net  it-mil-wg-203  135.136.125.2    2001:ac8:24:1a::f001       20     no     M247
 🇮🇹    Italy           Palermo             10.124.1.67   1080  it-pmo-wg-socks5-001.relays.mullvad.net  it-pmo-wg-001  149.22.91.66     2a02:6ea0:4f00::f001       10     no     DataPacket
 🇮🇹    Italy           Palermo             10.124.1.68   1080  it-pmo-wg-socks5-002.relays.mullvad.net  it-pmo-wg-002  149.22.91.79     2a02:6ea0:4f00::f101       10     no     DataPacket
 🇯🇵    Japan           Osaka               10.124.0.56   1080  jp-osa-wg-socks5-101.relays.mullvad.net  jp-osa-wg-101  194.127.166.2    2a07:d883:600:1::f001      100    yes    xtom
