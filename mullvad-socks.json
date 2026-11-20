@@ -6786,24 +6786,6 @@
     "flag": "🇺🇸"
   },
   {
-    "relay": "us-dal-wg-602",
-    "socks_name": "us-dal-wg-socks5-602.relays.mullvad.net",
-    "socks_port": 1080,
-    "country_code": "US",
-    "country_name": "USA",
-    "city_code": "dal",
-    "city_name": "Dallas, TX",
-    "ipv4_addr_in": "103.102.246.127",
-    "ipv6_addr_in": "2a01:4740:2::f101",
-    "provider": "HostRoyale",
-    "owned": false,
-    "speed": 10,
-    "socks_ip": "10.124.1.172",
-    "alias": "us-dal-602.mullvad.home",
-    "reachable": null,
-    "flag": "🇺🇸"
-  },
-  {
     "relay": "us-dal-wg-603",
     "socks_name": "us-dal-wg-socks5-603.relays.mullvad.net",
     "socks_port": 1080,

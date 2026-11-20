@@ -375,7 +375,6 @@ socks5://us-dal-wg-socks5-401.relays.mullvad.net:1080?title=us-dal-wg-socks5-401
 socks5://us-dal-wg-socks5-402.relays.mullvad.net:1080?title=us-dal-wg-socks5-402&cc=US&city=Dallas%2C%20TX&color=2dd2d0&proxyDNS=true
 socks5://us-dal-wg-socks5-403.relays.mullvad.net:1080?title=us-dal-wg-socks5-403&cc=US&city=Dallas%2C%20TX&color=2dd2d0&proxyDNS=true
 socks5://us-dal-wg-socks5-601.relays.mullvad.net:1080?title=us-dal-wg-socks5-601&cc=US&city=Dallas%2C%20TX&color=2dd2d0&proxyDNS=true
-socks5://us-dal-wg-socks5-602.relays.mullvad.net:1080?title=us-dal-wg-socks5-602&cc=US&city=Dallas%2C%20TX&color=2dd2d0&proxyDNS=true
 socks5://us-dal-wg-socks5-603.relays.mullvad.net:1080?title=us-dal-wg-socks5-603&cc=US&city=Dallas%2C%20TX&color=2dd2d0&proxyDNS=true
 socks5://us-dal-wg-socks5-604.relays.mullvad.net:1080?title=us-dal-wg-socks5-604&cc=US&city=Dallas%2C%20TX&color=2dd2d0&proxyDNS=true
 socks5://us-dal-wg-socks5-701.relays.mullvad.net:1080?title=us-dal-wg-socks5-701&cc=US&city=Dallas%2C%20TX&color=2dd2d0&proxyDNS=true
